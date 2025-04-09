@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Welcome to METRICS-E3
 
-METRICS-E3 is the official Explanation and Elaboration companion to the METRICS checklist. Developed by the EuSoMII Radiomics Auditing Group, METRICS-E3 is specifically crafted to help researchers deeply understand and evaluate the methodological quality of radiomics research. It provides detailed explanations, real-world positive examples from published literature, and illustrative negative examples, enhancing clarity and comprehension of each checklist item.  
+METRICS-E3 is the official Explanation and Elaboration companion to the METRICS tool. Developed by the EuSoMII Radiomics Auditing Group, METRICS-E3 is specifically crafted to help researchers deeply understand and evaluate the methodological quality of radiomics research. It provides detailed explanations, real-world positive examples from published literature, and illustrative negative examples, enhancing clarity and comprehension of each checklist item.  
 
 Explore the full METRICS-E3 statement [here]().
 
