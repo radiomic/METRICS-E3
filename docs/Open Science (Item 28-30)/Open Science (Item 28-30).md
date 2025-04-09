@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Open Science
+title: 9. Open Science
 nav_order: 18
 has_children: true
 ---
