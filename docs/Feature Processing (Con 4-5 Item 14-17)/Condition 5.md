@@ -1,6 +1,6 @@
 ---
-title: Item#8
+title: Condition#5
 layout: home
-parent: 3. Segmentation
-nav_order: 3
+parent: 5. Feature Processing
+nav_order: 2
 ---

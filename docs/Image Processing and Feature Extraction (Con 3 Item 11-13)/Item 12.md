@@ -1,6 +1,6 @@
 ---
-title: Item#8
+title: Item#12
 layout: home
-parent: 3. Segmentation
+parent: 4. Image Processing and Feature Extraction
 nav_order: 3
 ---
