@@ -14,11 +14,12 @@ You can access the METRICS-E3 statement [here].
 ## What is METRICS?
 
 METRICS stands for METhodological RadiomICs Score—a structured tool for assessing the quality of radiomics studies. It was transparently developed through a rigorous expert consensus process involving a diverse international panel, and is officially endorsed by EuSoMII.
+
 You can access the METRICS statement [here].
 
 ## What to Expect from METRICS-E3
 
-METRICS-E3 is more than a supplementary document—it offers detailed explanations, commentary, and examples for each METRICS item. For every checklist element, you’ll find:
+METRICS-E3 is more than a supplementary document—it offers detailed explanations, commentary, and examples for each METRICS item. For every checklist element, you will find:
 - A concise rationale explaining why it matters,
 - Positive examples drawn from published studies,
 - Hypothetical negative examples for contrast,
