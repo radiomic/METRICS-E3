@@ -1,6 +1,6 @@
 ---
 title: Item#8
 layout: home
-parent: 3. Segmentation
+parent: 7. Metrics and Comparison
 nav_order: 3
 ---
