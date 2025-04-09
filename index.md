@@ -14,27 +14,24 @@ Explore the full METRICS-E3 statement [here].
 
 ## What is METRICS?
 
-METRICS, short for METhodological RadiomICs Score, is a structured tool developed to assess the quality of radiomics studies. Created through a transparent, expert-led consensus involving a diverse international panel, METRICS is officially endorsed by the European Society of Medical Imaging Informatics (EuSoMII). It is designed not as a mere reporting tool, but as a robust quality evaluation instrument that guides methodological rigor in radiomics.  
+METRICS, short for METhodological RadiomICs Score, is a structured tool developed to assess the quality of radiomics studies. Created through a transparent, expert-led consensus involving a diverse international panel, METRICS was officially endorsed by the European Society of Medical Imaging Informatics (EuSoMII). It was designed as a robust quality evaluation instrument that guides methodological rigor in radiomics.  
 
 Access the complete METRICS statement [here].
 
-## How METRICS-E3 Enhances Your Research
+## What to Expect from METRICS-E3?
 
-METRICS-E3 goes beyond simple commentary by providing comprehensive support to researchers:
+METRICS-E3 is more than a supplementary document—it offers detailed explanations, elaborations, and examples for each METRICS item and condition. For every element, you will find:  
 
-- Concise Rationales: Clear explanations about why each checklist item matters for methodological quality.
+- A concise rationale explaining why it matters,
+- Positive examples drawn from published studies,
+- Hypothetical negative examples for contrast,
+- Guidance on how to score the item appropriately.  
 
-- Positive Illustrations: Real-world examples from published studies highlighting best practices.
-
-- Hypothetical Negative Examples: Illustrative scenarios demonstrating common pitfalls to avoid.
-
-- Guided Scoring: Practical advice for logical, consistent, and reproducible scoring of each METRICS item.  
-
-These resources collectively ensure METRICS is applied effectively and consistently, enhancing the transparency and reproducibility of radiomics research.
+These resources collectively ensure METRICS is applied effectively and consistently.
 
 ## Maximizing the Value of METRICS-E3
 
-To fully leverage METRICS-E3, we encourage reviewing the dedicated guidance section titled “Recommendations for using METRICS-E3 along with METRICS”. This targeted advice will help you seamlessly integrate METRICS-E3 into your evaluation process, raising the overall methodological standards of your research.
+To fully leverage METRICS-E3, we encourage reviewing the dedicated statement section titled “Recommendations for using METRICS-E3 along with METRICS”. This targeted advice will help you better integrate METRICS-E3 into your evaluation process.
 
 ## Citing METRICS-E3
 
