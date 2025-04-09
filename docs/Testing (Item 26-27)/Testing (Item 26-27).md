@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Testing (Item 26-27)
+title: Testing
 nav_order: 17
 has_children: true
 ---

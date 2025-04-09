@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Open Science (Item 28-30)
+title: Open Science
 nav_order: 18
 has_children: true
 ---

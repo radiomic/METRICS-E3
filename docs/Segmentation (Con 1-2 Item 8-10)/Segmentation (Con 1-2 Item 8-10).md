@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Segmentation (Con 1-2; Item 8-10)
+title: Segmentation
 nav_order: 12
 has_children: true
 ---
