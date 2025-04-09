@@ -13,8 +13,10 @@ nav_order: 2
 
 
 ### Positive examples from the literature
-> **Example #1:** “Patients who had undergone BCa surgical excision were verified pathologically and were treated at two different institutions between January 2014 and September 2019. […] The inclusion criteria were as follows: (1) For BCa, the availability of pathological data; (2) for lesion evaluation, complete CT images of all four phases of the CTU examination; and (3) CT examinations performed within 30 days before surgery. The exclusion criteria were: (1) Poor image quality of the CT or preoperative CTU; (2) lesions with hard-to-define edges; (3) if the patient received immunotherapy or chemotherapy before the CT; and (4) missing clinico-pathological data on the patient.” [2] (licensed under CC BY)
+> **Example #1:** “Patients who had undergone BCa surgical excision were verified pathologically and were treated at two different institutions between January 2014 and September 2019. […] The inclusion criteria were as follows: (1) For BCa, the availability of pathological data; (2) for lesion evaluation, complete CT images of all four phases of the CTU examination; and (3) CT examinations performed within 30 days before surgery. The exclusion criteria were: (1) Poor image quality of the CT or preoperative CTU; (2) lesions with hard-to-define edges; (3) if the patient received immunotherapy or chemotherapy before the CT; and (4) missing clinico-pathological data on the patient.” [2] (licensed under CC BY)  
+>
 > **Example #2:** “All consecutive patients with a single renal mass referred to the Urology Department of Pisa University Hospital and underwent CECT before surgical treatment between January 2016 and December 2020 were considered eligible for this retrospective study. The inclusion criteria were as follows: having been diagnosed at CECT with a T1a renal mass (i.e., tumor confined to the kidney, < 4 cm) within 1 month before surgery, confirmed as ccRCC or RO at histopathological examination. Patients with missing unenhanced phases and either one between arterial or venous phases on CECT examinations, or poor image quality (e.g., motion artifact), were excluded” [3] (licensed under CC BY-NC).
+>
 > Also see **Figure 1**.
 >
 >![Fig1](/METRICS-E3/figs/Item2 E2.png) 
@@ -26,7 +28,9 @@ nav_order: 2
 >![Fig2](/METRICS-E3/figs/Item2 E3.png)
 >
 > **Figure 2.** “Flowchart of our population” [4] (licensed under CC BY)
+>
 > **Example#4:** “A thorough assessment of consecutive patients who had undergone surgical resection at a single tertiary cancer hospital was conducted within the timeframe spanning from July 22, 2014, to June 15, 2018. The criteria for inclusion of patients were listed below: (1) pathology-confirmed newly diagnosed rectal cancer; (2) clinical stage. II to III (cT3-4M0 and/or positive nodal status) at pre-nCRT MRI scan; (3) designated for nCRT prior to surgical resection; (4) underwent total mesorectal excision with postoperative pathological assessment after completion of nCRT; and (5) pre- and post-nCRT MRI images were available. The criteria for exclusion were listed below: (1) prior anti-cancer therapy; (2) poor image quality due to stent insertion; and (3) a time duration exceeding 12 weeks between post-nCRT MRI and surgery.” [5]  (licensed under CC BY-NC-ND)
+>
 > Also see **Figure 3**.
 >
 >![Fig3](/METRICS-E3/figs/Item2 E4.png)
