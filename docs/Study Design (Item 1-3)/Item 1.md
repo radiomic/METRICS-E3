@@ -10,11 +10,14 @@ nav_order: 1
 “Whether any guideline or checklist, e.g., CLEAR checklist, is used in designing and reporting, as appropriate for the study design (e.g., handcrafted radiomics or deep learning pipeline).” [1]  (licensed under CC BY)
 Positive examples from the literature
 > **Example #1:** “This study strictly adhered to the CheckList for EvaluAtion of Radiomics reporting guidelines to enhance the credibility, reproducibility, and transparency of the study. The checklist is available in the Electronic Supplemental Material.” [2] (licensed under CC BY)
+>
 > **Example #2:** “This study conducted a self-assessment of our work using the CLEAR checklist and METRICS, which were submitted as Supplementary 2 and Supplementary 3.” [3] (licensed under CC BY)
+>
 > **Example #3:** “In addition, this study adhered to the CLEAR (CheckList for EvaluAtion of Radiomics) reporting guidelines to improve the credibility, reproducibility, and transparency of the study.” [4] (licensed under CC BY-NC-ND)
-Hypothetical negative examples
->> **Example #4:**  We followed standard radiomics methodology to ensure robust feature extraction and model validation. Our study design was guided by best practices in the field. A detailed description of our methods is provided in the supplementary material.
->> **Example #5:** We followed STARD (Standards for Reporting of Diagnostic Accuracy Studies) guideline in planning and reporting this study.
+### Hypothetical negative examples
+> **Example #4:**  We followed standard radiomics methodology to ensure robust feature extraction and model validation. Our study design was guided by best practices in the field. A detailed description of our methods is provided in the supplementary material.
+>
+> **Example #5:** We followed STARD (Standards for Reporting of Diagnostic Accuracy Studies) guideline in planning and reporting this study.
 
 ### Importance of the item
 Adherence to radiomics and machine learning-specific checklists, such as the CheckList for EvaluAtion of Radiomics research (CLEAR) [5], plays a crucial role in ensuring transparency in radiomics studies. These guidelines provide a standardized approach to designing, implementing, and reporting radiomics studies, which is essential for reproducibility and comparability across studies. By following these checklists, researchers can minimize biases, ensure proper data handling, and enhance the interpretability of their findings [6, 7]. Moreover, guideline adherence promotes consistency in critical aspects like feature extraction, model validation, and clinical applicability, ultimately supporting the translation of radiomics into clinical practice [8, 9]. Without such standardization, radiomics studies risk producing results that are difficult to validate or generalize, undermining their clinical utility and scientific value [9, 10].
