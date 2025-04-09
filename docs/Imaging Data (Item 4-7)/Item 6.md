@@ -1,6 +1,6 @@
 ---
-title: Item#8
+title: Item#6
 layout: home
-parent: 3. Segmentation
+parent: 2. Imaging Data
 nav_order: 3
 ---
