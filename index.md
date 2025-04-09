@@ -19,10 +19,10 @@ You can access the METRICS statement [here].
 ## What to Expect from METRICS-E3
 
 METRICS-E3 is more than a supplementary document—it offers detailed explanations, commentary, and examples for each METRICS item. For every checklist element, you’ll find:
-	•	A concise rationale explaining why it matters,
-	•	Positive examples drawn from published studies,
-	•	Hypothetical negative examples for contrast,
-	•	Guidance on how to score the item logically and reproducibly.
+- A concise rationale explaining why it matters,
+- Positive examples drawn from published studies,
+- Hypothetical negative examples for contrast,
+- Guidance on how to score the item logically and reproducibly.
 
 This combination helps users apply METRICS consistently, improving both transparency and reproducibility in radiomics research.
 
