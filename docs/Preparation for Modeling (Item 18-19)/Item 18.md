@@ -1,6 +1,6 @@
 ---
-title: Item#8
+title: Item#18
 layout: home
-parent: 3. Segmentation
-nav_order: 3
+parent: 6. Preparation for Modeling
+nav_order: 1
 ---
