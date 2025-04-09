@@ -4,6 +4,8 @@ layout: home
 parent: 1. Study Design
 nav_order: 1
 ---
+
+
 ## Item #1
 “Adherence to radiomics and/or machine learning-specific checklists or guidelines.” [1]  (licensed under CC BY)
 

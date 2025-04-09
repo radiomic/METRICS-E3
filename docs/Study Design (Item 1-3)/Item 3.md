@@ -5,6 +5,9 @@ parent: 1. Study Design
 nav_order: 3
 ---
 
+1. TOC
+{:toc}
+
 ## Item #3
 “High-quality reference standard with a clear definition.” [1]  (licensed under CC BY)
 
