@@ -8,13 +8,13 @@ nav_order: 1
 
 ## Welcome to METRICS-E3
 
-METRICS-E3 is the official Explanation and Elaboration document for METRICS, enhanced with illustrative positive examples from the literature and hypothetical negative examples. Developed by the EuSoMII Radiomics Auditing Group, this resource is designed to support both authors and reviewers in evaluating the methodological quality of radiomics research.
+METRICS-E3 is the official Explanation and Elaboration document for METRICS, enhanced with illustrative positive examples from the literature and hypothetical negative examples. Developed by the EuSoMII Radiomics Auditing Group, this resource is designed to support both authors and reviewers in evaluating the methodological quality of radiomics research.  
 
 You can access the METRICS-E3 statement [here].
 
 ## What is METRICS?
 
-METRICS stands for METhodological RadiomICs Score—a structured tool for assessing the quality of radiomics studies. It was transparently developed through a rigorous expert consensus process involving a diverse international panel, and is officially endorsed by EuSoMII.
+METRICS stands for METhodological RadiomICs Score—a structured tool for assessing the quality of radiomics studies. It was transparently developed through a rigorous expert consensus process involving a diverse international panel, and is officially endorsed by EuSoMII.  
 
 You can access the METRICS statement [here].
 
