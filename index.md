@@ -10,13 +10,13 @@ nav_order: 1
 
 METRICS-E3 is the official Explanation and Elaboration companion to the METRICS checklist. Developed by the EuSoMII Radiomics Auditing Group, METRICS-E3 is specifically crafted to help researchers deeply understand and evaluate the methodological quality of radiomics research. It provides detailed explanations, real-world positive examples from published literature, and illustrative negative examples, enhancing clarity and comprehension of each checklist item.  
 
-Explore the full METRICS-E3 statement [here].
+Explore the full METRICS-E3 statement [here]().
 
 ## What is METRICS?
 
 METRICS, short for METhodological RadiomICs Score, is a structured tool developed to assess the quality of radiomics studies. Created through a transparent, expert-led consensus involving a diverse international panel, METRICS was officially endorsed by the European Society of Medical Imaging Informatics (EuSoMII). It was designed as a robust quality evaluation instrument that guides methodological rigor in radiomics.  
 
-Access the complete METRICS statement [here].
+Access the complete METRICS statement [here]().
 
 ## What to Expect from METRICS-E3?
 
