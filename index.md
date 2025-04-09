@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 ![Logo1](/METRICS-E3/assets/images/logo.png)
