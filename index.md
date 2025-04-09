@@ -9,6 +9,7 @@ nav_order: 1
 ## Welcome to METRICS-E3
 
 METRICS-E3 is the official Explanation and Elaboration document for METRICS, enhanced with illustrative positive examples from the literature and hypothetical negative examples. Developed by the EuSoMII Radiomics Auditing Group, this resource is designed to support both authors and reviewers in evaluating the methodological quality of radiomics research.
+
 You can access the METRICS-E3 statement [here].
 
 ## What is METRICS?
