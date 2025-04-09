@@ -76,5 +76,5 @@ Ambiguously defined or inadequately detailed criteria may hinder the representat
 8. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
 9. 	Patino CM, Ferreira JC (2018) Inclusion and exclusion criteria in research studies: definitions and why they matter. J bras pneumol 44:84–84. https://doi.org/10.1590/s1806-37562018000000088
 
-[Back](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple  .mr-5  }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html){: .btn .btn-purple  .mr-5  }
 [Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%203.html){: .btn .btn-purple   }
