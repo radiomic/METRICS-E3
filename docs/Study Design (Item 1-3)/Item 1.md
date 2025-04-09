@@ -27,7 +27,7 @@ Adherence to radiomics and machine learning-specific checklists, such as the Che
 
 ### Specifics about the positive examples
 The provided examples demonstrate how the authors used the guidelines or checklist to ensure transparent and standardized reporting of their radiomics studies. In both examples, the authors followed the CheckList for EvaluAtion of Radiomics research (CLEAR)  to enhance reproducibility, transparency, and methodological rigor [5, 6]. 
-In Example #2, the authors also incorporated the METhodological RadiomICs Score (METRICS) [1] to assess and report their study’s quality based on this additional tool.  
+In Example #2, the authors also incorporated the METhodological RadiomICs Score (METRICS) [1] to assess and report their study’s quality based on this additional tool.    
 
 Moreover, the completed checklists in the first two examples were included in the supplementary materials, offering readers, reviewers, and editors a detailed account of the study’s adherence to reporting guidelines, further exemplifying best practices. This approach not only aids in peer review but also serves as a valuable resource for readers seeking to understand or replicate the methodologies used in these studies.
 In Example #3, the authors mention their adherence to CLEAR without providing the checklist.
