@@ -14,21 +14,21 @@ nav_order: 2
 
 ### Positive examples from the literature
 > **Example #1:** “Patients who had undergone BCa surgical excision were verified pathologically and were treated at two different institutions between January 2014 and September 2019. […] The inclusion criteria were as follows: (1) For BCa, the availability of pathological data; (2) for lesion evaluation, complete CT images of all four phases of the CTU examination; and (3) CT examinations performed within 30 days before surgery. The exclusion criteria were: (1) Poor image quality of the CT or preoperative CTU; (2) lesions with hard-to-define edges; (3) if the patient received immunotherapy or chemotherapy before the CT; and (4) missing clinico-pathological data on the patient.” [2] (licensed under CC BY)  
->
+
 > **Example #2:** “All consecutive patients with a single renal mass referred to the Urology Department of Pisa University Hospital and underwent CECT before surgical treatment between January 2016 and December 2020 were considered eligible for this retrospective study. The inclusion criteria were as follows: having been diagnosed at CECT with a T1a renal mass (i.e., tumor confined to the kidney, < 4 cm) within 1 month before surgery, confirmed as ccRCC or RO at histopathological examination. Patients with missing unenhanced phases and either one between arterial or venous phases on CECT examinations, or poor image quality (e.g., motion artifact), were excluded” [3] (licensed under CC BY-NC).
 >
 > Also see **Figure 1**.
 >
 >![Fig1](/METRICS-E3/figs/Item2 E2.png) 
 > **Figure 1.** “Flowchart of patient selection.” [3] (licensed under CC BY-NC).
->
+
 > **Example #3:** “We retrospectively enrolled patients affected by LACC, staged IB2 to IVA from International Federation of Gynecology and Obstetrics (FIGO) 2018, treated with NACRT followed by radical hysterectomy plus pelvic lymphadenectomy after 6–8 weeks. […] Inclusion criteria were as follows: histological confirmed invasive carcinoma of the cervix, FIGO stage from IB2 to IVA and absence of distant metastasis. Patients with incomplete documentation, younger than 18 years, treated with palliative intent and did not undergo surgery were excluded.” [4] (licensed under CC BY)
 > Also see **Figure 2**.
 >
 >![Fig2](/METRICS-E3/figs/Item2 E3.png)
 >
 > **Figure 2.** “Flowchart of our population” [4] (licensed under CC BY)
->
+
 > **Example#4:** “A thorough assessment of consecutive patients who had undergone surgical resection at a single tertiary cancer hospital was conducted within the timeframe spanning from July 22, 2014, to June 15, 2018. The criteria for inclusion of patients were listed below: (1) pathology-confirmed newly diagnosed rectal cancer; (2) clinical stage. II to III (cT3-4M0 and/or positive nodal status) at pre-nCRT MRI scan; (3) designated for nCRT prior to surgical resection; (4) underwent total mesorectal excision with postoperative pathological assessment after completion of nCRT; and (5) pre- and post-nCRT MRI images were available. The criteria for exclusion were listed below: (1) prior anti-cancer therapy; (2) poor image quality due to stent insertion; and (3) a time duration exceeding 12 weeks between post-nCRT MRI and surgery.” [5]  (licensed under CC BY-NC-ND)
 >
 > Also see **Figure 3**.
@@ -39,8 +39,11 @@ nav_order: 2
 
 ### Hypothetical negative examples
 > **Example #5:** We included patients with brain tumors who underwent MRI at our institution between 2015 and 2022. Patients with missing data or poor imaging quality were excluded.
+
 > **Example #6:** We retrospectively analyzed lung cancer patients who underwent CT imaging in our radiology department. Only cases with solid nodules were included, while patients with small nodules (<2 cm) or those with poor contrast enhancement were excluded. In total, 100 cases were analyzed.
+
 > **Example #7:** We retrospectively analyzed 50 male patients diagnosed with prostate cancer at our hospital between January 2020 and December 2021. Only patients aged between 50 and 55 years, with a PSA level between 5-7 ng/mL, and who underwent MRI on a 3T scanner were included. Patients with a history of prior cancer, comorbidities, or incomplete data were excluded.
+
 > **Example #8:** Patients diagnosed with pneumonia between 2018 and 2023 were included. Patients with confirmed bacterial pneumonia were excluded. Additionally, cases with mild pneumonia that did not require hospitalization were removed from the dataset.
 
 ### Importance of the item

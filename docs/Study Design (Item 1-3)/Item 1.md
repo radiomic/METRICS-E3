@@ -12,14 +12,14 @@ nav_order: 1
 
 ### Positive examples from the literature
 > **Example #1:** “This study strictly adhered to the CheckList for EvaluAtion of Radiomics reporting guidelines to enhance the credibility, reproducibility, and transparency of the study. The checklist is available in the Electronic Supplemental Material.” [2] (licensed under CC BY)
->
+
 > **Example #2:** “This study conducted a self-assessment of our work using the CLEAR checklist and METRICS, which were submitted as Supplementary 2 and Supplementary 3.” [3] (licensed under CC BY)
->
+
 > **Example #3:** “In addition, this study adhered to the CLEAR (CheckList for EvaluAtion of Radiomics) reporting guidelines to improve the credibility, reproducibility, and transparency of the study.” [4] (licensed under CC BY-NC-ND)
 
 ### Hypothetical negative examples
 > **Example #4:**  We followed standard radiomics methodology to ensure robust feature extraction and model validation. Our study design was guided by best practices in the field. A detailed description of our methods is provided in the supplementary material.
->
+
 > **Example #5:** We followed STARD (Standards for Reporting of Diagnostic Accuracy Studies) guideline in planning and reporting this study.
 
 ### Importance of the item
