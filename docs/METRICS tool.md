@@ -6,6 +6,8 @@ nav_order: 1.1
 
 
 #METRICS Tool [1]
+
+
 | **Category**                         | **Item**   | **Description**                                                                 |
 |:------------------------------------|:-----------|:--------------------------------------------------------------------------------|
 | **Study Design**                    | [Item 1](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html)     | Adherence to radiomics and/or machine learning-specific checklists or guidelines |
