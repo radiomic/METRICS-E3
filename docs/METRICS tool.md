@@ -7,14 +7,14 @@ nav_order: 1.1
 | **Category**                         | **Item**   | **Description**                                                                 |
 |:------------------------------------|:-----------|:--------------------------------------------------------------------------------|
 | **Study Design**                    | [Item 1](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html)     | Adherence to radiomics and/or machine learning-specific checklists or guidelines |
-|                                     | Item 2     | Eligibility criteria that describe a representative study population           |
-|                                     | Item 3     | High-quality reference standard with a clear definition                        |
-| **Imaging Data**                    | Item 4     | Multi-center                                                                   |
-|                                     | Item 5     | Clinical translatability of the imaging data source for radiomics analysis     |
-|                                     | Item 6     | Imaging protocol with acquisition parameters                                   |
-|                                     | Item 7     | The interval between imaging used and reference standard                       |
-| **Segmentation (Conditional)**      | Cond. 1    | Does the study include segmentation?                                           |
-|                                     | Cond. 2    | Does the study include fully automated segmentation?                           |
+|                                     | [Item 2](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html)     | Eligibility criteria that describe a representative study population           |
+|                                     | [Item 3](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%203.html)     | High-quality reference standard with a clear definition                        |
+| **Imaging Data**                    | [Item 4](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%204.html)     | Multi-center                                                                   |
+|                                     | [Item 5](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%205.html)     | Clinical translatability of the imaging data source for radiomics analysis     |
+|                                     | [Item 6](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%206.html)     | Imaging protocol with acquisition parameters                                   |
+|                                     | [Item 7](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%207.html)     | The interval between imaging used and reference standard                       |
+| **Segmentation (Conditional)**      | [Cond. 1](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%201.html)    | Does the study include segmentation?                                           |
+|                                     | [Cond. 2](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%202.html)    | Does the study include fully automated segmentation?                           |
 |                                     | Item 8     | Transparent description of segmentation methodology                            |
 |                                     | Item 9     | Formal evaluation of fully automated segmentation                              |
 |                                     | Item 10    | Test set segmentation masks produced by a single reader or automated tool      |
