@@ -1,5 +1,5 @@
 ---
-title: METRICS tool
+title: METRICS items and conditions
 layout: home
 nav_order: 1.1
 ---
