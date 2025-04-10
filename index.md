@@ -16,7 +16,10 @@ Explore the full METRICS-E3 statement [here]().
 
 METRICS, short for METhodological RadiomICs Score, is a structured tool developed to assess the quality of radiomics studies. Created through a transparent, expert-led consensus involving a diverse international panel, METRICS was officially endorsed by the European Society of Medical Imaging Informatics (EuSoMII). It was designed as a robust quality evaluation instrument that guides methodological rigor in radiomics. METRICS has 30 items along with 5 conditions, covering both hand-crafted and deep learning-based radiomics including computer vision.
 
-Access the complete METRICS statement [here]().
+Access the complete METRICS statement [here](https://insightsimaging.springeropen.com/articles/10.1186/s13244-023-01572-w).
+
+Fully functional online METRICS tool can be accessed [here](https://metricsscore.github.io/metrics/METRICS.html).
+
 
 ## What to Expect from METRICS-E3?
 
