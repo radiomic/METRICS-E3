@@ -15,29 +15,29 @@ nav_order: 1.1
 |                                     | [Item 7](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%207.html)     | The interval between imaging used and reference standard                       |
 | **Segmentation (Conditional)**      | [Cond. 1](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%201.html)    | Does the study include segmentation?                                           |
 |                                     | [Cond. 2](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%202.html)    | Does the study include fully automated segmentation?                           |
-|                                     | Item 8     | Transparent description of segmentation methodology                            |
-|                                     | Item 9     | Formal evaluation of fully automated segmentation                              |
-|                                     | Item 10    | Test set segmentation masks produced by a single reader or automated tool      |
-| **Image Processing & Feature Extraction (Conditional)** | Cond. 3    | Does the study include hand-crafted feature extraction?                        |
-|                                     | Item 11    | Appropriate use of image preprocessing techniques with transparent description |
-|                                     | Item 12    | Use of standardized feature extraction software                                |
-|                                     | Item 13    | Transparent reporting of feature extraction parameters                         |
-| **Feature Processing**              | Cond. 4    | Does the study include tabular data?                                           |
-|                                     | Cond. 5    | Does the study include end-to-end deep learning?                               |
-|                                     | Item 14    | Removal of non-robust features                                                 |
-|                                     | Item 15    | Removal of redundant features                                                  |
-|                                     | Item 16    | Appropriateness of dimensionality compared to data size                        |
-|                                     | Item 17    | Robustness assessment of end-to-end deep learning pipelines                    |
-| **Preparation for Modeling**        | Item 18    | Proper data partitioning process                                               |
-|                                     | Item 19    | Handling of confounding factors                                                |
-| **Metrics and Comparison**          | Item 20    | Use of appropriate performance evaluation metrics for task                     |
-|                                     | Item 21    | Consideration of uncertainty                                                   |
-|                                     | Item 22    | Calibration assessment                                                         |
-|                                     | Item 23    | Use of uni-parametric imaging or proof of its inferiority                      |
-|                                     | Item 24    | Comparison with a non-radiomic approach or proof of added clinical value       |
-|                                     | Item 25    | Comparison with simple or classical statistical models                         |
-| **Testing**                         | Item 26    | Internal testing                                                               |
-|                                     | Item 27    | External testing                                                               |
-| **Open Science**                    | Item 28    | Data availability                                                              |
-|                                     | Item 29    | Code availability                                                              |
-|                                     | Item 30    | Model availability                                                             |
+|                                     | [Item 8](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Item%208.html)     | Transparent description of segmentation methodology                            |
+|                                     | [Item 9](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Item%209.html)     | Formal evaluation of fully automated segmentation                              |
+|                                     | [Item 10](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Item%2010.html)    | Test set segmentation masks produced by a single reader or automated tool      |
+| **Image Processing & Feature Extraction (Conditional)** | [Cond. 3](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Condition%203.html)    | Does the study include hand-crafted feature extraction?                        |
+|                                     | [Item 11](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Item%2011.html)    | Appropriate use of image preprocessing techniques with transparent description |
+|                                     | [Item 12](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Item%2012.html)    | Use of standardized feature extraction software                                |
+|                                     | [Item 13](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Item%2013.html)    | Transparent reporting of feature extraction parameters                         |
+| **Feature Processing**              | [Cond. 4](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Condition%204.html)    | Does the study include tabular data?                                           |
+|                                     | [Cond. 5](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Condition%205.html)    | Does the study include end-to-end deep learning?                               |
+|                                     | [Item 14](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2014.html)    | Removal of non-robust features                                                 |
+|                                     | [Item 15](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2015.html)    | Removal of redundant features                                                  |
+|                                     | [Item 16](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2016.html)    | Appropriateness of dimensionality compared to data size                        |
+|                                     | [Item 17](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2017.html)    | Robustness assessment of end-to-end deep learning pipelines                    |
+| **Preparation for Modeling**        | [Item 18](https://radiomic.github.io/METRICS-E3/docs/Preparation%20for%20Modeling%20(Item%2018-19)/Item%2018.html)    | Proper data partitioning process                                               |
+|                                     | [Item 19](https://radiomic.github.io/METRICS-E3/docs/Preparation%20for%20Modeling%20(Item%2018-19)/Item%2019.html)    | Handling of confounding factors                                                |
+| **Metrics and Comparison**          | [Item 20](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2020.html)    | Use of appropriate performance evaluation metrics for task                     |
+|                                     | [Item 21](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2021.html)    | Consideration of uncertainty                                                   |
+|                                     | [Item 22](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2022.html)    | Calibration assessment                                                         |
+|                                     | [Item 23](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2023.html)    | Use of uni-parametric imaging or proof of its inferiority                      |
+|                                     | [Item 24](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2024.html)    | Comparison with a non-radiomic approach or proof of added clinical value       |
+|                                     | [Item 25](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2025.html)    | Comparison with simple or classical statistical models                         |
+| **Testing**                         | [Item 26]()    | Internal testing                                                               |
+|                                     | [Item 27]()    | External testing                                                               |
+| **Open Science**                    | [Item 28]()    | Data availability                                                              |
+|                                     | [Item 29]()    | Code availability                                                              |
+|                                     | [Item 30]()    | Model availability                                                             |
