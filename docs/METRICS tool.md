@@ -36,8 +36,8 @@ nav_order: 1.1
 |                                     | [Item 23](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2023.html)    | Use of uni-parametric imaging or proof of its inferiority                      |
 |                                     | [Item 24](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2024.html)    | Comparison with a non-radiomic approach or proof of added clinical value       |
 |                                     | [Item 25](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2025.html)    | Comparison with simple or classical statistical models                         |
-| **Testing**                         | [Item 26]()    | Internal testing                                                               |
-|                                     | [Item 27]()    | External testing                                                               |
-| **Open Science**                    | [Item 28]()    | Data availability                                                              |
-|                                     | [Item 29]()    | Code availability                                                              |
-|                                     | [Item 30]()    | Model availability                                                             |
+| **Testing**                         | [Item 26](https://radiomic.github.io/METRICS-E3/docs/Testing%20(Item%2026-27)/Item%2026.html)    | Internal testing                                                               |
+|                                     | [Item 27](https://radiomic.github.io/METRICS-E3/docs/Testing%20(Item%2026-27)/Item%2027.html)    | External testing                                                               |
+| **Open Science**                    | [Item 28](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2028.html)    | Data availability                                                              |
+|                                     | [Item 29](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2029.html)    | Code availability                                                              |
+|                                     | [Item 30](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2030.html)    | Model availability                                                             |
