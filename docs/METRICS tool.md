@@ -7,7 +7,6 @@ nav_order: 1.1
 
 ## **METRICS Tool** [1]
 
-
 | **Category**                         | **Item**   | **Description**                                                                 |
 |:------------------------------------|:-----------|:--------------------------------------------------------------------------------|
 | **Study Design**                    | [Item 1](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html)     | Adherence to radiomics and/or machine learning-specific checklists or guidelines |
@@ -46,6 +45,8 @@ nav_order: 1.1
 |                                     | [Item 29](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2029.html)    | Code availability                                                              |
 |                                     | [Item 30](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2030.html)    | Model availability                                                             |
 
+
+Fully functional online METRICS tool can be accessed [here](https://metricsscore.github.io/metrics/METRICS.html).
 
 ### References
 
