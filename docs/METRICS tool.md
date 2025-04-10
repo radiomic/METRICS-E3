@@ -4,6 +4,8 @@ layout: home
 nav_order: 1.1
 ---
 
+
+#METRICS Tool [1]
 | **Category**                         | **Item**   | **Description**                                                                 |
 |:------------------------------------|:-----------|:--------------------------------------------------------------------------------|
 | **Study Design**                    | [Item 1](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html)     | Adherence to radiomics and/or machine learning-specific checklists or guidelines |
@@ -41,3 +43,10 @@ nav_order: 1.1
 | **Open Science**                    | [Item 28](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2028.html)    | Data availability                                                              |
 |                                     | [Item 29](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2029.html)    | Code availability                                                              |
 |                                     | [Item 30](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2030.html)    | Model availability                                                             |
+
+
+### References
+
+{: .fs-2 }
+
+1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
