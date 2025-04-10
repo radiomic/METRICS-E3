@@ -6,7 +6,7 @@ nav_order: 1.1
 
 | **Category**                         | **Item**   | **Description**                                                                 |
 |:------------------------------------|:-----------|:--------------------------------------------------------------------------------|
-| **Study Design**                    | Item 1     | Adherence to radiomics and/or machine learning-specific checklists or guidelines |
+| **Study Design**                    | [Item 1](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html)     | Adherence to radiomics and/or machine learning-specific checklists or guidelines |
 |                                     | Item 2     | Eligibility criteria that describe a representative study population           |
 |                                     | Item 3     | High-quality reference standard with a clear definition                        |
 | **Imaging Data**                    | Item 4     | Multi-center                                                                   |
