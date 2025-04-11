@@ -26,7 +26,7 @@ nav_order: 1
 >
 >![Fig2](/METRICS-E3/figs/Con1 E2.png) 
 >
->Figure 2. “The radiomics workflow in the prediction of TLSs. CT, computed tomography; ROC, receiver operating characteristic.” [3] (licensed under CC BY)
+> **Figure 2.** “The radiomics workflow in the prediction of TLSs. CT, computed tomography; ROC, receiver operating characteristic.” [3] (licensed under CC BY)
 
 > **Example #3:** "To create a cropped deep-learning model for the region of interest (ROI) of a residual-enhancing lesion, a dedicated breast radiologist with 11 years of experience annotated the ROIs on the fifth dynamic subtraction images. Three rectangular-shaped ROIs were placed at the three points (beginning, middle, and ending) of a residual enhancing lesion, fitting to the lesion. […] These ROIs could encompass not only the target lesion but also a small area of surrounding tissue due to its shape. Engineers then utilized these three boxes to generate a 3D voxel ROI, which served as input for the deep-learning models." [4] (licensed under CC BY)
 
@@ -39,6 +39,7 @@ nav_order: 1
 
 ### Importance of the condition
 Segmentation is a key factor in evaluating the methodological quality of radiomics studies, as it defines the region of interest (ROI) for feature extraction, model training, and clinical interpretation [5]. However, it is not mandatory for all radiomics studies, making segmentation-related items conditional. Its relevance varies depending on the study type and objectives. Evaluators should carefully assess whether segmentation is explicitly reported and adequately described, as it directly impacts the applicability of specific METRICS criteria, hence the final score.
+
 Segmentation can be performed by manual annotation, semi-automatic techniques,  or fully automated deep learning-based approaches. It can also be performed semantically (i.e., marking all pixels belonging to a class within an image) or with bounding boxes (which can be used to crop out the region of interest). Each method has distinct methodological implications—manual or automated fine delineation ensures precise ROI definition [6], particularly for lesions or tumors, while bounding boxes and cropping optimize computational efficiency, particularly in deep learning approaches, while maintaining relevant regions [7].
 
 ### Specifics about the examples meeting “Yes” condition	
@@ -49,6 +50,7 @@ Examples #4 and #5 utilize entire images in their pipeline without performing ma
 
 ### Recommendations for appropriate scoring
 A study should be classified as “Yes” if segmentation is explicitly mentioned and clearly described. Acceptable methods include manual delineation, semi-automatic segmentation, and automatic segmentation using deep learning, including bounding box/cropping approaches. Evaluators should consider both textual descriptions and visual evidence provided in the paper to ensure accuracy.
+
 A study should be classified as “No” if segmentation is not mentioned, if the study uses a whole-image approach without ROI delineation, or if the description is too vague to confirm whether segmentation was performed.
 
 ### References

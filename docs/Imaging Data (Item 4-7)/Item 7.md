@@ -38,6 +38,7 @@ In Example #5, the diagnosis of dementia subtype was established at an unspecifi
 
 ### Recommendations for appropriate scoring
 In general, since no single time interval suits all situations, this should be selected based on the specific clinical scenario and desired outcome. For diagnostic purposes, the interval between imaging and the outcome measure or reference standard acquisition should be as short as possible. Conversely, for prognostic purposes, longer intervals may be necessary, depending on the evidence supporting their clinical relevance. 
+
 An exception may be found in deep learning studies focused on automatic segmentation, where the reference standard is a manual approach, making the concept of interval time irrelevant in such cases. Consequently, the METRICS item related to time interval can be considered met, as it is effectively zero.
 
 ### References

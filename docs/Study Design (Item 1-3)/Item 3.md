@@ -38,7 +38,9 @@ These examples represent poor-quality reference standards due to their lack of o
 
 ### Recommendations for appropriate scoring
 As elucidated above, there is no reference standard that could fit all scenarios, and its validity should thus be critically evaluated per case. However, there are some characteristics that define reliable and robust reference standards. Firstly, they should be clinically validated and widely accepted within the field. A precise definition relevant to the research question should be provided. Then, it should explicitly describe how it was implemented and the choice justified for its relevance to the outcomes analyzed. 
+
 As for any research study, consistently applying the reference standard across all cases reduces the risk of bias. If there are concerns, identifying and acknowledging potential bias increases transparency and improves results interpretation. When reference standards are obtained in clinical practice, independent validation within the study might bring added value. Finally, when the reference standard is not as robust as desired, the inclusion of uncertainty estimation in the model’s training/evaluation could be considered.
+
 This item may be considered somewhat subjective due to the vagueness of the term “high-quality.” However, assessing this criterion requires a certain level of domain knowledge relevant to the study of interest. A study should receive a score for item #3 if it employs a high-quality reference standard that is clinically relevant, clearly defined, consistently applied, and, where applicable, independently validated. A study should receive no score if it relies on a weak, poorly defined, inconsistently applied, or subjective reference standard without proper justification or efforts to address potential bias and uncertainty.
 
 ### References

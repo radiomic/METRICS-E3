@@ -29,9 +29,11 @@ Adherence to radiomics and machine learning-specific checklists, such as the Che
 
 ### Specifics about the positive examples
 The provided examples demonstrate how the authors used the guidelines or checklist to ensure transparent and standardized reporting of their radiomics studies. In both examples, the authors followed the CheckList for EvaluAtion of Radiomics research (CLEAR)  to enhance reproducibility, transparency, and methodological rigor [5, 6]. 
+
 In Example #2, the authors also incorporated the METhodological RadiomICs Score (METRICS) [1] to assess and report their study’s quality based on this additional tool.    
 
 Moreover, the completed checklists in the first two examples were included in the supplementary materials, offering readers, reviewers, and editors a detailed account of the study’s adherence to reporting guidelines, further exemplifying best practices. This approach not only aids in peer review but also serves as a valuable resource for readers seeking to understand or replicate the methodologies used in these studies.
+
 In Example #3, the authors mention their adherence to CLEAR without providing the checklist.
 
 ### Specifics about the negative examples
@@ -41,6 +43,7 @@ In Example #5, the study mentions adherence to a checklist not specific to radio
 
 ### Recommendations for appropriate scoring
 Studies should be scored based on their adherence to reporting guidelines, such as radiomics-specific reporting guidelines like CLEAR [5]  or METRICS [1]. The artificial intelligence or machine learning guidelines such as CLAIM [11] can also be considered to meet this item. It is important to note that item score should only be awarded if the study explicitly references a radiomics or machine learning-specific guideline used.
+
 While providing a completed checklist is not mandatory for scoring this item, researchers are strongly encouraged to include it as supplementary material. This practice enhances reproducibility and allows reviewers to verify compliance with the guidelines, fostering a higher standard of reporting in radiomics research.
 
 ### References

@@ -7,8 +7,10 @@ nav_order: 2
 
 ### Item #5
 “Clinical translatability of the imaging data source for radiomics analysis” [1]  (licensed under CC BY)
+
 ### Explanation
 “Whether the source of the radiomics data is an imaging technique that reflects established standardization approaches, such as acquisition protocol guidelines (e.g., PI-RADS specifications).” [1]  (licensed under CC BY)
+
 ### Positive examples from the literature
 > **Example #1:** “The MRI protocol was optimized following international recommendations and current practice in breast MRI. Images were acquired in axial plane and the patient in a prone position using either 1.5 T or 3.0 T scanners (Magnetom Avanto/Aera; Verio/Skyra) and dedicated breast array coils (all hardware: Siemens Healthineers, Erlangen, Germany). Protocols included dynamic contrast-enhanced T1-weighted scans, a T2-weighted fat-saturated scan and diffusion-weighted imaging. Protocol parameters are provided in Table 2. The contrast media (0.1 mmol/kg body weight gadobutrol, Bayer Schering Pharma, Berlin, Germany) was injected into an antecubital vein after the first dynamic acquisition with a flow of 2.0 mL/sec, followed by a 20 mL saline flush. After a 30-second delay, the remaining five dynamic acquisitions were scanned under identical conditions.” [2] (licensed under CC BY)
 
@@ -29,6 +31,7 @@ In the positive examples, specific mentioning of international protocols are pre
 Example #3 involves multiple scanners with different field strengths and varied sequence parameters, without referring to a guideline or mention of a protocol adherence. Example #4 uses site-specific MRI protocols in a multi-center study with experimental use of a contrast agent, introducing differences in acquisition settings that hinder comparability. Example #5 relies on a locally developed cardiac MRI protocol without adherence to standardized guidelines.
 ### Recommendations for appropriate scoring
 When assessing the clinical translatability of an imaging data source consistently, scoring should prioritize strict adherence to standardized imaging protocols. Studies that explicitly document the use of established guidelines (e.g., acquisition standards like PI-RADS or Lung-RADS), recommendations, or common standards—by citing relevant papers—should receive the score for this METRICS item.
+
 In contrast, studies that do not mention protocol adherence and lack references to relevant papers should not earn the METRICS score.
 ### References
 

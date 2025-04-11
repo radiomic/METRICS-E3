@@ -33,6 +33,7 @@ Example #4 is a negative example because it is entirely based on data from a sin
 
 ### Recommendations for appropriate scoring
 A key concern is the classification of so-called multicenter studies that include only affiliated hospitals or parts of a larger healthcare system, particularly when these institutions share similar distributions in patient characteristics, imaging scanners, and protocols. Such cases should be carefully evaluated and, if necessary, classified as single-center studies under their main hospital to ensure methodological accuracy.
+
 Another concern is the use of the term “external validation” or “external testing” in the studies, suggesting a multi-center design. Nevertheless, these terms may be misused to describe standard hold-out validation in single-center studies. METRICS evaluators should critically assess whether multiple centers are genuinely involved rather than relying solely on the terminology used in the manuscript.
 
 ### References
