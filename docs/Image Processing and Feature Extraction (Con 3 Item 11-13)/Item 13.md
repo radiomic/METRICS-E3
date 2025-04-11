@@ -30,7 +30,7 @@ nav_order: 4
 >
 >![Fig2](/METRICS-E3/figs/Item13 E2.png) 
 > 
-> **Figure 2.** Yaml files for feature extraction parameter settings for CT and MRI images. Extracted from the https://github.com/aydindemircioglu/radPretrained. [3]
+> **Figure 2.** Yaml files for feature extraction parameter settings for CT and MRI images. Extracted from the [https://github.com/aydindemircioglu/radPretrained](https://github.com/aydindemircioglu/radPretrained). [3]
 
 > **Example #3:** “The extracted features include: (1) First-order features (describing the pixel intensity and its distribution within the target region through basic first-order statistics, such as mean and variance, etc.); (2) Shape-based features (morphological characteristics, describing the shape and size of the target area, such as volume and diameter); (3) Texture features, consisting of Gray Level Co-occurrence Matrix features, Gray Level Run Length Matrix features, Gray Level Size Zone Matrix features, Gray Level Dependence Matrix features, and Neighboring Gray Tone Difference Matrix features (describe the spatial distribution information of ROI pixels and reflect the spatial heterogeneity characteristics of the image such as gray scale change, particle size, and roughness). […] After providing all modified parameters of pre-processing and radiomic feature extraction, all other parameters remained as a default configuration.” [4] (licensed under CC-BY-NC)
 
@@ -62,6 +62,7 @@ Examples #5 and #6 fail to provide sufficient detail on feature extraction setti
 
 ### Recommendations for appropriate scoring
 Maximum transparency in reporting feature extraction parameters should be ensured. Studies that provide comprehensive documentation of all feature extraction parameters should be assigned a “Yes” score. For complete configuration documentation, a yaml file (e.g., if feature extraction is performed using PyRadiomics) or a screenshot of the configuration settings should be provided. If such evidence is unavailable, studies should explicitly describe the selected or modified parameters and include a statement confirming that all other parameters remained in their default configuration. For DL-based approaches, a complete description of the model architecture, including all image processing steps from input to output, should be provided.
+
 A “No” score should be assigned to studies that provide incomplete or unclear descriptions of feature extraction parameters, according to strict rules above.
 
 ### References

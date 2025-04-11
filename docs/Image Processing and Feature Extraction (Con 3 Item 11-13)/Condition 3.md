@@ -14,7 +14,7 @@ nav_order: 1
 ### Examples from the literature meeting “Yes” condition 
 > **Example #1:** “Python version 3.12.1 (https://www.python.org) with PyRadiomics package version 3.0.1 (https://pyradiomics.readthedocs.io/en/latest/) was used to extract 18 first-order features and 75 texture features, namely 24 gray-level co-occurrence matrix (GLCM), 14 gray-level run length matrix (GLRLM), 16 gray-level zone length matrix (GLZLM), 16 gray-level dependence matrix (GLDM), and 5 neighborhood gray-tone difference matrix (NGTDM) features” [2] (licensed under CC BY)
 
-> **Example #2:** “On the whole, 46 parameters [Table 1] were analyzed and computed using the LifeX software”. [3] (licensed under CC BY)
+> **Example #2:** “On the whole, 46 parameters **[Table 1]** were analyzed and computed using the LifeX software”. [3] (licensed under CC BY)
 > 
 > **Table 1.** “List of radiomics indices.” [3] (cropped; licensed under CC BY)
 >
@@ -39,7 +39,9 @@ Examples #4 and #5 clearly rely on deep learning-based feature extraction rather
 
 ### Recommendations for appropriate scoring
 A paper should be classified as “Yes” if it explicitly provides classes or formulas for predefined radiomics features (e.g., GLCM), regardless of the tool or standardization method used. However, the use of tools like PyRadiomics or standardized methods such as IBSI can indicate the usage of handcrafted features.
+
 Evaluators should be cautious of deep learning-based features and should classify such studies as “No”.
+
 For studies employing both handcrafted and deep learning-based features as separate pipelines, evaluators may choose to assess these pipelines separately and apply the METRICS independently, resulting in two distinct scores for the handcrafted (Condition = Yes) and deep learning-based pipelines (Condition = No). However,  a single METRICS evaluation can be used to represent the overall study quality (Condition = Yes), accounting for the need for such a study to fulfill the requirements applying to all the different techniques employed.
 
 ### References

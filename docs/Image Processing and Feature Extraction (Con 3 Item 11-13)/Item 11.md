@@ -35,11 +35,14 @@ Examples #1 and #2 effectively detail the preprocessing steps for traditional ra
 
 ### Specifics about negative examples
 Example #5 lacks essential preprocessing details. It mentions normalization and resampling but omits the resampling method, target voxel size, and normalization technique. It also fails to specify intensity discretization, making the preprocessing pipeline non-reproducible.
+
 Example #6 is vague and lacks reproducibility. It refers to default software settings without naming the software, its version, or detailing preprocessing steps. It also mentions transformed images without specifying the type or application method, preventing replication.
+
 Example #7 focuses only on resizing and data augmentation but lacks key preprocessing details for deep learning. It does not specify the original and final image dimensions, interpolation or padding methods, or the type of normalization applied. 
 
 ### Recommendations for appropriate scoring
 A study should be scored as “Yes” if it includes at least the following details (applied or not applied): for traditional radiomics analysis, resampling size and discretization parameters; for deep learning analysis, resampling, normalization, and resizing as a minimum requirement. If any of these key preprocessing details are missing or insufficiently described, the study should be scored as “No”. 
+
 It is important to note that specific preprocessing steps are relevant to particular imaging modalities, and these should be considered when evaluating this item. 
 
 ### References

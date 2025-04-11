@@ -33,6 +33,7 @@ Feature extraction is a fundamental step of the radiomic workflow [6]. Employing
 
 ### Specifics about the positive examples
 All the reported examples include a detailed description of the software employed for the feature extraction, including name, version, and direct reference to software documentation. The three software reported in the examples – Pyradiomics and LifeX - are commonly used for traditional radiomic features extraction and they claim to be IBSI-compliant, as also explicitly stated in Examples #1 and #2 with inclusion of the related reference to IBSI paper.
+
 Example #4 further specifies the use of Python for PyRadiomics (open-source package) in the Methods section, providing the same information also in the caption of the second figure included in the manuscript where the entire radiomic workflow is depicted.  Differently, a similar information is not required for Example #3 due to the standalone nature of the LIFEx software that does not require integration with other tools.
 
 ### Specifics about the negative examples
@@ -40,6 +41,7 @@ Example #5 does not specify the use of a standardized or IBSI-compliant tool, re
 
 ### Recommendations for appropriate scoring
 Authors are encouraged to provide a detailed description of the software used for feature extraction to ensure transparency and reproducibility of the radiomic study. The required software details should include name, version, and evidence of standardization, such as references to IBSI compliance. A list of IBSI compliant tools can be accessed at https://theibsi.github.io/implementations/. Reporting the environment or the dependent library versions is advised, but not mandatory. Furthermore, providing references or links to the software documentation can further support the alignment with standardization guidelines.
+
 Studies that lack these fundamental software details, fail to provide evidence of standardization, or rely on in-house or non-compliant tools should not receive points under the METRICS. 
 
 ### References
