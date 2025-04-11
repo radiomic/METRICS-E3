@@ -5,7 +5,7 @@ parent: 2. Imaging Data
 nav_order: 3
 ---
 
-## Item #6
+### Item #6
 “Imaging protocol with acquisition parameters” [1] (licensed under CC BY)
 ### Explanation
 “Whether the image acquisition protocol is clearly reported to ensure the replicability of the method.” [1]  (licensed under CC BY)

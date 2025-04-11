@@ -5,7 +5,7 @@ parent: 2. Imaging Data
 nav_order: 2
 ---
 
-## Item #5
+### Item #5
 “Clinical translatability of the imaging data source for radiomics analysis” [1]  (licensed under CC BY)
 ### Explanation
 “Whether the source of the radiomics data is an imaging technique that reflects established standardization approaches, such as acquisition protocol guidelines (e.g., PI-RADS specifications).” [1]  (licensed under CC BY)

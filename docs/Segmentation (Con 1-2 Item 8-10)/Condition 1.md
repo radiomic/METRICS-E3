@@ -5,7 +5,7 @@ parent: 3. Segmentation
 nav_order: 1
 ---
 
-## Condition #1
+### Condition #1
 “Does the study include segmentation?” [1]  (licensed under CC BY)
 
 ### Explanation

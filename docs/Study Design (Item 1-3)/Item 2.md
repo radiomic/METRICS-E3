@@ -5,7 +5,7 @@ parent: 1. Study Design
 nav_order: 2
 ---
 
-## Item #2
+### Item #2
 “Eligibility criteria that describe a representative study population” [1]  (licensed under CC BY)
 
 ### Explanation

@@ -5,7 +5,7 @@ parent: 2. Imaging Data
 nav_order: 4
 ---
 
-## Item #7
+### Item #7
 “The interval between imaging used and reference standard.” [1]  (licensed under CC BY)
 
 ### Explanation
