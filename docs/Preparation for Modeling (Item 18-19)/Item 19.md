@@ -48,7 +48,9 @@ Example #5 is deficient because it utilizes multi-institutional data, inherently
 
 ### Recommendations for appropriate scoring
 A positive decision is recommended when authors correct for the main confounding factors, i.e. age, gender, size or target of interest. Ideally, the scanner and acquisition protocol are also corrected for. Authors should ensure that they use the proper statistical tests and p-value correction in case of multiple testing.
+
 It is important to distinguish between identifying independent predictors and detecting confounders, as these serve separate purposes. When determining independent predictors, major confounding factors may be included in the analysis—typically through univariate and multivariate logistic regression. Variables identified as independent predictors are generally incorporated into the final model, but they should not be regarded as confounders.
+
 Merely adjusting the model to account for potential confounding factors should not satisfy this criterion and, consequently, should not receive a positive evaluation. Instead, it must be explicitly analyzed and identified if present, and removed if necessary.
 
 ### References

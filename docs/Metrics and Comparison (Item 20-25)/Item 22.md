@@ -13,8 +13,11 @@ nav_order: 3
 
 ### Positive examples from the literature
 > **Example #1:** “Discrimination and calibration of 3-year OS were assessed using the area under the receiver operator curve (AUC) and Brier score, respectively, using the riskRegression R library. Confidence intervals were estimated using the method of Blanche and compared using the Delong test. Following Van Rossum, clinical utility was assessed by thresholding the model prediction in training data to maximise specificity whilst maintaining sensitivity of > 90%. Confidence intervals for sensitivity, specificity and accuracy were estimated with 1000 replacement bootstraps.” [2] (licensed under CC BY)
+>
+> Also see **Table 1**.
 > 
 > **Table 1.** “Model discrimination and calibration metrics with respect to 3-year overall survival” [2] (licensed under CC BY).
+>
 >![Tab1](/METRICS-E3/figs/Item22 E1 T1.png)
 
 > **Example #2:** “Calibration plots (observed vs. predicted probabilities) and Spiegelhalter’s Z statistics were used to evaluate model calibration. […] **[Figure 1]** illustrates the calibration plot of the multi-modal SVM model; Spiegelhalter’s z indicates a well calibrated model (z = 0.2301, p = 0.409).” [3] (licensed under CC BY).
@@ -31,7 +34,7 @@ nav_order: 3
 >
 > **Figure 2.**  “Calibration curves of five radiomics-based machine learning models in the testing set. The Brier score loss of each model is shown in brackets” [4] (licensed under CC BY)
 
-> **Example #4:** “The calibration curves are displayed in [Figure 3]. Hosmer-Lemeshow gave a p value of 0.991 and 0.582 in the training and testing groups, respectively, indicating good calibration.” [5] (licensed under CC BY)
+> **Example #4:** “The calibration curves are displayed in **[Figure 3]**. Hosmer-Lemeshow gave a p value of 0.991 and 0.582 in the training and testing groups, respectively, indicating good calibration.” [5] (licensed under CC BY)
 > 
 >![Fig3](/METRICS-E3/figs/Item22 E4.png)
 >
@@ -56,6 +59,7 @@ Example #5 exclusively reports discrimination metrics (AUC, accuracy, sensitivit
 
 ### Recommendations for appropriate scoring
 To satisfy the requirements for this METRICS item, a study must report its calibration assessment using a quantitative metric (e.g., Brier score) or a statistical test (e.g., Hosmer-Lemeshow). 
+
 Merely stating that calibration was assessed, or making qualitative claims about it without providing supporting quantitative or statistical results, is insufficient to meet the criteria.
 
 ### References

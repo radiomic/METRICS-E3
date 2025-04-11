@@ -40,7 +40,7 @@ nav_order: 3
 
 > **Example #4:** “Sample images, demo codes, and notebook implementations are available at: [https://github.com/BoranSekeroglu/OSTEO_MODELS](https://github.com/BoranSekeroglu/OSTEO_MODELS)” [5] (licensed under CC BY-NC)
 >
->Also see **Figure 3**. 
+> Also see **Figure 3**. 
 >
 >![Fig2](/METRICS-E3/figs/Item30 E4.png)
 >

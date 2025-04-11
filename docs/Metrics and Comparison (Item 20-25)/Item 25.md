@@ -16,10 +16,10 @@ nav_order: 6
 > **Example #2:** “Linear regression (LR), Random Forest (RF), and convolutional neural network (CNN) algorithms were used to predict the Child-Pugh class. […] The measured accuracies were tested against the no-information rate, a classifier that assigns the most prevalent class to all samples. […] Significantly better accuracies for the prediction of Child-Pugh classes versus no-information rate were found for CNN and ERs (p ≤ 0.034), not for LR and RF (p ≥ 0.384).” [3] (licensed under CC BY)
 
 > **Example #3:** “The final selected features were utilized for modelling with five mainstream classifiers, including logistic regression (LR), K-nearest neighbours (KNN), support vector machine (SVM), random forest (RF) and GaussianNB (Gnb). […] DeLong’s test was utilized for comparisons of AUCs. A p value < 0.05 indicates a significant difference.” [4] (licensed under CC BY)
-
-“MPGTs vs. PA […] Analysis by Delong’s test showed that the AUC of the RF model was the highest but was significantly higher than that of the Gnb model only (p=0.021), with no significant differences compared to those of the other three models (p>0.05).” [4] (licensed under CC BY)
-
-“MPGTs vs. WT […] Analysis by Delong’s test showed that the AUC of the SVM model was significantly better than that of the LR model (p=0.022) or Gnb model (p=0.010), but there was no significant difference compared to the AUCs of the RF and KNN models (p>0.05).” [4] (licensed under CC BY)
+>
+> “MPGTs vs. PA […] Analysis by Delong’s test showed that the AUC of the RF model was the highest but was significantly higher than that of the Gnb model only (p=0.021), with no significant differences compared to those of the other three models (p>0.05).” [4] (licensed under CC BY)
+>
+> “MPGTs vs. WT […] Analysis by Delong’s test showed that the AUC of the SVM model was significantly better than that of the LR model (p=0.022) or Gnb model (p=0.010), but there was no significant difference compared to the AUCs of the RF and KNN models (p>0.05).” [4] (licensed under CC BY)
 
 ### Hypothetical negative examples
 > **Example #4:** ...To evaluate the optimal approach for classifying glioma grade, we implemented and compared three distinct deep learning architectures: a standard 3D Convolutional Neural Network (3D-CNN), a Residual Network (ResNet) adaptation, and a Vision Transformer (ViT) model tailored for volumetric medical data. All models were trained on our institutional dataset (n=450) and evaluated on an external validation cohort (n=110). Performance was assessed using the Area Under the Receiver Operating Characteristic Curve (AUC). The ViT model achieved the highest AUC of 0.92, followed by the ResNet (AUC = 0.90) and the standard 3D-CNN (AUC = 0.88). While the ViT demonstrated the best performance numerically, further studies are needed to confirm its clinical utility...

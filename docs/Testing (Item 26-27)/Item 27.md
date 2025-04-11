@@ -13,6 +13,7 @@ nav_order: 2
 
 ### Positive examples from the literature 
 > **Example #1:** “From January 2011 to June 2022, a total of 872 patients were retrospectively included in the study. These patients were divided into the internal training cohort (n = 487) from one center, and the external validation cohort (n = 385) from the other two centers.” [2] (licensed under CC BY)
+>
 > Also see **Figure 1**.
 >
 >![Fig1](/METRICS-E3/figs/Item27 E1.png)

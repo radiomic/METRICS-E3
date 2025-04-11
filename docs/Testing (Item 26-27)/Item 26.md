@@ -19,7 +19,7 @@ nav_order: 1
 > **Example #3.** “This study retrospectively collected 794 cases of hypertensive cerebral hemorrhage diagnosed and treated by the Chongqing Emergency Medical Center and the Affiliated Hospital of Zunyi Medical University from January 2017 to July 2023. To achieve a balance between images and data, all cases are randomly divided into a training set and a validation set at 7:3. A retrospective collection of 77 cases of HICH treated at the People’s Hospital of Guizhou Province from June 2018 to March 2023 was conducted as the test set.” [4] (licensed under CC BY).
 
 ### Hypothetical negative examples
-> **Example #4:** We trained our radiomic signature on a dataset of 450 patients diagnosed with liver cancer between 2015 and 2020 at St. Metropolis Hospital. Model performance was assessed using 10-fold cross-validation exclusively within this dataset. The average AUC across the folds was reported as the final performance metric.
+> **Example #4:** We trained our radiomic signature on a dataset of 450 patients diagnosed with liver cancer between 2015 and 2020 at X Hospital. Model performance was assessed using 10-fold cross-validation exclusively within this dataset. The average AUC across the folds was reported as the final performance metric.
 
 > **Example #5:** A radiomics model predicting treatment response was developed using imaging data from 300 patients treated at University Hospital Center A (UHC-A). To validate the model, we collected prospective data from 85 patients treated with the same protocol at Regional Medical Center B (RMC-B) and used this as our test set.
 
@@ -30,11 +30,13 @@ Machine learning models are commonly used to analyze radiomics data. These model
 Example #1 presents a study with a randomly selected holdout “internal validation cohort”. This equates to an internal test set. The authors in Example #2 recruited consecutive patients which they randomly split 3:1 to “validate” the model. Since the “validation” set came from the same population as the training set it is considered as “internal testing”. Example #3 refers to a study utilizing a training, a “validation” and a “test” set. In this case the “validation” set is used for internal testing and the “test” set for external testing.
 
 ### Specifics about the negative examples
-Example #4 relies solely on cross-validation within the training data. It lacks a separate, independent holdout dataset drawn from the same source (St. Metropolis Hospital) to serve as a dedicated internal test set. 
+Example #4 relies solely on cross-validation within the training data. It lacks a separate, independent holdout dataset drawn from the same source to serve as a dedicated internal test set. 
+
 In Example #5, the test set comes from a different institution (RMC-B) than the training set (UHC-A). This constitutes external testing, not internal testing, as the test data is not sampled from the same source population as the training data.
 
 ### Recommendations for appropriate scoring
 When evaluating radiomics papers, care needs to be taken to understand which parts of the population have been used for training, internal or external testing. In any case the test set comes from the same place or cohort as the training set, the study should be scored positive in the “internal testing” item.
+
 Cross-validation is a method for model tuning and performance estimation within the training process and does not constitute an internal or external test. On the other hand, nested cross-validation can satisfy internal testing if it includes distinct phases for training, validation, and final testing. In such cases, the final test set in the outer loop can be considered an internal test set.
 
 ### References

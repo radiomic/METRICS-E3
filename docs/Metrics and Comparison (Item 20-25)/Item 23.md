@@ -29,6 +29,7 @@ nav_order: 4
 This item directly addresses the 'curse of dimensionality,' where incorporating more data types or features to train a model with limited examples often leads to suboptimal performance [6, 7]. The more data dimensions a model has, the more complex and challenging the feature selection process becomes, increasing the risk of overfitting and reduced generalizability. Simpler models should also be favoured for their improved explainability and reduced risk of redundant information [8].
 
 Data sparsity is a significant issue in radiomics, as patient datasets are typically small [9]. Requiring multiple imaging modalities further narrows the pool of eligible training data, exacerbating this challenge. Therefore, models should be trained on the largest possible sample size to ensure robust and reliable results, prioritizing data volume over the inclusion of multiple imaging sequences. The inclusion of additional sequences or modalities should be justified only if their contribution to the model’s performance is demonstrated through formal statistical comparisons, such as DeLong’s or McNemar’s tests.
+
 ### Specifics about the positive examples
 Examples #1 and #2 are good examples because they extracted radiomics features only from a single imaging set. Precisely, Example #1 only focused on 18F-FMISO-PET for hypoxia monitoring, while Example #2 only used portal venous phase CT images to characterize pancreatic ductal adenocarcinoma. Conversely, Examples #3 and #4 investigated multimodal imaging sets, but they also performed uni-parametric evaluations that were compared to the more complex models via appropriate tests such as Student’s t-test and McNemar’s test. It is important to note that using multi-parametric imaging sets is not inherently wrong. However, it requires more careful feature selection and additional analysis to demonstrate the added value of integrating different image types.
 
@@ -37,6 +38,7 @@ Example #5 uses multi-parametric data (T1CE and FLAIR) but fails because it imme
 
 ### Recommendations for appropriate scoring 
 Studies that extract radiomics features from a single imaging set (such as a single MRI sequence or a single radiotracer in PET studies) should be awarded a point from the METRICS. 
+
 Studies exploring multi-parametric or multi-modal radiomics features receive a point only if they also conduct uni-parametric evaluations and use appropriate statistical tests to compare performance against the more complex models.
 
 ### References

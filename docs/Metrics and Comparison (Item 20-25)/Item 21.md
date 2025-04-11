@@ -37,7 +37,7 @@ nav_order: 2
 >
 > The above steps were repeated 100 iterations to obtain the mean and SD of predicted probabilities. […]
 >
-> The results in the test set are shown in [Table 1].” [5] (licensed under CC BY).
+> The results in the test set are shown in **[Table 1]**.” [5] (licensed under CC BY).
 > 
 > Table 1. “Performance of the machine learning models for the test set” [5] (licensed under CC BY).
 >
@@ -62,6 +62,7 @@ While Example #5 provides classification metrics and Example #6 offers segmentat
 
 ### Recommendations for appropriate scoring
 A positive evaluation requires the inclusion of uncertainty measures, such as 95% confidence intervals (CIs), standard deviations (SDs), or standard errors (SEs). These measures should be reported transparently and may be presented within the methods section, results section, figures, or tables. 
+
 Crucially, the methodology used to calculate these uncertainty measures (e.g., bootstrapping, cross-validation) must also be clearly described for a positive evaluation.
 
 ### References
