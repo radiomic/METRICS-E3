@@ -67,5 +67,5 @@ Studies that perform comparisons without a formal method, such as a statistical 
 9. 	Cannella R, Vernuccio F, Klontzas ME, et al (2023) Systematic review with radiomics quality score of cholangiocarcinoma: an EuSoMII Radiomics Auditing Group Initiative. Insights Imaging 14:21. https://doi.org/10.1186/s13244-023-01365-1
 10. 	Tramanzoli P, Castellani D, De Stefano V, et al (2023) Radiomics vs radiologist in bladder and renal cancer. Results from a systematic review. Cent European J Urol 76:12–19. https://doi.org/10.5173/ceju.2023.252
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2023.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2025.html){: .btn .btn-purple   }

@@ -90,5 +90,5 @@ It is important to note that sharing a model file is distinct from sharing code 
 8. 	Akinci D’Antonoli T, Cuocolo R, Baessler B, Pinto Dos Santos D (2024) Towards reproducible radiomics research: introduction of a database for radiomics studies. European Radiology 34:436–443. https://doi.org/10.1007/s00330-023-10095-3
 9. 	Kocak B, Ponsiglione A, Stanzione A, et al (2024) CLEAR guideline for radiomics: Early insights into current reporting practices endorsed by EuSoMII. European Journal of Radiology 181:111788. https://doi.org/10.1016/j.ejrad.2024.111788
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2029.html){: .btn .btn-purple  .mr-5  }
+[Home](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple   }

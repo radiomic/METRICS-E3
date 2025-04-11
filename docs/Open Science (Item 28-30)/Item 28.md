@@ -68,5 +68,5 @@ It is essential to provide the labels of radiomic features when sharing radiomic
 14. 	Herrick R, Horton W, Olsen T, et al (2016) XNAT Central: Open sourcing imaging research data. NeuroImage 124:1093–1096. https://doi.org/10.1016/j.neuroimage.2015.06.076
 15. 	Clark K, Vendt B, Smith K, et al (2013) The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository. J Digit Imaging 26:1045–1057. https://doi.org/10.1007/s10278-013-9622-7
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Testing%20(Item%2026-27)/Item%2027.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2029.html){: .btn .btn-purple   }

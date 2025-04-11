@@ -73,7 +73,7 @@ Merely stating that calibration was assessed, or making qualitative claims about
 9. 	Vuk M, Curk T (2006) ROC curve, lift chart and calibration plot. Metodološki Zvezki 3:89–108. https://doi.org/10.51936/noqf3710
 10. 	Rajaraman S, Ganesan P, Antani S (2022) Deep learning model calibration for improving performance in class-imbalanced medical image classification tasks. PLoS ONE 17:e0262838. https://doi.org/10.1371/journal.pone.0262838
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2021.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2023.html){: .btn .btn-purple   }
 
 

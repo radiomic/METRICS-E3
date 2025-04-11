@@ -76,7 +76,7 @@ Crucially, the methodology used to calculate these uncertainty measures (e.g., b
 6. 	Gitto S, Cuocolo R, Albano D, et al (2021) CT and MRI radiomics of bone and soft-tissue sarcomas: a systematic review of reproducibility and validation strategies. Insights Imaging 12:68. https://doi.org/10.1186/s13244-021-01008-3
 7. 	Santinha J, Pinto dos Santos D, Laqua F, et al (2024) ESR Essentials: radiomics—practice recommendations by the European Society of Medical Imaging Informatics. Eur Radiol. https://doi.org/10.1007/s00330-024-11093-9
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2020.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2022.html){: .btn .btn-purple   }
 
 

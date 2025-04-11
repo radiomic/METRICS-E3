@@ -65,5 +65,5 @@ If the evaluator cannot find sufficient or satisfactory reporting regarding prop
 6. 	Strotzer QD, Wagner T, Angstwurm P, et al (2024) Limited capability of MRI radiomics to predict primary tumor histology of brain metastases in external validation. Neuro-Oncology Advances 6:vdae060. https://doi.org/10.1093/noajnl/vdae060
 7. 	Gidwani M, Chang K, Patel JB, et al (2023) Inconsistent Partitioning and Unproductive Feature Associations Yield Idealized Radiomic Models. Radiology 307:e220715. https://doi.org/10.1148/radiol.220715
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2017.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Preparation%20for%20Modeling%20(Item%2018-19)/Item%2019.html){: .btn .btn-purple   }

@@ -74,5 +74,5 @@ Finally, textual descriptions should be assessed alongside figures to accurately
 8. 	Lones MA (2024) How to avoid machine learning pitfalls: a guide for academic researchers. Patterns 5:101046. https://doi.org/10.1016/j.patter.2024.101046
 9. 	Demircioğlu A (2023) Are deep models in radiomics performing better than generic models? A systematic review. Eur Radiol Exp 7:11. https://doi.org/10.1186/s41747-023-00325-0
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Condition%204.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2014.html){: .btn .btn-purple   }

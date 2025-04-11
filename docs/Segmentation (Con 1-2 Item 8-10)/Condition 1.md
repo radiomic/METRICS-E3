@@ -64,4 +64,4 @@ A study should be classified as “No” if segmentation is not mentioned, if th
 7. 	Lemay A, Gros C, Zhuo Z, et al (2021) Automatic multiclass intramedullary spinal cord tumor segmentation on MRI with deep learning. NeuroImage: Clinical 31:102766. https://doi.org/10.1016/j.nicl.2021.102766
 
 [Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%202.html){: .btn .btn-purple   }

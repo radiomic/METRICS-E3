@@ -57,6 +57,6 @@ Studies that lack these fundamental software details, fail to provide evidence o
 9. 	Fornacon-Wood I, Mistry H, Ackermann CJ, et al (2020) Reliability and prognostic value of radiomic features are highly dependent on choice of feature extraction platform. Eur Radiol 30:6241–6250. https://doi.org/10.1007/s00330-020-06957-9
 10. 	Bortolotto C, Pinto A, Brero F, et al (2024) CT and MRI radiomic features of lung cancer (NSCLC): comparison and software consistency. Eur Radiol Exp 8:71. https://doi.org/10.1186/s41747-024-00468-8
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Item%2011.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Item%2013.html){: .btn .btn-purple   }
 

@@ -55,6 +55,6 @@ To get the item score, the study should clearly describe the robustness assessme
 6. 	Freiesleben T, Grote T (2023) Beyond generalization: a theory of robustness in machine learning. Synthese 202:109. https://doi.org/10.1007/s11229-023-04334-9
 7. 	Liu J, Jin Y (2023) A comprehensive survey of robust deep learning in computer vision. Journal of Automation and Intelligence 2:175–195. https://doi.org/10.1016/j.jai.2023.10.002
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2016.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Preparation%20for%20Modeling%20(Item%2018-19)/Item%2018.html){: .btn .btn-purple   }
 

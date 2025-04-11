@@ -56,5 +56,5 @@ It is important to note that specific preprocessing steps are relevant to partic
 8. 	Trojani V, Bassi MC, Verzellesi L, Bertolini M (2024) Impact of Preprocessing Parameters in Medical Imaging-Based Radiomic Studies: A Systematic Review. Cancers 16:2668. https://doi.org/10.3390/cancers16152668
 9. 	Demircioğlu A (2022) The effect of preprocessing filters on predictive performance in radiomics. European Radiology Experimental 6:40. https://doi.org/10.1186/s41747-022-00294-w
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Back](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Condition%203.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Item%2012.html){: .btn .btn-purple   }

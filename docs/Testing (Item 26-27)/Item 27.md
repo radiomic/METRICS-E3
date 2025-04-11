@@ -63,3 +63,5 @@ To appropriately score studies for external testing, it is essential to confirm 
 6. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights into imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
 7. 	Tejani AS, Klontzas ME, Gatti AA, et al (2024) Checklist for artificial intelligence in medical imaging (CLAIM): 2024 update. Radiology Artificial intelligence 6:e240300. https://doi.org/10.1148/ryai.240300
 
+[Back](https://radiomic.github.io/METRICS-E3/docs/Testing%20(Item%2026-27)/Item%2026.html){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2028.html)/Item%204.html){: .btn .btn-purple   }

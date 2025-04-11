@@ -50,4 +50,4 @@ Another concern is the use of the term “external validation” or “external 
 9. 	Lambin P, Rios-Velazquez E, Leijenaar R, et al (2012) Radiomics: Extracting more information from medical images using advanced feature analysis. European Journal of Cancer 48:441–446. https://doi.org/10.1016/j.ejca.2011.11.036
 
 [Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%205.html){: .btn .btn-purple   }
