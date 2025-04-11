@@ -2,7 +2,7 @@
 title: Item#24
 layout: home
 parent: 7. Metrics and Comparison
-nav_order: 3
+nav_order: 5
 ---
 
 Item #24
