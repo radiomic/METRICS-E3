@@ -12,12 +12,16 @@ nav_order: 1
 
 ### Positive examples from the literature
 > **Example #1:** “Data collection was approved by the institutional review board of each of the main contributing medical centers approached for retrospective collection University Medical Center Groningen (UMCG, Groningen, The Netherlands) and Martini Hospital Groningen (Groningen, The Netherlands). Informed consent was waived due to the retrospective nature of the study. Because of clinical suspicion of PCa, a group of 930 patients, which consisted almost exclusively of white European males, was investigated between 2014 and 2020 using a combination of MRI (9 hospitals, 2 vendors, 8 types; Additional file 1) and systematic or targeted biopsy techniques.” [2] (licensed under CC BY)
+
 > **Example #2:** “A cohort of 197 patients with locally advanced cervical cancer from 3 centers (Brest, n = 119 and Nantes, n = 50, in France, and Montreal, n = 28, in Canada) was exploited.” [3] (licensed under CC BY)
+
 > **Example #3:** “A total of 261 NPC patients who received RT at Hong Kong Queen Elizabeth Hospital (QEH) between 2012 and 2015 and 160 NPC patients who received RT at Hong Kong Queen Mary Hospital (QMH) between 2012 and 2020 were retrospectively screened for study eligibility.” [4] (licensed under CC BY)
 
 ### Hypothetical negative examples
 > **Example #4:** This retrospective study included 350 patients diagnosed with hepatocellular carcinoma at a single tertiary medical center. External validation was performed by randomly splitting the data in a ratio of 7:3.
+
 > **Example #5:** A total of 420 patients with lung cancer were retrospectively collected from two affiliated hospitals within the same local healthcare network. Both hospitals used the similar imaging protocols and scanners for data acquisition.
+
 ### Importance of the item
 Radiomic models are often sensitive to variations in imaging protocols and scanner types, which can limit their performance when applied to data from a single institution [5–7]. For this reason, multicenter analysis, by including different populations, scanners and acquisition protocols, is crucial for ensuring the generalizability and robustness of predictive models across diverse patient populations and imaging conditions [7, 8]. Incorporating data from multiple centers helps in reducing biases and improving the real-world applicability of radiomics analysis fields [8, 9].
 
