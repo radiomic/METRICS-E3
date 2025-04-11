@@ -19,6 +19,7 @@ nav_order: 3
 > **Example #2:** “The re-annotated whole tumour ROIs and automatically generated maximum tumour area ROI were subjected to ICC test to assess stability concerning whole tumour (3D and 3DBB) and maximum tumour area (2D and 2DBB) features. Features with the ICC > 0.75 were included for subsequent analysis.” [3] (licensed under CC BY)
 
 > **Example #3:** “To ensure the stability of the radiomic features extracted from the CT images, the segmentation and feature-extraction process was repeated in 80 randomly selected patients with CRMs from the training set. Intraclass correlation coefficients (ICCs) were used to evaluate consistency across the radiomic features; features with ICCs >0.75 were considered stable and were included in this analysis.” [4] (licensed under CC BY-NC)
+
 ### Hypothetical negative examples
 > **Example #4:** Radiomic features were extracted from the segmented tumor regions using a standard feature-extraction pipeline. Collinear features were removed and all the remaining features were then used for model training.
 
