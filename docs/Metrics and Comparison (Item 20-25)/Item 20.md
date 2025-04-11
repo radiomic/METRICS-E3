@@ -42,6 +42,8 @@ When evaluating the appropriate adoption of performance evaluation metrics in ra
 To receive the item score for the classification tasks, it is mandatory that the authors have reported a confusion matrix.
 In addition to the above metrics that are appropriate for the task of interest, a positive rating should not be given to papers that trained DL algorithms but did not present the loss curves to monitor learning progress.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Cuocolo R, Stanzione A, Faletti R, et al (2021) MRI index lesion radiomics and machine learning for detection of extraprostatic extension of disease: a multicenter study. Eur Radiol 31:7575–7583. https://doi.org/10.1007/s00330-021-07856-3
 3. 	Sun H, Zhang C, Ouyang A, et al (2023) Multi-classification model incorporating radiomics and clinic-radiological features for predicting invasiveness and differentiation of pulmonary adenocarcinoma nodules. BioMed Eng OnLine 22:112. https://doi.org/10.1186/s12938-023-01180-1

@@ -32,6 +32,8 @@ Studies that declare data availability but fail to provide direct or indirect ac
 Points should be awarded only if datasets are fully accessible with sufficient documentation to allow reanalysis and replication. 
 It is essential to provide the labels of radiomic features when sharing radiomic feature data. Simply giving radiomic values without linking them to a specific class or outcome should not be considered adequate for meeting this item.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Starmans MPA, Timbergen MJM, Vos M, et al (2022) Differential Diagnosis and Molecular Stratification of Gastrointestinal Stromal Tumors on CT Images Using a Radiomics Approach. J Digit Imaging 35:127–136. https://doi.org/10.1007/s10278-022-00590-2
 3. 	Li W, Newitt DC, Gibbs J, et al (2020) Predicting breast cancer response to neoadjuvant treatment using multi-feature MRI: results from the I-SPY 2 TRIAL. npj Breast Cancer 6:63. https://doi.org/10.1038/s41523-020-00203-7

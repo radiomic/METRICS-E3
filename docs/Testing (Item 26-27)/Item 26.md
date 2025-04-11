@@ -26,6 +26,8 @@ Recommendations for appropriate scoring
 When evaluating radiomics papers, care needs to be taken to understand which parts of the population have been used for training, internal or external testing. In any case the test set comes from the same place or cohort as the training set, the study should be scored positive in the “internal testing” item.
 Cross-validation is a method for model tuning and performance estimation within the training process and does not constitute an internal or external test. On the other hand, nested cross-validation can satisfy internal testing if it includes distinct phases for training, validation, and final testing. In such cases, the final test set in the outer loop can be considered an internal test set.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Zhu Y, Wei Y, Chen Z, et al (2024) Different radiomics annotation methods comparison in rectal cancer characterisation and prognosis prediction: a two-centre study. Insights Imaging 15:211. https://doi.org/10.1186/s13244-024-01795-5
 3. 	Zhang M, Zeng Y, Fang Z, et al (2024) MRI radiomics enhances radiologists’ ability for characterizing intestinal fibrosis in patients with Crohn’s disease. Insights Imaging 15:165. https://doi.org/10.1186/s13244-024-01740-6

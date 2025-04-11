@@ -36,6 +36,9 @@ Studies that compare a radiomics-only approach with a clinical-only approach, or
 Caution is required when studies compare only the combined model with the radiomics-only model, as this approach assesses only the incremental value of clinical model. 
 Studies that perform comparisons without a formal method, such as a statistical test, decision curve analysis, or no-information rate, should not receive the METRICS score.
 References
+
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Zhang M, Zeng Y, Fang Z, et al (2024) MRI radiomics enhances radiologists’ ability for characterizing intestinal fibrosis in patients with Crohn’s disease. Insights Imaging 15:165. https://doi.org/10.1186/s13244-024-01740-6
 3. 	Jiang H, Liu X, Chen J, et al (2019) Man or machine? Prospective comparison of the version 2018 EASL, LI-RADS criteria and a radiomics model to diagnose hepatocellular carcinoma. Cancer Imaging 19:84. https://doi.org/10.1186/s40644-019-0266-9

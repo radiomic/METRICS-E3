@@ -40,6 +40,8 @@ Recommendations for appropriate scoring
 A positive evaluation requires the inclusion of uncertainty measures, such as 95% confidence intervals (CIs), standard deviations (SDs), or standard errors (SEs). These measures should be reported transparently and may be presented within the methods section, results section, figures, or tables. 
 Crucially, the methodology used to calculate these uncertainty measures (e.g., bootstrapping, cross-validation) must also be clearly described for a positive evaluation.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Hamm CA, Baumgärtner GL, Padhani AR, et al (2024) Reduction of false positives using zone-specific prostate-specific antigen density for prostate MRI-based biopsy decision strategies. Eur Radiol 34:6229–6240. https://doi.org/10.1007/s00330-024-10700-z
 3. 	Anderson PG, Tarder-Stoll H, Alpaslan M, et al (2024) Deep learning improves physician accuracy in the comprehensive detection of abnormalities on chest X-rays. Sci Rep 14:25151. https://doi.org/10.1038/s41598-024-76608-2

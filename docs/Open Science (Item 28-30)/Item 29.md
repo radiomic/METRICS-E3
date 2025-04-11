@@ -28,6 +28,8 @@ Recommendations for appropriate scoring
 Publications that only offer code "upon reasonable request" to the corresponding author should receive zero (METRICS) points, as this creates arbitrary access barriers and undermines reproducibility principles. Broken links should receive zero points as well.
 Item score should be awarded exclusively to studies providing public access to well-documented code repositories (e.g., GitHub) with clear implementation instructions, comprehensive documentation, and thoroughly commented scripts. 
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Wang T, She Y, Yang Y, et al (2022) Radiomics for Survival Risk Stratification of Clinical and Pathologic Stage IA Pure-Solid Non-Small Cell Lung Cancer. Radiology 302:425–434. https://doi.org/10.1148/radiol.2021210109
 3. 	Astaraki M, Yang G, Zakko Y, et al (2021) A Comparative Study of Radiomics and Deep-Learning Based Methods for Pulmonary Nodule Malignancy Prediction in Low Dose CT Images. Front Oncol 11:737368. https://doi.org/10.3389/fonc.2021.737368

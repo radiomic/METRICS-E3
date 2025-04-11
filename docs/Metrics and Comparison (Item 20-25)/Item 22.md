@@ -37,6 +37,8 @@ Recommendations for appropriate scoring
 To satisfy the requirements for this METRICS item, a study must report its calibration assessment using a quantitative metric (e.g., Brier score) or a statistical test (e.g., Hosmer-Lemeshow). 
 Merely stating that calibration was assessed, or making qualitative claims about it without providing supporting quantitative or statistical results, is insufficient to meet the criteria.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	O’Shea R, Withey SJ, Owczarczyk K, et al (2024) Multicentre validation of CT grey-level co-occurrence matrix features for overall survival in primary oesophageal adenocarcinoma. Eur Radiol 34:6919–6928. https://doi.org/10.1007/s00330-024-10666-y
 3. 	Cai L, Sidey-Gibbons C, Nees J, et al (2023) Can multi-modal radiomics using pretreatment ultrasound and tomosynthesis predict response to neoadjuvant systemic treatment in breast cancer? Eur Radiol 34:2560–2573. https://doi.org/10.1007/s00330-023-10238-6

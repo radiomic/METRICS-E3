@@ -56,6 +56,8 @@ For simpler models, such as logistic regression, the model can alternatively be 
 Another acceptable option is to provide an online or offline nomogram, along with all necessary dependencies, including formulas for calculating key variables (e.g., radiomic score) used within the nomogram. Ideally, the study would go a step further and offer a ready-to-use tool that automates the entire radiomics pipeline and generates predictions directly.
 It is important to note that sharing a model file is distinct from sharing code scripts that describe the methodology. If the shared model file does not include the actual model weights derived from the study, the study should not receive a positive score for this item.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Mainenti PP, Stanzione A, Cuocolo R, et al (2022) MRI radiomics: A machine learning approach for the risk stratification of endometrial cancer patients. European Journal of Radiology 149:. https://doi.org/10.1016/j.ejrad.2022.110226
 3. 	Yang Y, Zhang X, Zhao L, et al (2023) Development of a simplified model and nomogram in preoperative diagnosis of pediatric chronic cholangitis with pancreaticobiliary maljunction using clinical variables and MRI radiomics. Insights into Imaging 14:41. https://doi.org/10.1186/s13244-023-01383-z

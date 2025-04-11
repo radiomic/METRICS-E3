@@ -28,6 +28,8 @@ Recommendations for appropriate scoring
 Studies that extract radiomics features from a single imaging set (such as a single MRI sequence or a single radiotracer in PET studies) should be awarded a point from the METRICS. 
 Studies exploring multi-parametric or multi-modal radiomics features receive a point only if they also conduct uni-parametric evaluations and use appropriate statistical tests to compare performance against the more complex models.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Carles M, Fechter T, Grosu AL, et al (2021) 18F-FMISO-PET Hypoxia Monitoring for Head-and-Neck Cancer Patients: Radiomics Analyses Predict the Outcome of Chemo-Radiotherapy. Cancers 13:3449. https://doi.org/10.3390/cancers13143449
 3. 	Liao H, Yuan J, Liu C, et al (2023) Feasibility and effectiveness of automatic deep learning network and radiomics models for differentiating tumor stroma ratio in pancreatic ductal adenocarcinoma. Insights Imaging 14:223. https://doi.org/10.1186/s13244-023-01553-z

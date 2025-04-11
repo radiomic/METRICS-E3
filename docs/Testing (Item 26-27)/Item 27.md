@@ -39,6 +39,8 @@ In Example #5, data from all participating sites were pooled before splitting in
 Recommendations for appropriate scoring
 To appropriately score studies for external testing, it is essential to confirm that an independent institutional dataset was designated for this purpose. Accurate use of terminology is critical, as some studies may incorrectly label a simple hold-out set as “external validation,” despite being conducted within a single center. Therefore, the origin of the datasets must be carefully scrutinized to ensure that the external test set genuinely originates from a different institution. Studies that misclassify internal data splits as external validation should not receive a point for external testing according to METRICS criteria.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Xie Z, Zhang Q, Zhang R, et al (2024) Identification of D842V mutation in gastrointestinal stromal tumors based on CT radiomics: a multi-center study. Cancer Imaging 24:169. https://doi.org/10.1186/s40644-024-00815-3
 3. 	Wu Q, Zhang T, Xu F, et al (2025) MRI-based deep learning radiomics to differentiate dual-phenotype hepatocellular carcinoma from HCC and intrahepatic cholangiocarcinoma: a multicenter study. Insights into Imaging 16:27. https://doi.org/10.1186/s13244-025-01904-y

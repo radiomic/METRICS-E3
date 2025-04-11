@@ -36,6 +36,8 @@ A positive decision is recommended when authors correct for the main confounding
 It is important to distinguish between identifying independent predictors and detecting confounders, as these serve separate purposes. When determining independent predictors, major confounding factors may be included in the analysis—typically through univariate and multivariate logistic regression. Variables identified as independent predictors are generally incorporated into the final model, but they should not be regarded as confounders.
 Merely adjusting the model to account for potential confounding factors should not satisfy this criterion and, consequently, should not receive a positive evaluation. Instead, it must be explicitly analyzed and identified if present, and removed if necessary.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Lu L, Ahmed FS, Akin O, et al (2021) Uncontrolled Confounders May Lead to False or Overvalued Radiomics Signature: A Proof of Concept Using Survival Analysis in a Multicenter Cohort of Kidney Cancer. Front Oncol 11:638185. https://doi.org/10.3389/fonc.2021.638185
 3. 	Chaddad A, Desrosiers C, Toews M (2017) Multi-scale radiomic analysis of sub-cortical regions in MRI related to autism, gender and age. Sci Rep 7:45639. https://doi.org/10.1038/srep45639
