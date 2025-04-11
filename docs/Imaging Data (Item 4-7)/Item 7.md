@@ -22,7 +22,9 @@ nav_order: 4
 
 ### Hypothetical negative examples
 > **Example #5:** We investigated the use of radiomics from brain MRI to differentiate between various types of dementia. Patients presenting with cognitive impairment who underwent a brain MRI were included in this retrospective analysis. Radiomic features were extracted from T1-weighted and FLAIR images. The diagnosis of dementia subtype (Alzheimer's disease, vascular dementia, frontotemporal dementia, etc.) was based on the clinical diagnosis made by the treating neurologist at any point during the patient's care.
+
 > **Example #6:** “In this retrospective investigation assessing radiomic features in patients with suspected liver metastases, the primary CT scan was obtained before the confirmatory biopsy.”
+
 > **Example #7:** “This study aimed to assess the ability of radiomic features from baseline CT scans to predict the response to neoadjuvant chemotherapy in patients with locally advanced esophageal cancer. Patients with biopsy-proven esophageal adenocarcinoma who underwent a baseline CT scan and received at least two cycles of neoadjuvant chemotherapy were included. Radiomic features were extracted from the pre-treatment CT scans. Treatment response was assessed using the RECIST 1.1 criteria based on a CT scan performed after completion of all planned chemotherapy cycles.”
 
 ### Importance of the item
