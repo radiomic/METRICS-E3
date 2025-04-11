@@ -16,11 +16,11 @@ nav_order: 3
 > 
 > **Table 1.** “Confusion matrices for the SVM model” [2] (licensed under CC BY)
 >
->![Tab1](/METRICS-E3/figs/Item20 E1 T1.png) 
+>![Tab1](/METRICS-E3/figs/Item20 E1. T1.png) 
 > 
 > **Table 2.** “Accuracy metrics for the SVM model for the training (site 1) and testing (site 2 and site 3) datasets” [2] (licensed under CC BY)
 >
->![Tab2](/METRICS-E3/figs/Item20 E1 T2.png) 
+>![Tab2](/METRICS-E3/figs/Item20 E1. T2.png) 
 
 > **Example #2.** “[Figure 1] displays the confusion matrix of the combined model using SVM and SVM-OVO in both the training and testing cohorts. The matrix illustrates that the selected models were not prone to making errors and effectively captured the relationships among histological subtypes. The ACC in the testing cohort exceeded 0.6, even for the challenging five-classification task. All histological subtypes in the three and five-classification tasks were accurately identified. The macro-AUC and micro-AUC values of the three-classification model in the testing cohort were 0.884 and 0.896, respectively. Similarly, the macro-AUC and micro-AUC values of the five-classification model were 0.858 and 0.866, respectively. The AUC values of the histological subtypes ranged from 0.787 to 0.942, with the lowest AUC observed for MIAC in the testing cohort, as depicted in [Figure 2]” [3] (licensed under CC BY).
 >
