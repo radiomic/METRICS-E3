@@ -52,5 +52,4 @@ For studies employing both handcrafted and deep learning-based features as separ
 4. 	Cepero A, Yang Y, Young L, et al (2024) Longitudinal FDG-PET Radiomics for Early Prediction of Treatment Response to Chemoradiation in Locally Advanced Cervical Cancer: A Pilot Study. Cancers 16:3813. https://doi.org/10.3390/cancers16223813
 5. 	Kim S, Kim BR, Chae H-D, et al (2022) Deep Radiomics-based Approach to the Diagnosis of Osteoporosis Using Hip Radiographs. Radiol Artif Intell 4:e210212. https://doi.org/10.1148/ryai.210212
 6. 	Shur JD, Doran SJ, Kumar S, et al (2021) Radiomics in Oncology: A Practical Guide. Radiographics 41:1717–1732. https://doi.org/10.1148/rg.2021210037
-7. 	Vrettos K, Triantafyllou M, Marias K, et al (2024) Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence. BJR|Artificial Intelligence 1:ubae011. https://doi.org/10.1093/bjrai/ubae011
-
+7. 	Vrettos K, Triantafyllou M, Marias K, et al (2024) Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence. BJR Artificial Intelligence 1:ubae011. https://doi.org/10.1093/bjrai/ubae011
