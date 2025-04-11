@@ -33,6 +33,9 @@ Condition #2 should be classified as “Yes” only if the segmentation process 
 Conversely, Condition #2 should be classified as “No” if any manual intervention occurs after the automated segmentation, including adjustments to refine or correct the results. It should also be marked as “No” if the study uses semi-automated segmentation with human oversight or corrections or if the method includes manual pre-processing or post-processing steps that impact the final segmentation outcome.
 Thus, even if an automated algorithm is used initially, any subsequent manual refinement renders the segmentation non-fully automated, and Condition #2 should be marked as “No.”
 References
+
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Yang L, Wang T, Zhang J, et al (2024) Deep learning–based automatic segmentation of meningioma from T1-weighted contrast-enhanced MRI for preoperative meningioma differentiation using radiomic features. BMC Medical Imaging 24:56. https://doi.org/10.1186/s12880-024-01218-3
 3. 	Lin Y-C, Lin G, Pandey S, et al (2023) Fully automated segmentation and radiomics feature extraction of hypopharyngeal cancer on MRI using deep learning. Eur Radiol 33:6548–6556. https://doi.org/10.1007/s00330-023-09827-2
