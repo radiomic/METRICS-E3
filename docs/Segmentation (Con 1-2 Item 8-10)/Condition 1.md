@@ -63,3 +63,5 @@ A study should be classified as “No” if segmentation is not mentioned, if th
 6. 	van Timmeren JE, Cester D, Tanadini-Lang S, et al (2020) Radiomics in medical imaging—“how-to” guide and critical reflection. Insights into Imaging 11:91. https://doi.org/10.1186/s13244-020-00887-2
 7. 	Lemay A, Gros C, Zhuo Z, et al (2021) Automatic multiclass intramedullary spinal cord tumor segmentation on MRI with deep learning. NeuroImage: Clinical 31:102766. https://doi.org/10.1016/j.nicl.2021.102766
 
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }

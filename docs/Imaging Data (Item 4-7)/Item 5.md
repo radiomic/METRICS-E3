@@ -41,4 +41,5 @@ In contrast, studies that do not mention protocol adherence and lack references 
 5. 	Mann RM, Kuhl CK, Kinkel K, Boetes C (2008) Breast MRI: guidelines from the European Society of Breast Imaging. Eur Radiol 18:1307–1318. https://doi.org/10.1007/s00330-008-0863-7
 6. 	Weinreb JC, Barentsz JO, Choyke PL, et al (2016) PI-RADS Prostate Imaging – Reporting and Data System: 2015, Version 2. European Urology 69:16–40. https://doi.org/10.1016/j.eururo.2015.08.052
 
-
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }

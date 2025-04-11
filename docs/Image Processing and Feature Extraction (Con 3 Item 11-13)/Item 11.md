@@ -55,3 +55,6 @@ It is important to note that specific preprocessing steps are relevant to partic
 7. 	Koçak B (2022) Key concepts, common pitfalls, and best practices in artificial intelligence and machine learning: focus on radiomics. Diagn Interv Radiol 28:450–462. https://doi.org/10.5152/dir.2022.211297
 8. 	Trojani V, Bassi MC, Verzellesi L, Bertolini M (2024) Impact of Preprocessing Parameters in Medical Imaging-Based Radiomic Studies: A Systematic Review. Cancers 16:2668. https://doi.org/10.3390/cancers16152668
 9. 	Demircioğlu A (2022) The effect of preprocessing filters on predictive performance in radiomics. European Radiology Experimental 6:40. https://doi.org/10.1186/s41747-022-00294-w
+
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }

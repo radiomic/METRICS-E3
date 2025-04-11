@@ -49,3 +49,5 @@ Another concern is the use of the term “external validation” or “external 
 8. 	Koçak B (2022) Key concepts, common pitfalls, and best practices in artificial intelligence and machine learning: focus on radiomics. Diagn Interv Radiol 28:450–462. https://doi.org/10.5152/dir.2022.211297
 9. 	Lambin P, Rios-Velazquez E, Leijenaar R, et al (2012) Radiomics: Extracting more information from medical images using advanced feature analysis. European Journal of Cancer 48:441–446. https://doi.org/10.1016/j.ejca.2011.11.036
 
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }

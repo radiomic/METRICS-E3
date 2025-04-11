@@ -61,3 +61,6 @@ Merely adjusting the model to account for potential confounding factors should n
 4. 	Raisi-Estabragh Z, Jaggi A, Gkontra P, et al (2021) Cardiac Magnetic Resonance Radiomics Reveal Differential Impact of Sex, Age, and Vascular Risk Factors on Cardiac Structure and Myocardial Tissue. Front Cardiovasc Med 8:763361. https://doi.org/10.3389/fcvm.2021.763361
 5. 	Zheng T, Zhu Y, Chen Y, et al (2024) Fully automated MRI-based convolutional neural network for noninvasive diagnosis of cirrhosis. Insights into Imaging 15:298. https://doi.org/10.1186/s13244-024-01872-9
 6. 	Kumar V, Gu Y, Basu S, et al (2012) Radiomics: the process and the challenges. Magnetic Resonance Imaging 30:1234–1248. https://doi.org/10.1016/j.mri.2012.06.010
+
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }

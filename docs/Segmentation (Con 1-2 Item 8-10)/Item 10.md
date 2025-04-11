@@ -45,5 +45,6 @@ Importantly, if a study does not include a test set and relies solely on a resam
 3. 	Defeudis A, Mazzetti S, Panic J, et al (2022) MRI-based radiomics to predict response in locally advanced rectal cancer: comparison of manual and automatic segmentation on external validation in a multicentre study. European Radiology Experimental 6:19. https://doi.org/10.1186/s41747-022-00272-2
 4. 	Wei H, Zheng T, Zhang X, et al (2024) MRI radiomics based on deep learning automated segmentation to predict early recurrence of hepatocellular carcinoma. Insights Imaging 15:120. https://doi.org/10.1186/s13244-024-01679-8
 
-
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
 

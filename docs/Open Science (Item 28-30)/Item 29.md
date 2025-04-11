@@ -55,4 +55,5 @@ Item score should be awarded exclusively to studies providing public access to w
 8. 	Kocak B, Yardimci AH, Yuzkan S, et al (2023) Transparency in Artificial Intelligence Research: a Systematic Review of Availability Items Related to Open Science in Radiology and Nuclear Medicine. Acad Radiol 30:2254–2266. https://doi.org/10.1016/j.acra.2022.11.030
 9. 	Venkatesh K, Santomartino SM, Sulam J, Yi PH (2022) Code and Data Sharing Practices in the Radiology Artificial                     Intelligence Literature: A Meta-Research Study. Radiology: Artificial Intelligence 4:e220081. https://doi.org/10.1148/ryai.220081
 
-
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }

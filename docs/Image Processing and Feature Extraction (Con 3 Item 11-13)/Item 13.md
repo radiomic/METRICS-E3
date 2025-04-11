@@ -74,3 +74,5 @@ A “No” score should be assigned to studies that provide incomplete or unclea
 4. 	Sun H, You Y, Jiang Q, et al (2025) Radiomics-based nomogram for predicting total knee replacement in knee osteoarthritis patients. European Journal of Radiology 182:111854. https://doi.org/10.1016/j.ejrad.2024.111854
 5. 	Küçükçiloğlu Y, Şekeroğlu B, Adalı T, Şentürk N (2024) Prediction of osteoporosis using MRI and CT scans with unimodal and multimodal deep-learning models. Diagn Interv Radiol 30:9–20. https://doi.org/10.4274/dir.2023.232116
 
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }

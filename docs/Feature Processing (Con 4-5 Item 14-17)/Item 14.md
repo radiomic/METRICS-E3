@@ -49,3 +49,6 @@ This item should not be confused with item #15. While item #15 focuses on select
 3. 	Zhu Y, Wei Y, Chen Z, et al (2024) Different radiomics annotation methods comparison in rectal cancer characterisation and prognosis prediction: a two-centre study. Insights Imaging 15:211. https://doi.org/10.1186/s13244-024-01795-5
 4. 	Huang L, Ye Y, Chen J, et al (2023) Cystic renal mass screening: machine-learning-based radiomics on unenhanced computed tomography. dir 0:0–0. https://doi.org/10.4274/dir.2023.232386
 5. 	Van Timmeren JE, Leijenaar RTH, Van Elmpt W, et al (2016) Test–Retest Data for Radiomics Feature Stability Analysis: Generalizable or Study-Specific? Tomography 2:361–365. https://doi.org/10.18383/j.tom.2016.00208
+
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }

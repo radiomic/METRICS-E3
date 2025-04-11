@@ -75,7 +75,8 @@ Therefore, when scoring, it is essential to distinguish between studies that exp
 4. 	Liu Y, Wang Y, Hu X, et al (2024) Multimodality deep learning radiomics predicts pathological response after neoadjuvant chemoradiotherapy for esophageal squamous cell carcinoma. Insights into Imaging 15:277. https://doi.org/10.1186/s13244-024-01851-0
 5. 	Demircioğlu A (2023) Are deep models in radiomics performing better than generic models? A systematic review. Eur Radiol Exp 7:11. https://doi.org/10.1186/s41747-023-00325-0
 
-
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
 
 
 

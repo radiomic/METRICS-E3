@@ -70,5 +70,6 @@ Finally, simple sample-size calculations that do not explicitly account for dime
 9. 	Riley RD, Debray TPA, Collins GS, et al (2021) Minimum sample size for external validation of a clinical prediction model with a binary outcome. Stat Med 40:4230–4251. https://doi.org/10.1002/sim.9025
 10. 	Riley RD, Snell KI, Ensor J, et al (2019) Minimum sample size for developing a multivariable prediction model: PART II - binary and time-to-event outcomes. Stat Med 38:1276–1296. https://doi.org/10.1002/sim.7992
 
-
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
 

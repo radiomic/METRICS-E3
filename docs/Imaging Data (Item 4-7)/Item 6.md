@@ -50,3 +50,6 @@ Authors should report all the scanner types and acquisition protocol of all scan
 4. 	Lu L, Ehmke RC, Schwartz LH, Zhao B (2016) Assessing Agreement between Radiomic Features Computed for Multiple CT Imaging Settings. PLOS ONE 11:e0166550. https://doi.org/10.1371/journal.pone.0166550
 5. 	Lu L, Ahmed FS, Akin O, et al (2021) Uncontrolled Confounders May Lead to False or Overvalued Radiomics Signature: A Proof of Concept Using Survival Analysis in a Multicenter Cohort of Kidney Cancer. Front Oncol 11:638185. https://doi.org/10.3389/fonc.2021.638185
 6. 	Berenguer R, Pastor-Juan MDR, Canales-Vázquez J, et al (2018) Radiomics of CT Features May Be Nonreproducible and Redundant: Influence of CT Acquisition Parameters. Radiology 288:407–415. https://doi.org/10.1148/radiol.2018172361
+
+[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
