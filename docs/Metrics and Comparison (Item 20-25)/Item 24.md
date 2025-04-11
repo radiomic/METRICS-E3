@@ -31,9 +31,9 @@ The decision curve indicated that the use of a combined model for the prediction
 
 > **Example #6:** Our developed radiomic model demonstrated promising performance in differentiating malignant from benign thyroid nodules on ultrasound, achieving an accuracy of 91% in our validation set. This level of accuracy appears favorable when considering that reported accuracies for experienced radiologists interpreting complex nodules typically range from 80% to 88% in the literature. The high negative predictive value (94%) suggests potential utility in reducing unnecessary fine-needle aspirations. Further prospective validation is warranted to confirm these findings.
 
-> **Example #7:** The radiomics model achieved an Area Under the Curve (AUC) of 0.81 (95% CI: 0.72-0.89), with a sensitivity of 75% and specificity of 83% at the optimal threshold. The clinical model yielded an AUC of 0.77 (95% CI: 0.67-0.86), with a sensitivity of 70% and specificity of 80%. Table 1 summarizes the performance metrics for both models. While the radiomics model shows a numerically higher AUC, further studies are needed to definitively establish its superiority.
+> **Example #7:** The radiomics model achieved an Area Under the Curve (AUC) of 0.81 (95% CI: 0.72-0.89), with a sensitivity of 75% and specificity of 83% at the optimal threshold. The clinical model yielded an AUC of 0.77 (95% CI: 0.67-0.86), with a sensitivity of 70% and specificity of 80%. **Table 1** summarizes the performance metrics for both models. While the radiomics model shows a numerically higher AUC, further studies are needed to definitively establish its superiority.
 > 
-> Table 1. Performance of radiomics and clinical models for lymph node metastasis prediction (validation cohort)
+> **Table 1.** Performance of radiomics and clinical models for lymph node metastasis prediction (validation cohort)
 >
 >![Tab1](/METRICS-E3/figs/Item24 E7.png)
 
