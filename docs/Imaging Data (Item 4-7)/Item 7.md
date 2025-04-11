@@ -13,8 +13,11 @@ nav_order: 4
 
 ### Positive examples from the literature 
 > **Example #1:** “The exclusion criteria were: (a) previous history of radiation therapy, chemotherapy, or biopsy before baseline CT; (b) time interval greater than 2 weeks between the CT examination and surgery” [2] (licensed under CC BY)
+
 > **Example #2:** “Each patient was selected according to the following inclusion criteria: (1) had an accurate history of hypertension (hypertension was defined as systolic pressure ≥ 140 mmHg or diastolic pressure ≥ 90 mmHg); (2) had received their first CT scan within 24 h of disease onset; (3) had completed a CT re-examination within 24 h of disease onset” [3] (licensed under CC BY)
+
 > **Example #3:** “The study included consecutive patients with biopsy-proven PCa enrolled on the local AS programme with a minimum follow-up of 2 years, with their first and last 3T MRI scans performed on the same magnet, and at least one repeat targeted biopsy performed within a year of the last MRI” [4] (licensed under CC BY)
+
 > **Example #4:** “The patients were regularly checked for a LF in intervals of 3 months after finishing RT. LF was determined by individual radiologic review by board-certified radiologists in the specific centers or by histologic results after recurrence surgery. FFLF was calculated as the time difference between the end of SRT and LF. If no LF occurred, patients were right-censored after the last available imaging follow-up. The date of the diagnosis in the MRI was used as time point for LF.” [5] (licensed under CC BY-NC)
 
 ### Hypothetical negative examples
