@@ -13,21 +13,28 @@ nav_order: 1
 
 ### Examples from the literature meeting “Yes” condition 
 > **Example #1:** “The pancreatic ROIs were manually delineated by the two radiologists on each axial slice along the edge of the pancreatic parenchyma covering the whole pancreatic region. The corresponding peripancreatic ROIs were delineated by expanding the pancreatic ROI by 5 mm towards the peripancreatic area (the peripancreatic area encompassed a 5 mm distance from the pancreatic surface, excluding the pancreatic parenchyma area, blood vessels, bile ducts, peripancreatic lymph nodes and organs).” [2] (licensed under CC BY)
-Also see Figure 1.
- 
-Figure 1. “Example of regions of interest (ROIs) for acute pancreatitis. The pancreatic ROIs (blue area) were manually delineated along the edge of the pancreatic parenchyma, and the peripancreatic ROIs (red area) were delineated by expanding the pancreatic ROIs by 5 mm towards the peripancreatic area.” [2] (licensed under CC BY)
+>
+> Also see **Figure 1**.
+>
+>![Fig1](/METRICS-E3/figs/Con1 E1.png) 
+>
+> **Figure 1.** “Example of regions of interest (ROIs) for acute pancreatitis. The pancreatic ROIs (blue area) were manually delineated along the edge of the pancreatic parenchyma, and the peripancreatic ROIs (red area) were delineated by expanding the pancreatic ROIs by 5 mm towards the peripancreatic area.” [2] (licensed under CC BY)
 
 > **Example #2:** “The workflow of radiomics consisted of image segmentation, feature extraction, feature selection, model construction, and evaluation […] A deep learning segmentation model was built with VB-Net to automatically segment lesions. VB-Net is a modified 3D convolutional neural network that combines V-Net with bottleneck structures and is much faster than V-Net.” [3] (licensed under CC BY)
-Also see Figure 2.
- 
-Figure 2. “The radiomics workflow in the prediction of TLSs. CT, computed tomography; ROC, receiver operating characteristic.” [3] (licensed under CC BY)
-
+>
+> Also see **Figure 2**.
+>
+>![Fig2](/METRICS-E3/figs/Con1 E2.png) 
+>
+>Figure 2. “The radiomics workflow in the prediction of TLSs. CT, computed tomography; ROC, receiver operating characteristic.” [3] (licensed under CC BY)
 
 > **Example #3:** "To create a cropped deep-learning model for the region of interest (ROI) of a residual-enhancing lesion, a dedicated breast radiologist with 11 years of experience annotated the ROIs on the fifth dynamic subtraction images. Three rectangular-shaped ROIs were placed at the three points (beginning, middle, and ending) of a residual enhancing lesion, fitting to the lesion. […] These ROIs could encompass not only the target lesion but also a small area of surrounding tissue due to its shape. Engineers then utilized these three boxes to generate a 3D voxel ROI, which served as input for the deep-learning models." [4] (licensed under CC BY)
 
 ### Hypothetical examples meeting “No” condition
 > **Example #4:** A deep-learning model was developed to classify lung cancer subtypes using chest CT images. The entire CT scan was processed through a convolutional neural network (CNN) trained to differentiate between adenocarcinoma, squamous cell carcinoma, and small-cell lung cancer. The model utilized a whole-image approach (i.e., labeling class at the image, exam, or patient level, rather than a region within an image/exam), analyzing global textural and morphological characteristics without explicit segmentation of tumor regions. Feature maps from deep network layers were analyzed to identify relevant patterns contributing to classification.
+
 > **Example #5:** This study investigated osteoporosis classification using lumbar spine DXA images. A machine-learning model was trained on features extracted from the entire image without manually or automatically segmenting vertebral bodies or specific bone regions.
+
 > **Example #6:** A deep-learning model was trained on mammograms to classify breast density categories.
 
 ### Importance of the condition
