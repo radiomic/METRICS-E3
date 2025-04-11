@@ -10,6 +10,7 @@ nav_order: 6
 
 ### Explanation
 “Whether DL pipeline consistency of performance has been assessed in a test-retest setting, for example by a scan-rescan approach, use of segmentations by different readers, or stability analysis [i.e., image perturbations]. The specific methods used should be clearly presented.” [1]  (licensed under CC BY)
+
 “This item is conditional. It is applicable only for the studies employing a DL pipeline for the entire feature extraction, processing and modeling process (e.g., computer vision models such as convolutional networks or transformers), without explicit conversion of DL-based image features to a tabular format for further processing or analysis.” [1]  (licensed under CC BY)
 
 ### Positive examples from the literature
@@ -22,6 +23,7 @@ nav_order: 6
 > **Example #3:** “The test-retest reproducibility of the model output was studied in 34 axial or coronal T2 sequences from 17 ADPKD subjects who were scanned twice within a 3-week interval, short enough so that no changes in liver cyst number or volume were expected.” [4] (licensed under CC BY-NC)
 
 > **Example #4:** “To evaluate the stability of the deep learning networks, we tested robustness against test–retest scenarios as well as inter-reader variations in input seed annotations. We used the publicly available test–retest RIDER dataset comprising 32 patients with lung cancer, each of whom underwent 2 chest CT scans within 15 minutes using the same imaging protocol and in a similar position. Using this dataset, we evaluated the stability of network predictions between the test and retest scans. A high stability was demonstrated (ICC = 0.91) between both predictions.
+
 To assess stability against inter-reader variations in input data, we randomly relocated the input seed points in 3D space around the center of the tumor. This randomly shifts the network inputs during testing and can be regarded as simulating multiple human readers annotating the tumor’s center, with the inevitable variability among them. The network outputs show high correlation (Spearman’s rank-order correlation = 0.88). We also observed a high stability in prognostic predictions (AUC, μ = 0.68, σ = 0.014).” [5] (licensed under CC BY)
 
 ### Hypothetical negative examples
@@ -38,7 +40,9 @@ Robustness can be defined as the relative stability of a target with respect to 
 In Example #1, robustness against adversarial attacks was measured using FGSM, PGD, and BIM methods.  Example #2 demonstrates robustness through the impact of manual lesion cropping on model performance. Example #3 evaluates test-retest reproducibility over a three-week interval, and, in Example #4, robustness is assessed using test-retest scenarios as well as inter-reader variations to test model stability. 
 
 ### Specifics about the negative examples
-Example #5, which involves retraining the model multiple times with different random seeds, addresses variability due to model initialization rather than robustness against data variations or real-world perturbations. Example #6 emphasizes extensive data augmentation during the training phase, which might enhance model generalization but does not constitute a post-training robustness assessment against systematic perturbations or reproducibility conditions. Similarly, Example #7 focuses solely on model accuracy on an external test set, reflecting external validation and generalizability but not explicitly evaluating consistency under controlled perturbations or test-retest scenarios essential for robustness assessment.
+Example #5, which involves retraining the model multiple times with different random seeds, addresses variability due to model initialization rather than robustness against data variations or real-world perturbations. Example #6 emphasizes extensive data augmentation during the training phase, which might enhance model generalization but does not constitute a post-training robustness assessment against systematic perturbations or reproducibility conditions. 
+
+Similarly, Example #7 focuses solely on model accuracy on an external test set, reflecting external validation and generalizability but not explicitly evaluating consistency under controlled perturbations or test-retest scenarios essential for robustness assessment.
 
 ### Recommendations for appropriate scoring
 To get the item score, the study should clearly describe the robustness assessment strategies in the manuscript. A well-documented strategy should explain the types of robustness tests performed (e.g., adversarial attacks, test-retest reproducibility), the dataset modifications used to simulate real-world conditions, and quantitative metrics for robustness evaluation, such as stability scores or perturbation thresholds.

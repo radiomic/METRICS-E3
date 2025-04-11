@@ -38,6 +38,7 @@ Example #4 removes collinear features but does not test feature stability across
 
 ### Recommendations for appropriate scoring
 Studies should be scored based on their explicit description and application of methods to identify and remove non-robust features. Full points should be awarded if the study uses rigorous approaches like test-retest, perturbation analysis, or reproducibility testing across different segmentations and provides detailed results for each step in the feature removal pipeline. Studies that do not consider feature robustness or fail to report methods for removing unstable features should not receive points.
+
 This item should not be confused with item #15. While item #15 focuses on selecting features that provide non-redundant information to reduce dimensionality, the current item (i.e., item #14) emphasizes the reliability and robustness of feature values.
 
 ### References

@@ -44,15 +44,23 @@ Dealing with high-dimensional data introduces the curse of dimensionality in rad
 
 ### Specifics about the positive examples
 In Example #1, the study deemed dimensionality adequate based on the logistic regression “rule of thumb.” Specifically, the training cohort consisted of 232 patients, 60 of whom belonged to the minority class. From this 1:10 minority-to-parameter ratio, the study identified 6 total features (3 clinical and 3 radiomics), making the dimensionality appropriate not only for the overall training cohort but also for the minority class. Table 1 provides detailed information regarding the number of instances within each class.
+
 In Example #2, dimensionality was evaluated by examining the model’s fit rather than using the 1:10 rule, since the best-performing classifier was a support vector machine (SVM). The primary assessment came from comparing 95% confidence intervals for the area under the curve (AUC) in both training and testing cohorts (internal and external). While the mean AUC was slightly higher in the internal testing cohort and slightly lower in the external testing cohort, the substantial overlap in confidence intervals indicates a satisfactory model fit, which may indicate appropriateness of dimensionality.
 
 ### Specifics about the negative examples
-In Example #3, the algorithm selected 25 features for logistic regression, but there were only 30 patients experiencing disease progression. According to the logistic regression rule of thumb (ideally, 10 patients per feature from the minority class), making this sample clearly inadequate. In Example #4, despite a seemingly sufficient sample size, the significant performance drop from training to validation and external testing cohorts (indicated by distinct confidence intervals) strongly suggests model overfitting due to inappropriate dimensionality. Examples #5 and #6 used simplistic sample-size calculations based solely on statistical power and anticipated AUC without explicitly considering feature dimensionality, ignoring critical issues related to radiomic analyses and resulting in insufficient justification for their sample sizes.
+In Example #3, the algorithm selected 25 features for logistic regression, but there were only 30 patients experiencing disease progression. According to the logistic regression rule of thumb (ideally, 10 patients per feature from the minority class), making this sample clearly inadequate. 
+
+In Example #4, despite a seemingly sufficient sample size, the significant performance drop from training to validation and external testing cohorts (indicated by distinct confidence intervals) strongly suggests model overfitting due to inappropriate dimensionality. 
+
+Examples #5 and #6 used simplistic sample-size calculations based solely on statistical power and anticipated AUC without explicitly considering feature dimensionality, ignoring critical issues related to radiomic analyses and resulting in insufficient justification for their sample sizes.
 
 ### Recommendations for appropriate scoring
 When evaluating the appropriateness of dimensionality, it is crucial to use methods aligned with the specific algorithm under study. For logistic regression, traditional rules of thumb can be applied, or more advanced techniques such as those proposed by Riley et al. may be adopted [7–10]. 
+
 In the case of more complex algorithms, the model’s fitting status can serve as an indirect gauge of dimensionality. However, it is vital to assess this status using uncertainty measures (e.g., 95% confidence intervals) rather than relying solely on point estimates like the mean. 
+
 For complex models — meaning models other than logistic regression — the rule of thumb of 1:10 for the minority class can also be used as an partial check to assess whether the required sample size would fall short for simpler models. If the sample size is insufficient for simpler models, this would suggest that the dimensionality is also likely inappropriate relative to the data size for complex models. However, this rule of thumb should not be solely relied upon to fully determine whether the criteria are satisfied.
+
 Finally, simple sample-size calculations that do not explicitly account for dimensionality—such as those based solely on measures like the AUC—are insufficient to fully address this concern.
 
 ### References
