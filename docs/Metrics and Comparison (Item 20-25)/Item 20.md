@@ -77,7 +77,3 @@ In addition to the above metrics that are appropriate for the task of interest, 
 7. 	Rainio O, Teuho J, Klén R (2024) Evaluation metrics and statistical tests for machine learning. Sci Rep 14:6086. https://doi.org/10.1038/s41598-024-56706-x
 8. 	Hicks SA, Strümke I, Thambawita V, et al (2022) On evaluation metrics for medical applications of artificial intelligence. Sci Rep 12:5979. https://doi.org/10.1038/s41598-022-09954-8
 
-
-
-
-
