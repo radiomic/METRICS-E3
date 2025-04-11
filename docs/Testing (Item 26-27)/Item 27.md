@@ -64,4 +64,4 @@ To appropriately score studies for external testing, it is essential to confirm 
 7. 	Tejani AS, Klontzas ME, Gatti AA, et al (2024) Checklist for artificial intelligence in medical imaging (CLAIM): 2024 update. Radiology Artificial intelligence 6:e240300. https://doi.org/10.1148/ryai.240300
 
 [Back](https://radiomic.github.io/METRICS-E3/docs/Testing%20(Item%2026-27)/Item%2026.html){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2028.html)/Item%204.html){: .btn .btn-purple   }
+[Next](https://radiomic.github.io/METRICS-E3/docs/Open%20Science%20(Item%2028-30)/Item%2028.html){: .btn .btn-purple   }
