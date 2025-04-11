@@ -5,7 +5,7 @@ parent: 1. Study Design
 nav_order: 3
 ---
 
-### Item #3
+## Item #3
 “High-quality reference standard with a clear definition.” [1]  (licensed under CC BY)
 
 ### Explanation
