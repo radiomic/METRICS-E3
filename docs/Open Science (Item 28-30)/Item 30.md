@@ -19,6 +19,7 @@ nav_order: 3
 >![Fig1](/METRICS-E3/figs/Item30 E1.png)
 >
 > **Figure 1.** GitHub page of the study in Example #1. [2]
+
 > **Example #2:** “To provide clinicians with an individualized and easy-to-use tool for the preoperative diagnosis of the occurrence of chronic cholangitis in PBM patients, the combined model was visualized as a radiomics nomogram. A radiomics nomogram score (Nomo-score) was calculated based on the significant clinical features and the Rad-score. […]
 > We developed a radiomics nomogram for diagnosis of chronic cholangitis in PBM children [Figure 2]. […]
 >
