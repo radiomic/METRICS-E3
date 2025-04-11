@@ -21,7 +21,7 @@ nav_order: 3
 > **Figure 1.** GitHub page of the study in Example #1. [2]
 
 > **Example #2:** “To provide clinicians with an individualized and easy-to-use tool for the preoperative diagnosis of the occurrence of chronic cholangitis in PBM patients, the combined model was visualized as a radiomics nomogram. A radiomics nomogram score (Nomo-score) was calculated based on the significant clinical features and the Rad-score. […]
-> We developed a radiomics nomogram for diagnosis of chronic cholangitis in PBM children [Figure 2]. […]
+> We developed a radiomics nomogram for diagnosis of chronic cholangitis in PBM children **[Figure 2]**. […]
 >
 > The following Rad-score was derived based on the coefficients weighted by LASSO-logistic regression: 0.337 × original_shape_Maximum2DDiameterSlice
  + 0.115 × log-sigma-1–0-mm-3D_gldm_LowGrayLevelEmphasis.
