@@ -38,6 +38,7 @@ We used a feature analysis program designed for radiomics analysis within Pyradi
 > **Example #3:** “Z-score normalization was implemented before extracting traditional features. A total of 1652 features were extracted from both original and filtered images. For deep learning, the Inception-V3 network, pre-trained on ImageNet data, was employed. The largest tumor images from each patient were cropped for feature extraction, with grayscale values normalized within the range [−1, 1] using min–max transformation. The images were then resized to 299 × 299 using the nearest interpolation. The network’s last fully connected layer was removed, and the average pooling layer of the feature maps was used to extract 2048 deep-learning features.” [4] (licensed under CC BY). 
 >
 >Also see **Figure 2**.
+>
 >![Fig2](/METRICS-E3/figs/Con4 E3.png) 
 >
 > **Figure 2**. “Workflow of the radiomics analysis” [4] (licensed under CC BY)
