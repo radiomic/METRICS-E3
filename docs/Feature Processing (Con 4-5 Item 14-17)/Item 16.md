@@ -28,7 +28,7 @@ nav_order: 5
 >
 > **Table 2.** “The classification results of ablation analyses on training, internal, and external test cohort” [3] (licensed under CC BY)
 >
->>![Tab2](/METRICS-E3/figs/Item16 T2.png) 
+>![Tab2](/METRICS-E3/figs/Item16 T2.png) 
 
 ### Hypothetical negative examples 
 > **Example #3:** The radiomics signature was developed using logistic regression and specifically by LASSO, which selected 25 features. The final training set consisted of 80 patients, 30 of whom experienced disease progression.
