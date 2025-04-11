@@ -26,11 +26,9 @@ The features in the radiomic signature were largely independent apart from Fine_
 
 > **Example #4:** “A three-step procedure was sequentially used to select optimal features. Initially, Spearman’s rank correlation was implemented to eliminate features with a correlation coefficient greater than 0.9. Next, tenfold cross-validation was applied in conjunction with the least absolute shrinkage and selection operator (LASSO) method to select the optimal features with non-zero.  coefficients, as determined by the optimal penalty parameter. Subsequently, the maximum relevance-minimum redundancy (mRMR) approach was performed to further reduce data dimensionality.” [5] (licensed under CC BY). 
 >
-> Also see **Figure 1**.
->
 > “After using the Spearman correlation method to eliminate redundant radiomic features, 319, 313, 318, and 291 features were retained from the intratumoral, Peri_5mm, Peri_10mm, and Peri_20mm regions, respectively. Following the mRMR and LASSO approaches, 12, 15, 7, and 7 highly robust features were retrained for training the intratumoral, Peri_5mm, Peri_10mm, and Peri_20mm models, respectively.”  [5] (licensed under CC BY). 
 >
-> Also see **Figure 2**.
+> Also see **Figure 1** and **Figure 2**.
 > 
 >![Fig1](/METRICS-E3/figs/Item15 E4.1.png) 
 >
