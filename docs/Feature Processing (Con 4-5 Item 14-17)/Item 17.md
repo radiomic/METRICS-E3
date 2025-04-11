@@ -31,6 +31,8 @@ Example #5, which involves retraining the model multiple times with different ra
 Recommendations for appropriate scoring
 To get the item score, the study should clearly describe the robustness assessment strategies in the manuscript. A well-documented strategy should explain the types of robustness tests performed (e.g., adversarial attacks, test-retest reproducibility), the dataset modifications used to simulate real-world conditions, and quantitative metrics for robustness evaluation, such as stability scores or perturbation thresholds.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Joel MZ, Umrao S, Chang E, et al (2022) Using Adversarial Images to Assess the Robustness of Deep Learning Models Trained on Diagnostic Images in Oncology. JCO Clinical Cancer Informatics e2100170. https://doi.org/10.1200/CCI.21.00170
 3. 	He Y, Pan I, Bao B, et al (2020) Deep learning-based classification of primary bone tumors on radiographs: A preliminary study. eBioMedicine 62:103121. https://doi.org/10.1016/j.ebiom.2020.103121

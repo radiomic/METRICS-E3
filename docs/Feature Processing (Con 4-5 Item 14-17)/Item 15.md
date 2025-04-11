@@ -44,6 +44,10 @@ Appropriate scoring for this item requires a thorough evaluation of both the mat
 Caution is necessary for methods that do not remove redundant features but instead create new representations, such as hierarchical clustering or principal component analysis. These are not methods for eliminating redundant features and do not meet this item.
 This item should not be confused with item #14. While item #14 focuses on the reliability of feature values, the current item (item #15) emphasizes the selection of features that provide non-redundant information to reduce dimensionality.
 References
+
+
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Zhou C, Zhang Y-F, Guo S, et al (2023) Multiparametric MRI radiomics in prostate cancer for predicting Ki-67 expression and Gleason score: a multicenter retrospective study. Discov Onc 14:133. https://doi.org/10.1007/s12672-023-00752-w
 3. 	Jing H-H, Hao D, Liu X-J, et al (2024) Development and validation of a radiopathomics model for predicting liver metastases of colorectal cancer. Eur Radiol. https://doi.org/10.1007/s00330-024-11198-1

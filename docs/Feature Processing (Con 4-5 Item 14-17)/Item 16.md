@@ -37,6 +37,8 @@ In the case of more complex algorithms, the model’s fitting status can serve a
 For complex models — meaning models other than logistic regression — the rule of thumb of 1:10 for the minority class can also be used as an partial check to assess whether the required sample size would fall short for simpler models. If the sample size is insufficient for simpler models, this would suggest that the dimensionality is also likely inappropriate relative to the data size for complex models. However, this rule of thumb should not be solely relied upon to fully determine whether the criteria are satisfied.
 Finally, simple sample-size calculations that do not explicitly account for dimensionality—such as those based solely on measures like the AUC—are insufficient to fully address this concern.
 References
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Feng H, Shi G, Xu Q, et al (2023) Radiomics-based analysis of CT imaging for the preoperative prediction of invasiveness in pure ground-glass nodule lung adenocarcinomas. Insights Imaging 14:24. https://doi.org/10.1186/s13244-022-01363-9
 3. 	Yu Y, Yang T, Ma P, et al (2025) Determining the status of tertiary lymphoid structures in invasive pulmonary adenocarcinoma based on chest CT radiomic features. Insights into Imaging 16:28. https://doi.org/10.1186/s13244-025-01906-w
