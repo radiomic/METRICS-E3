@@ -12,11 +12,11 @@ nav_order: 2
 “Fully automated segmentation refers to the segmentation process without any human intervention.” [1] (licensed under CC BY)
 
 ### Examples from the literature meeting “Yes” condition 
-> **Example #1:** “SegResNet, a 3D U-net-like network with a ResNetlike block, was applied to develop the automatic segmentation model, whose code was available on GitHub (https://github.com/Project-MONAI/MONAI). The architecture of this algorithm is shown in [Figure 1].” [2] (licensed under CC BY)
+> **Example #1:** “SegResNet, a 3D U-net-like network with a ResNetlike block, was applied to develop the automatic segmentation model, whose code was available on GitHub (https://github.com/Project-MONAI/MONAI). The architecture of this algorithm is shown in **[Figure 1]**.” [2] (licensed under CC BY)
 >
 >![Fig1](/METRICS-E3/figs/Con2 E1.png) 
 >
-Figure 1. “SegResNet architecture” [2] (licensed under CC BY)
+> **Figure 1.** “SegResNet architecture” [2] (licensed under CC BY)
 
 > **Example #2:** “Two types of network architectures were used for training and testing the performances of tumor segmentation: the U-Net as previous studies, and DeepLab V3 + **[Figure 2]**, a decoder module with a depth separable convolution for ASPP layers to improve the object boundary detection. The networks were trained with weight randomization and stochastic gradient descent Adam optimizer method. The signal intensities of all images were normalized to a mean = 0 and standard deviation = 1. The learning rate was set to 0.001, and the number of epochs until convergence was 100 with batch sizes of 2. The network was trained using Keras 2.1.4 written in Python 3.5.4 and TensorFlow 1.5.0. The code for the DeepLab V3 + model is available at https://github.com/bonlime/keras-deeplab-v3-plus.” [3] (licensed under CC BY)
 >
@@ -24,7 +24,7 @@ Figure 1. “SegResNet architecture” [2] (licensed under CC BY)
 >
 > **Figure 2.** “An illustration of the DeepLabV3 +. The encoder module encodes multi-scale contextual information by applying atrous (dilated) convolution at multiple scales, while the simple yet effective decoder module refines the segmentation results along object boundaries” [3] (licensed under CC BY)
 
-> **Example #3:** “The architecture of our U-net-based model for the segmentation of BC is presented in [Figure 3]. Our model was composed of five layers, which was deeper than the original U-net composed of four layers. For training the model, we employed the Adam optimizer as the optimizer with the cost function of Dice loss. The epochs, batch size, and initial learning were set to 30, 56, and 0.001, respectively. During the training, we performed five-fold cross-validation using 80% of the patients for training and 20% for validation.” [4] (licensed under CC BY)
+> **Example #3:** “The architecture of our U-net-based model for the segmentation of BC is presented in **[Figure 3]**. Our model was composed of five layers, which was deeper than the original U-net composed of four layers. For training the model, we employed the Adam optimizer as the optimizer with the cost function of Dice loss. The epochs, batch size, and initial learning were set to 30, 56, and 0.001, respectively. During the training, we performed five-fold cross-validation using 80% of the patients for training and 20% for validation.” [4] (licensed under CC BY)
 >
 >![Fig3](/METRICS-E3/figs/Con2 E3.png) 
 >
@@ -43,10 +43,14 @@ Example #1 employs an automatic segmentation algorithm within a radiomic pipelin
 
 ### Specifics about the examples meeting “No” condition
 In Example #4, even though an automatic segmentation model was used initially, the study included manual refinement of the segmentations by radiologists. This human intervention means the segmentation process was not fully automated, leading to the same reproducibility concerns that affect manual segmentations. In Example #5, The segmentation process involved manual preprocessing (ROI selection) and post-processing (contour adjustments). Since human intervention occurred at multiple stages, the segmentation cannot be classified as fully automated.
+
 ### Recommendations for appropriate scoring
 Condition #2 should be classified as “Yes” only if the segmentation process is entirely automated, meaning no human intervention occurs at any stage. This includes both initial segmentation and any potential post-processing adjustments.
+
 Conversely, Condition #2 should be classified as “No” if any manual intervention occurs after the automated segmentation, including adjustments to refine or correct the results. It should also be marked as “No” if the study uses semi-automated segmentation with human oversight or corrections or if the method includes manual pre-processing or post-processing steps that impact the final segmentation outcome.
+
 Thus, even if an automated algorithm is used initially, any subsequent manual refinement renders the segmentation non-fully automated, and Condition #2 should be marked as “No.”
+
 ### References
 
 {: .fs-2 }

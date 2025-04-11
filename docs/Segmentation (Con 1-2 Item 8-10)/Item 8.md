@@ -14,14 +14,14 @@ nav_order: 4
 >
 >![Fig1](/METRICS-E3/figs/Item8 E1.png) 
 >
->**Figure 1.** “Illustrations of texture features analysis. (A) Axial T2-weighted MRI image of a 45-year-old female with EC. (B) Axial T2- weighted MRI image of a 58-year-old female with MMMT.” [2] (licensed under CC BY)
+> **Figure 1.** “Illustrations of texture features analysis. (A) Axial T2-weighted MRI image of a 45-year-old female with EC. (B) Axial T2- weighted MRI image of a 58-year-old female with MMMT.” [2] (licensed under CC BY)
 
 > **Example #2:** “Segmentations of the primary bladder tumors as well as all peri-iliac, obturator, and perivesical LNs on both sides were performed manually on axial CT images in the portal venous phase using the open-source Medical Imaging Interaction Toolkit (MITK, version 2018.04.2, DKFZ, Heidelberg, Germany). The segmentations were subsequently reviewed and corrected, if necessary, by a second reader with extensive experience in urogenital imaging. Both readers were blinded to the clinicopathological information. In the following, the segmentations including the area of the region of interest (bladder tumor or lymph node) are referred to as intratumoral masks. Peritumoral masks, comprising the area within a 6 mm margin around the intratumoral masks, were automatically created from manual segmentation using morphological operations from the SimpleITK library.”  [3] (licensed under CC BY). 
 Also see **Figure 2**.
 >
 >![Fig2](/METRICS-E3/figs/Item8 E2.png) 
 > 
-**Figure 2**. “Study design.” [3] (cropped, licensed under CC BY).
+> **Figure 2**. “Study design.” [3] (cropped, licensed under CC BY).
 
 > **Example #3:** “Manual segmentation of the tumor’s three-dimensional region of interest (ROI) was performed on the axial DCE-MRI images using the ITK-SNAP software (http://www.itksnap.org). The ROI was drawn along the tumor’s outline to include the whole lesion without the information about the LN status. The largest tumor lesion was segmented for the patients with multiple lesions in the breast. The ROI was manually segmented by a radiologist with 5 years of experience who was blinded to the lymph node status. The ROI was then confirmed and adjusted by a senior radiologist to ensure the accuracy of the segmentation. […] The maximum cross-sectional area of the tumor ROI was selected and cropped to the two-dimensional rectangular image covering the entire tumor. The tumor patch was re-sized to 224 × 224 and input to the VGG-16 model.” [4]  (licensed under CC BY)
 Also see **Figure 3**.
@@ -45,10 +45,12 @@ All the reported examples clearly state the tool used for segmentation, the numb
 
 ### Specifics about the negative examples
 Example #5 lacks essential details about the segmentation process. It does not specify the software used, the imaging sequence, whether segmentation was manual, semi-automatic, or automatic, or how many readers were involved. 
+
 Example #6 provides vague information about ROI selection and segmentation. It does not specify the imaging modality, the tool used, the segmentation method, or the size and definition of the peri-tumoral area.
 
 ### Recommendations for appropriate scoring
 Most radiomics studies provide information on the segmentation process. However, if any key details required for replicating the segmentation are missing, the study should not receive a point from the METRICS. Essential details include the tool used for segmentation, whether the approach was manual, semi-automatic, or automatic, the type of image used for ROI delineation, its orientation, and the number of readers involved. For peri-tumoral area contouring, specifying the precise extent of the expanded area, as well as the tool and method for ROI definition, is crucial. In deep learning analyses involving image cropping or bounding boxes, details such as slice selection, size, and the rationale for cropping should be provided. Including an image to illustrate the segmentations can be beneficial. Additionally, reporting any supplementary information, such as other imaging or clinical information used to assist in the segmentation process, adds valuable context and enhances transparency and reproducibility.
+
 ### References
 
 {: .fs-2 }
