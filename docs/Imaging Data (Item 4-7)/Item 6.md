@@ -13,7 +13,7 @@ nav_order: 3
 > **Example #1:** “Apart from the echo time, two T2-weighted sequences were used (TE75, TE300) with a field-of-view of 400 × 400 × 233 (AP × RL × FH) mm, a reconstructed in-plane voxel of 1 × 1 (AP × RL) mm, slice thickness of 5 mm FH, echo times of 75 and 300 ms respectively and a repetition time of 2725 ms, without fat suppression. Five routinely available sequences were collected from the diffusion-weighted scan (b0, b10, b200, b800, and ADC) with a field-of-view of 450 × 400 × 251 (AP × RL × FH) mm, reconstructed in-plane voxel size of 1.75 × 1.75 (AP × RL) mm, echo time of 86 ms, repetition time of 1447 ms, and a SPAIR fat suppression pulse was used—leading to a maximum of seven sequences available per liver resection.” [2] (licensed under CC BY)
 
 > **Example #2** See Table 1. 
-Table 1. “Scanning parameters” [3] (licensed under CC BY)
+> **Table 1.** “Scanning parameters” [3] (licensed under CC BY)
 >
 >![Tab1](/METRICS-E3/figs/Item6 E2.png) 
 
