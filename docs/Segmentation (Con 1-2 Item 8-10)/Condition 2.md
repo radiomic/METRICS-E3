@@ -29,8 +29,10 @@ Figure 1. “SegResNet architecture” [2] (licensed under CC BY)
 >![Fig3](/METRICS-E3/figs/Con2 E3.png) 
 >
 > **Figure 3.** “U-Net architecture. Conv convolution, BN batch normalization, ReLU rectified linear unit.” [4] (under CC BY)
+
 ### Hypothetical examples meeting “No” condition
 > **Example #4:** A deep learning-based segmentation model was developed using a modified U-Net architecture. The model was trained on a dataset of 500 contrast-enhanced MRIs. Following automatic segmentation, two experienced radiologists manually refined the segmentations to correct misclassified regions, particularly in cases with low contrast boundaries. These refined segmentations were used for feature extraction in the radiomic analysis.
+
 > **Example #5:** We implemented a deep learning-based segmentation pipeline using a 3D V-Net architecture to segment brain tumors from FLAIR MRI images. Before applying the model, images were preprocessed through manual ROI selection by an expert neuroradiologist to exclude non-relevant regions. After automatic segmentation, a morphological post-processing step was applied, where radiologists adjusted the contours of the segmented regions to improve the boundary definition before feature extraction.
 
 ### Importance of the condition 
