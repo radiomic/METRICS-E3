@@ -22,7 +22,8 @@ nav_order: 5
 Experimental results show that our method is capable of accurately subdividing the input liver MR images into eight anatomical regions, with an average DSC of 90.20%.” [2] (licensed under CC BY)
 
 > **Example #2:** “Each model’s segmentation performance was assessed using the following metrics: (1) the DSC, a measure of spatial overlap calculated using the formula 2TP/(FP + 2TP + FN), where TP, FP, and FN represent true-positive, false-positive, and false-negative detections, respectively; (2) Jaccard index, calculated using the formula TP/(TP + FP + FN); and (3) average surface distance (ASD), calculated as the mean Euclidean distance between surface voxels in the segmented object and ground truth. […] DeepLab V3 + had a higher DSC (p < 0.05) and Jaccard index (p < 0.001) but a lower ASD (p < 0.001) than did U-Net” [3] (licensed under CC BY)
-See also **Figure 1**.
+>
+> See also **Figure 1**.
 >
 >![Fig3](/METRICS-E3/figs/Item9 E2.png) 
 > 
@@ -52,6 +53,7 @@ These are negative examples because they fail to provide a formal evaluation of 
 
 ### Recommendations for appropriate scoring
 This item should be scored if both methodology and results report the assessment of fully automatic segmentation for radiomics feature extraction. Methods should include the transparent description of the fully automated segmentation tool, the ground truth, and the statistical evaluation metrics. 
+
 Simply using an automated segmentation tool does not qualify for this item; a formal analysis is required. Additionally, caution is needed when determining whether a segmentation method is truly automatic—any preprocessing or post-segmentation refinement may classify it as semi-automated rather than fully automated. Such studies should not receive a point for this item.
 
 ### References

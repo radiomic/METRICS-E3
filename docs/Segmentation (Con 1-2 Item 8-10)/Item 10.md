@@ -31,11 +31,16 @@ Example #1 states that the region of interest (ROI) was contoured by a single ra
 
 ### Specifics about the negative examples
 Example #4 describes a review process in which a second reader influences the final segmentation. The senior radiologist’s adjustments mean that the final segmentation is not solely the product of a single reader. This collaborative approach introduces a consensus-like element, violating the item’s requirement for either a single-reader or a fully automated segmentation process.
+
 In Example #5, while the study initially employs an automated tool, the key issue is the manual correction step, where two additional readers modify the results. If only a single reader had corrected the automated segmentation, it would have been considered a semi-automated approach and would have met the item requirement. However, the involvement of multiple readers introduces an additional layer of human intervention, making it inconsistent with the criteria.
+
 ### Recommendations for appropriate scoring
 Item #10 can be scored “Yes” if a single reader manually or semi-automatically performed the segmentation throughout the entire study or if a fully automated algorithm was used. However, for studies involving multiple segmentations for reproducibility analyses, it must be explicitly stated that these cases belong only to the training set, ensuring a clear separation from the test set.
+
 Consensus segmentation or reviewing segmentations for accuracy does not meet the criteria for this item and should be scored “No”. Additionally, caution is advised when assessing automatic segmentation. Any intervention in the resulting segmentation by an automated tool renders it semi-automated; if such modifications involve more than one reader, the study should be scored “No”.
+
 Importantly, if a study does not include a test set and relies solely on a resampling method, it should be clarified that all cases in the validation or test folds were segmented by a single reader (manually or semiautomatically) or an automated tool. This means that the entire dataset should be segmented either by a single reader or fully automated.
+
 ### References
 
 {: .fs-2 }
