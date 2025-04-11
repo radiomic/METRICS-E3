@@ -12,15 +12,15 @@ nav_order: 1
 “Whether any imaging, segmentation, clinical, or radiomics analysis data is shared with the public.” [1] (licensed under CC BY)
 
 ### Positive examples from the literature
-> **Example #1:** “Imaging and clinical research data are publicly available and can be found at https://xnat.bmia.nl/data/projects/worc and are described in detail in https://doi.org/10.1101/2021.08.19.21262238.” [2] (licensed under CC BY)
+> **Example #1:** “Imaging and clinical research data are publicly available and can be found at [https://xnat.bmia.nl/data/projects/worc](https://xnat.bmia.nl/data/projects/worc) and are described in detail in [https://doi.org/10.1101/2021.08.19.21262238](https://doi.org/10.1101/2021.08.19.21262238).” [2] (licensed under CC BY)
 
-> **Example #2:** “The data generated and analyzed during this study are described in the following data record: https://doi.org/10.6084/m9.figshare.12912191. The datasets are as follows: the original acquired and derived MRI DICOM data, under the title “I-SPY 2 MRI Collection”, and an Excel file called “Multi-feature MRI NACT Data.xlsx”. These will be deposited and be publicly available in NCI The Cancer Imaging Archive (TCIA): https://www.cancerimagingarchive.net/.” [3] (licensed under CC BY)
+> **Example #2:** “The data generated and analyzed during this study are described in the following data record: [https://doi.org/10.6084/m9.figshare.12912191](https://doi.org/10.6084/m9.figshare.12912191). The datasets are as follows: the original acquired and derived MRI DICOM data, under the title “I-SPY 2 MRI Collection”, and an Excel file called “Multi-feature MRI NACT Data.xlsx”. These will be deposited and be publicly available in NCI The Cancer Imaging Archive (TCIA): [https://www.cancerimagingarchive.net/](https://www.cancerimagingarchive.net/).” [3] (licensed under CC BY)
 
-> **Example #3:** ““The data and the R code that support the findings of this study are available at https://github.com/harveerar/SciRepEndometrial2020.” [4] (licensed under CC BY)
+> **Example #3:** ““The data and the R code that support the findings of this study are available at [https://github.com/harveerar/SciRepEndometrial2020](https://github.com/harveerar/SciRepEndometrial2020).” [4] (licensed under CC BY)
 
-> **Example #4:** “The corresponding manually generated lesion segmentations are publicly available (https://github.com/rcuocolo/PROSTATEx_masks).” [5] (licensed under CC BY)
+> **Example #4:** “The corresponding manually generated lesion segmentations are publicly available ([https://github.com/rcuocolo/PROSTATEx_masks](https://github.com/rcuocolo/PROSTATEx_masks)).” [5] (licensed under CC BY)
 
-> **Example #5:** “The imaging and clinical research data for part of this study (data set A) have been made publicly available: https://doi.org/10.1101/2021.08.19.21262238.” [6] (licensed under CC BY)
+> **Example #5:** “The imaging and clinical research data for part of this study (data set A) have been made publicly available: [https://doi.org/10.1101/2021.08.19.21262238](https://doi.org/10.1101/2021.08.19.21262238).” [6] (licensed under CC BY)
 
 ### Hypothetical negative examples
 > **Example #6:** The datasets generated and/or analyzed during the current study are available from the corresponding author on reasonable request.
