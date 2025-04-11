@@ -22,6 +22,7 @@ nav_order: 3
 >![Fig1](/METRICS-E3/figs/Item22 E2 F1.png)
 >
 > **Figure 1.** “Calibration plot of the integrative multi-modal model” [3]  (licensed under CC BY).
+
 > **Example #3:** “The calibration curve with the Brier score loss was utilized to evaluate the calibration of models in the testing set. Ultimately, the best-performing model was selected as the final model.” [4] (licensed under CC BY)
 >
 > Also see **Figure 2**.
@@ -29,6 +30,7 @@ nav_order: 3
 >![Fig2](/METRICS-E3/figs/Item22 E3 F2.png)
 >
 > **Figure 2.**  “Calibration curves of five radiomics-based machine learning models in the testing set. The Brier score loss of each model is shown in brackets” [4] (licensed under CC BY)
+
 > **Example #4:** “The calibration curves are displayed in [Figure 3]. Hosmer-Lemeshow gave a p value of 0.991 and 0.582 in the training and testing groups, respectively, indicating good calibration.” [5] (licensed under CC BY)
 > 
 >![Fig3](/METRICS-E3/figs/Item22 E4.png)
