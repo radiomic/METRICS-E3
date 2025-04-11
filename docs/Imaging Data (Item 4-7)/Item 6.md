@@ -14,15 +14,20 @@ nav_order: 3
 
 > **Example #2** See Table 1. 
 Table 1. “Scanning parameters” [3] (licensed under CC BY)
-
- 
+>
+>![Tab1](/METRICS-E3/figs/Item6 E2.png) 
 
 > **Example #3:** See Table 2.
 Table 2. “Imaging protocol of the 32 CT scans.” [4] (licensed under CC BY)
- 
+>
+>
+>![Tab2](/METRICS-E3/figs/Item6 E3.png) 
+
 > **Example #4:** See Table 3.
 Table 3. “CT scan characteristics based on data source cites.” [5] (licensed under CC BY)
- 
+>
+>
+>![Tab3](/METRICS-E3/figs/Item6 E4.png)  
 
 ### Hypothetical negative examples
 Example #5: Patients underwent pre-operative MRI examinations using a clinical MRI scanner. Both T1-weighted and T2-weighted images were acquired as part of the standard protocol. For the T1-weighted images, we used a relatively short repetition time to maximize T1 contrast. The echo time was kept short to minimize T2 effects. Slice thickness was approximately 5mm. For the T2-weighted images, a longer repetition time and echo time were selected, appropriate for visualizing T2 contrast. Diffusion-weighted imaging was also performed, using multiple b-values to assess apparent diffusion coefficient (ADC). A contrast agent was administered intravenously to a subset of the patients, depending on the referring physician's request. Images were reconstructed using the scanner's standard reconstruction algorithm.
@@ -36,6 +41,9 @@ In Example #5, the MRI acquisition parameters are vaguely described, with terms 
 ### Recommendations for appropriate scoring
 Authors should report all the scanner types and acquisition protocol of all scans included in the dataset. It should be clear what acquisition protocols were used in the training, test, and external validation datasets. For CT, kVp, mA, in-plane resolution, slice thickness, reconstruction kernel (soft, lung, bone), and use of contrast should be reported. For MR, the type of sequence, echo time, in-plane resolution, slice thickness, field of view, repetition time, use of contrast, use of fat suppression, magnetic field strength, diffusion parameters, flip angle, and reconstruction algorithm. When the main body does not allow for it, extensive tables in the supplemental materials are advised.
 ### References
+
+{: .fs-2 }
+
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 2. 	Bodalal Z, Bogveradze N, Ter Beek LC, et al (2023) Radiomic signatures from T2W and DWI MRI are predictive of tumour hypoxia in colorectal liver metastases. Insights Imaging 14:133. https://doi.org/10.1186/s13244-023-01474-x
 3. 	van der Reijd DJ, Guerendel C, Staal FCR, et al (2024) Independent validation of CT radiomics models in colorectal liver metastases: predicting local tumour progression after ablation. Eur Radiol 34:3635–3643. https://doi.org/10.1007/s00330-023-10417-5
