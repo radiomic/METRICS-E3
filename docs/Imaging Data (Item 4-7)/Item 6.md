@@ -22,24 +22,26 @@ nav_order: 3
 
 > **Example #3:** See **Table 2**.
 >
-> Table 2. “Imaging protocol of the 32 CT scans.” [4] (licensed under CC BY)
+> **Table 2.** “Imaging protocol of the 32 CT scans.” [4] (licensed under CC BY)
 >
 >
 >![Tab2](/METRICS-E3/figs/Item6 E3.png) 
 >
 > **Example #4:** See **Table 3**.
-> **Table 3.** “CT scan characteristics based on data source cites.” [5] (licensed under CC BY)
 >
+> **Table 3.** “CT scan characteristics based on data source cites.” [5] (licensed under CC BY)
 >
 >![Tab3](/METRICS-E3/figs/Item6 E4.png)  
 
 ### Hypothetical negative examples
 Example #5: Patients underwent pre-operative MRI examinations using a clinical MRI scanner. Both T1-weighted and T2-weighted images were acquired as part of the standard protocol. For the T1-weighted images, we used a relatively short repetition time to maximize T1 contrast. The echo time was kept short to minimize T2 effects. Slice thickness was approximately 5mm. For the T2-weighted images, a longer repetition time and echo time were selected, appropriate for visualizing T2 contrast. Diffusion-weighted imaging was also performed, using multiple b-values to assess apparent diffusion coefficient (ADC). A contrast agent was administered intravenously to a subset of the patients, depending on the referring physician's request. Images were reconstructed using the scanner's standard reconstruction algorithm.
+
 Example #6: All patients underwent CT scanning prior to treatment. Scans were acquired using helical acquisition mode on multi-detector CT scanners available at the participating institutions. A standard abdominal protocol was employed, with adjustments made for patient size and clinical indication. Intravenous contrast material was administered in most cases, unless contraindicated. Slice thickness was generally around 5mm, although thinner slices were sometimes acquired for specific regions of interest. Tube voltage was typically 120 kVp, and tube current was adjusted automatically by the scanner's dose modulation system. Images were reconstructed using a standard soft-tissue kernel.
 
 ### Importance of the item 
 Generalizability of radiomics features is susceptible to differences in acquisition protocols [6]. It is important to report what specific acquisition protocols are used on what type of scanners, because researchers aiming to reproduce or validate results in papers require this essential information to put their results in context. 
-Specifics about the positive examples
+
+### Specifics about the positive examples
 Example #1 illustrates well how MR parameters could be reported fully in a concise manner. Specifically in MR imaging, where sequences are often optimized per center, complete reporting of all parameters is strongly encouraged. Example #2 visualized the different CT scanners used in each of the different datasets, indicating where CT scanners were in or out of distribution compared to the training cohort. This overview yields insights into the generalizability of the method and on what cohorts, what performances can be expected. In Example #3, a concise table with the required CT parameters is displayed, with an essential split on the scanner type. Even better, Example #4 splits the scanner type per source in their multicenter study, where this table yields an excellent overview of all the recommended CT parameters to report.
 
 ### Specifics about the negative examples

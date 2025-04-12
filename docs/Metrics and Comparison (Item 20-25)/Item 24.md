@@ -55,6 +55,7 @@ Caution is required when studies compare only the combined model with the radiom
 Studies that perform comparisons without a formal method, such as a statistical test, decision curve analysis, or no-information rate, should not receive the METRICS score.
 
 ### References
+
 {: .fs-2 }
 
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w

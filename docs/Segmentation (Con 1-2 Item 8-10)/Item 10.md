@@ -23,7 +23,7 @@ nav_order: 6
 
 > **Example #5:** Prostate lesions were segmented on T2-weighted MRI images using a commercially available deep-learning-based software. The software automatically generated segmentation masks. Any segmentations that were deemed inaccurate upon visual inspection by two radiology specialists in consensus were manually corrected.
 
-### Importance of item or condition 
+### Importance of item 
 Manual segmentation is often considered the reference standard for the extraction of radiomic features in numerous studies. However, manual segmentation is time-consuming and in real-world practice, in light of the intense workload on radiologists’ shoulders, it is unlikely that multiple radiologists perform this task for a single patient and automated segmentation would be preferred to avoid an increase of current workload. For this reason, for studies requiring region of interest segmentation in the test set, having this task performed by a single reader or an automated tool is a better representation of real-world practice in the adoption of radiomics models, and provides a more accurate estimate of model performance Training data can be handled differently, and consensus segmentation by multiple readers can provide a stronger reference standard in some scenarios. Therefore, please note this item is exclusively focused on test data.
 
 ### Specifics about the positive examples

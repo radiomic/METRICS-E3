@@ -42,7 +42,8 @@ We used a feature analysis program designed for radiomics analysis within Pyradi
 >![Fig2](/METRICS-E3/figs/Con4 E3.png) 
 >
 > **Figure 2**. “Workflow of the radiomics analysis” [4] (licensed under CC BY)
-Hypothetical examples meeting “No” condition
+
+### Hypothetical examples meeting “No” condition
 
 > **Example #4:** A convolutional neural network (CNN) was developed for automated tumor classification using contrast-enhanced CT images. The model consisted of five convolutional layers, each followed by batch normalization and max-pooling. The final feature maps were flattened and passed through two fully connected layers before classification into benign or malignant tumors. The model was trained using categorical cross-entropy loss and evaluated using accuracy, precision, and recall metrics.
 
