@@ -30,10 +30,10 @@ nav_order: 2
 ### Importance of the item
 Preprocessing is a critical step in radiomics and deep learning [6, 7]. Poorly preprocessed data can lead to biased feature extraction and unreliable predictions. Therefore, rigorous preprocessing pipelines are essential to improve model accuracy, facilitate reproducibility, and ensure the clinical applicability of radiomics and AI-based medical imaging models [8]. In traditional radiomics, preprocessing techniques such as intensity normalization, resampling, and discretization help standardize imaging data, reducing variability caused by acquisition settings and scanner differences. Furthermore, the application of preprocessing filters can improve the expected performance from traditional radiomics [9]. In deep learning, preprocessing includes resizing, fixed grey-level windowing, padding, data augmentation, and normalization, which enhance model generalizability and performance. Each imaging modality may also require tailored preprocessing techniques to address specific challenges, such as MRI bias field correction. 
 
-### Specifics about positive examples
+### Specifics about the positive examples
 Examples #1 and #2 effectively detail the preprocessing steps for traditional radiomics analysis, emphasizing normalization, resampling, and discretization. Similarly, Examples #3 and #4 outline key preprocessing steps for deep learning-based analysis. Both examples include resampling and normalization, along with resizing. Additionally, Example #4 incorporates bias field correction for MRI data.
 
-### Specifics about negative examples
+### Specifics about the negative examples
 Example #5 lacks essential preprocessing details. It mentions normalization and resampling but omits the resampling method, target voxel size, and normalization technique. It also fails to specify intensity discretization, making the preprocessing pipeline non-reproducible.
 
 Example #6 is vague and lacks reproducibility. It refers to default software settings without naming the software, its version, or detailing preprocessing steps. It also mentions transformed images without specifying the type or application method, preventing replication.
