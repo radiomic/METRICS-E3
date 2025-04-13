@@ -39,4 +39,8 @@ To fully leverage METRICS-E3, we encourage reviewing the dedicated statement sec
 
 If METRICS-E3 has supported your research, please acknowledge its impact by citing the METRICS-E3 publication. Your citations play an essential role in promoting higher methodological standards and quality evaluation practices across radiomics and the wider medical artificial intelligence community.
 
+## Contributors
+
+Burak Kocak, Angela Ammirabile, Ilaria Ambrosini, Tugba Akinci D’Antonoli, Alessandra Borgheresi, Armando Ugo Cavallo, Roberto Cannella, Gennaro D’Anna, Oliver Díaz, Fabio Doniselli, Salvatore Claudio Fanni, Samuele Ghezzo, Kevin Groot Lipman, Michail Klontzas, Andrea Ponsiglione, Arnaldo Stanzione, Matthaios Triantafyllou, Federica Vernuccio, Renato Cuocolo
+
 [Start Exploring the Tool](https://radiomic.github.io/METRICS-E3/docs/METRICS%20tool.html){: .btn .btn-purple }
