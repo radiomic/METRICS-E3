@@ -39,4 +39,4 @@ To fully leverage METRICS-E3, we encourage reviewing the dedicated statement sec
 
 If METRICS-E3 has supported your research, please acknowledge its impact by citing the METRICS-E3 publication. Your citations play an essential role in promoting higher methodological standards and quality evaluation practices across radiomics and the wider medical artificial intelligence community.
 
-[Next](https://radiomic.github.io/METRICS-E3/docs/METRICS%20tool.html){: .btn .btn-purple }
+[Start Exploring the Tool](https://radiomic.github.io/METRICS-E3/docs/METRICS%20tool.html){: .btn .btn-purple }
