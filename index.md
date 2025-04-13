@@ -27,6 +27,7 @@ METRICS-E3 is more than a supplementary document. It offers detailed explanation
 - A concise rationale explaining why it matters,
 - Positive examples drawn from published studies,
 - Hypothetical negative examples for contrast,
+- Specifics discussing positive and negative examples,
 - Guidance on how to score the item or select the condition appropriately.  
 
 These resources collectively ensure METRICS is applied effectively and consistently.
