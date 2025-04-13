@@ -26,7 +26,7 @@ nav_order: 3
 >
 >
 >![Tab2](/METRICS-E3/figs/Item6 E3.png) 
->
+
 > **Example #4:** See **Table 3**.
 >
 > **Table 3.** “CT scan characteristics based on data source cites.” [5] (licensed under CC BY)
