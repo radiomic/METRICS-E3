@@ -48,7 +48,7 @@ nav_order: 1.1
 
 Fully functional online METRICS tool can be accessed [here](https://metricsscore.github.io/metrics/METRICS.html).
 
-### Weights of the items
+### Weights of categories and items
 
 ![Fig1](/METRICS-E3/figs/weights.png)
 
