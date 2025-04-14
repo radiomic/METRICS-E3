@@ -5,7 +5,9 @@ nav_order: 1.1
 ---
 
 
-### METRICS items and conditions [1] (licensed under CC BY)
+### METRICS items and conditions
+
+**Table 1.** Summary of METRICS items and conditions, with reference to METRICS-E3. [1] (licensed under CC BY)
 
 | **Category**                         | **Item**   | **Description**                                                                 |
 |:------------------------------------|:-----------|:--------------------------------------------------------------------------------|
@@ -52,7 +54,7 @@ Fully functional online METRICS tool can be accessed [here](https://metricsscore
 
 ![Fig1](/METRICS-E3/figs/weights.png)
 
-"Weights of METRICS categories and items. Each category has a different color and those colors are matched between right and left panels" [1] (licensed under CC BY)
+**Figure 1.** "Weights of METRICS categories and items. Each category has a different color and those colors are matched between right and left panels" [1] (licensed under CC BY)
 
 
 
