@@ -5,7 +5,7 @@ nav_order: 1.1
 ---
 
 
-### **METRICS items and conditions** [1]
+### METRICS items and conditions [1] (licensed under CC BY)
 
 | **Category**                         | **Item**   | **Description**                                                                 |
 |:------------------------------------|:-----------|:--------------------------------------------------------------------------------|
