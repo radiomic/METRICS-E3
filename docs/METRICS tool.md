@@ -7,7 +7,7 @@ nav_order: 1.1
 
 ### METRICS items and conditions
 
-**Table 1.** Summary of METRICS items and conditions, with reference to METRICS-E3. [1] (licensed under CC BY)
+**Table 1.** Overview of METRICS items and conditions with corresponding links to METRICS-E3 explanations. Adapted from [1] (licensed under CC BY)
 
 | **Category**                         | **Item**   | **Description**                                                                 |
 |:------------------------------------|:-----------|:--------------------------------------------------------------------------------|
