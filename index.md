@@ -34,7 +34,7 @@ These resources collectively ensure METRICS is applied effectively and consisten
 
 ## Maximizing the Value of METRICS-E3
 
-To get the most out of METRICS-E3, we recommend reading the section titled “Recommendations for using METRICS-E3 in conjunction with the METRICS tool” in [the official METRICS-E3 publication](). This section offers general guidance on methodological scoring and provides specific suggestions for each item and condition, presented in comprehensive summary tables based on content from the METRICS-E3 project website. These recommendations can help you apply METRICS-E3 more effectively in your evaluations.
+To get the most out of METRICS-E3, we recommend reading the section titled “Recommendations for using METRICS-E3 in conjunction with the METRICS tool” in [the official METRICS-E3 publication](). This section offers general guidance on methodological scoring and provides specific recommendations for each item and condition, presented in comprehensive summary tables based on content from the METRICS-E3 project website. These can help you apply METRICS-E3 more effectively in your evaluations.
 
 ## Citing METRICS-E3
 
