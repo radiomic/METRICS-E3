@@ -64,5 +64,5 @@ Merely adjusting the model to account for potential confounding factors should n
 5. 	Zheng T, Zhu Y, Chen Y, et al (2024) Fully automated MRI-based convolutional neural network for noninvasive diagnosis of cirrhosis. Insights into Imaging 15:298. https://doi.org/10.1186/s13244-024-01872-9
 6. 	Kumar V, Gu Y, Basu S, et al (2012) Radiomics: the process and the challenges. Magnetic Resonance Imaging 30:1234–1248. https://doi.org/10.1016/j.mri.2012.06.010
 
-[Back](https://radiomic.github.io/METRICS-E3/docs/Preparation%20for%20Modeling%20(Item%2018-19)/Item%2018.html){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2020.html){: .btn .btn-purple   }
+[Previous: Item #18](https://radiomic.github.io/METRICS-E3/docs/Preparation%20for%20Modeling%20(Item%2018-19)/Item%2018.html){: .btn .btn-purple  .mr-5  }
+[Next: Item #19](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2020.html){: .btn .btn-purple   }
