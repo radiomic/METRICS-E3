@@ -55,5 +55,5 @@ Studies exploring multi-parametric or multi-modal radiomics features receive a p
 8. 	Escobar T, Vauclin S, Orlhac F, et al (2022) Voxel‐wise supervised analysis of tumors with multimodal engineered features to highlight interpretable biological patterns. Medical Physics 49:3816–3829. https://doi.org/10.1002/mp.15603
 9. 	Ghezzo S, Bezzi C, Presotto L, et al (2022) State of the art of radiomic analysis in the clinical management of prostate cancer: A systematic review. Critical Reviews in Oncology/Hematology 169:103544. https://doi.org/10.1016/j.critrevonc.2021.103544
 
-[Back](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2022.html){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2024.html){: .btn .btn-purple   }
+[Previous: Item #22](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2022.html){: .btn .btn-purple  .mr-5  }
+[Next: Item #24](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2024.html){: .btn .btn-purple   }

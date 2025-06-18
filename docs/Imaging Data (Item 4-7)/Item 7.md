@@ -57,5 +57,5 @@ An exception may be found in deep learning studies focused on automatic segmenta
 9. 	Xin Y, Li K, Huang M, et al (2023) Biophysics in tumor growth and progression: from single mechano-sensitive molecules to mechanomedicine. Oncogene 42:3457–3490. https://doi.org/10.1038/s41388-023-02844-x
 10. 	Le VH, Kha QH, Minh TNT, et al (2023) Development and Validation of CT-Based Radiomics Signature for Overall Survival Prediction in Multi-organ Cancer. J Digit Imaging 36:911–922. https://doi.org/10.1007/s10278-023-00778-0
 
-[Back](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%206.html){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%201.html){: .btn .btn-purple   }
+[Previous: Item #6](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%206.html){: .btn .btn-purple  .mr-5  }
+[Next: Condition #1](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%201.html){: .btn .btn-purple   }

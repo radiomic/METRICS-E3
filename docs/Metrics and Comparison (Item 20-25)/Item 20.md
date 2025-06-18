@@ -79,5 +79,5 @@ In addition to the above metrics that are appropriate for the task of interest, 
 7. 	Rainio O, Teuho J, Klén R (2024) Evaluation metrics and statistical tests for machine learning. Sci Rep 14:6086. https://doi.org/10.1038/s41598-024-56706-x
 8. 	Hicks SA, Strümke I, Thambawita V, et al (2022) On evaluation metrics for medical applications of artificial intelligence. Sci Rep 12:5979. https://doi.org/10.1038/s41598-022-09954-8
 
-[Back](https://radiomic.github.io/METRICS-E3/docs/Preparation%20for%20Modeling%20(Item%2018-19)/Item%2019.html){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2021.html){: .btn .btn-purple   }
+[Previous: Item #19](https://radiomic.github.io/METRICS-E3/docs/Preparation%20for%20Modeling%20(Item%2018-19)/Item%2019.html){: .btn .btn-purple  .mr-5  }
+[Next: Item #21](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2021.html){: .btn .btn-purple   }

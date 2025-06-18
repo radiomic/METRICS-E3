@@ -61,5 +61,5 @@ Authors should report all the scanner types and acquisition protocol of all scan
 5. 	Lu L, Ahmed FS, Akin O, et al (2021) Uncontrolled Confounders May Lead to False or Overvalued Radiomics Signature: A Proof of Concept Using Survival Analysis in a Multicenter Cohort of Kidney Cancer. Front Oncol 11:638185. https://doi.org/10.3389/fonc.2021.638185
 6. 	Berenguer R, Pastor-Juan MDR, Canales-Vázquez J, et al (2018) Radiomics of CT Features May Be Nonreproducible and Redundant: Influence of CT Acquisition Parameters. Radiology 288:407–415. https://doi.org/10.1148/radiol.2018172361
 
-[Back](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%205.html){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%207.html){: .btn .btn-purple   }
+[Previous: Item #5](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%205.html){: .btn .btn-purple  .mr-5  }
+[Next: Item #7](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%207.html){: .btn .btn-purple   }
