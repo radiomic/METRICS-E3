@@ -56,5 +56,5 @@ For studies employing both handcrafted and deep learning-based features as separ
 6. 	Shur JD, Doran SJ, Kumar S, et al (2021) Radiomics in Oncology: A Practical Guide. Radiographics 41:1717–1732. https://doi.org/10.1148/rg.2021210037
 7. 	Vrettos K, Triantafyllou M, Marias K, et al (2024) Artificial intelligence-driven radiomics: developing valuable radiomics signatures with the use of artificial intelligence. BJR Artificial Intelligence 1:ubae011. https://doi.org/10.1093/bjrai/ubae011
 
-[Back](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Item%2010.html){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Item%2011.html){: .btn .btn-purple   }
+[Previous: Item#10](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Item%2010.html){: .btn .btn-purple  .mr-5  }
+[Next: Item#11](https://radiomic.github.io/METRICS-E3/docs/Image%20Processing%20and%20Feature%20Extraction%20(Con%203%20Item%2011-13)/Item%2011.html){: .btn .btn-purple   }

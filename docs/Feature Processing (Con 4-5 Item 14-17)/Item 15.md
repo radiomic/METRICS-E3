@@ -79,5 +79,5 @@ This item should not be confused with item #14. While item #14 focuses on the re
 7. 	Zhang W, Guo Y, Jin Q (2023) Radiomics and Its Feature Selection: A Review. Symmetry 15:1834. https://doi.org/10.3390/sym15101834
 8. 	Kocak B, Baessler B, Bakas S, et al (2023) CheckList for EvaluAtion of Radiomics research (CLEAR): a step-by-step reporting guideline for authors and reviewers endorsed by ESR and EuSoMII. Insights Imaging 14:75. https://doi.org/10.1186/s13244-023-01415-8
 
-[Back](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2014.html){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2016.html){: .btn .btn-purple   }
+[Previous: Item #14](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2014.html){: .btn .btn-purple  .mr-5  }
+[Next: Item #16](https://radiomic.github.io/METRICS-E3/docs/Feature%20Processing%20(Con%204-5%20Item%2014-17)/Item%2016.html){: .btn .btn-purple   }
