@@ -63,4 +63,4 @@ While providing a completed checklist is not mandatory for scoring this item, re
 11. 	Tejani AS, Klontzas ME, Gatti AA, et al (2024) Checklist for Artificial Intelligence in Medical Imaging (CLAIM): 2024 Update. Radiology: Artificial Intelligence 6:e240300. https://doi.org/10.1148/ryai.240300
 
 [Back to Index](https://radiomic.github.io/METRICS-E3/docs/METRICS%20tool.html){: .btn .btn-purple  .mr-5  }
-[Item #2](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }
+[Next: Item #2](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple   }

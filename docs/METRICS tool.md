@@ -66,4 +66,4 @@ Fully functional online METRICS tool can be accessed [here](https://metricsscore
 
 
 [Back to Home](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Item #1](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html){: .btn .btn-purple   }
+[Next: Item #1](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html){: .btn .btn-purple   }

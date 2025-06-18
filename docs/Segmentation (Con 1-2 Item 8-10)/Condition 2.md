@@ -70,5 +70,5 @@ Thus, even if an automated algorithm is used initially, any subsequent manual re
 13. 	Tripathi S, Wadhwani R, Rasool A, Jadhav A (2023) Comparison Analysis of Deep Learning Models In Medical Image Segmentation. In: 2023 13th International Conference on Cloud Computing, Data Science & Engineering (Confluence). IEEE, Noida, India, pp 468–471
 14. 	Minaee S, Boykov YY, Porikli F, et al (2021) Image Segmentation Using Deep Learning: A Survey. IEEE Trans Pattern Anal Mach Intell 1–1. https://doi.org/10.1109/TPAMI.2021.3059968
 
-[Condition #1 ←](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%201.html){: .btn .btn-purple  .mr-5  }
-[→ Item #8](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Item%208.html){: .btn .btn-purple   }
+[Previous: Condition #1](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%201.html){: .btn .btn-purple  .mr-5  }
+[Next: Item #8](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Item%208.html){: .btn .btn-purple   }

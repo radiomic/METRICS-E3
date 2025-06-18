@@ -53,6 +53,6 @@ This item may be considered somewhat subjective due to the vagueness of the term
 7. 	Papanikolaou N, Matos C, Koh DM (2020) How to develop a meaningful radiomic signature for clinical use in oncologic patients. Cancer Imaging 20:33. https://doi.org/10.1186/s40644-020-00311-4
 8. 	Koçak B, Cuocolo R, Santos DPD, et al (2023) Must-have Qualities of Clinical Research on Artificial Intelligence and Machine Learning. Balkan Med J 40:3–12. https://doi.org/10.4274/balkanmedj.galenos.2022.2022-11-51
 
-[Item #2](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple  .mr-5  }
-[Item #4](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%204.html){: .btn .btn-purple   }
+[Previous: Item #2](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%202.html){: .btn .btn-purple  .mr-5  }
+[Next: Item #4](https://radiomic.github.io/METRICS-E3/docs/Imaging%20Data%20(Item%204-7)/Item%204.html){: .btn .btn-purple   }
 

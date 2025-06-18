@@ -65,5 +65,5 @@ Most radiomics studies provide information on the segmentation process. However,
 8. 	Kocak B, Ates E, Durmaz ES, et al (2019) Influence of segmentation margin on machine learning-based high-dimensional quantitative CT texture analysis: a reproducibility study on renal clear cell carcinomas. Eur Radiol 29:4765–4775. https://doi.org/10.1007/s00330-019-6003-8
 9. 	Kocak B, Borgheresi A, Ponsiglione A, et al (2024) Explanation and Elaboration with Examples for CLEAR (CLEAR-E3): an EuSoMII Radiomics Auditing Group Initiative. Eur Radiol Exp 8:72. https://doi.org/10.1186/s41747-024-00471-z
 
-[Condition #2](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%202.html){: .btn .btn-purple  .mr-5  }
-[Item #9](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Item%209.html){: .btn .btn-purple   }
+[Previous: Condition #2](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Condition%202.html){: .btn .btn-purple  .mr-5  }
+[Next: Item #9](https://radiomic.github.io/METRICS-E3/docs/Segmentation%20(Con%201-2%20Item%208-10)/Item%209.html){: .btn .btn-purple   }
