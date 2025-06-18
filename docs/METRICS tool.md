@@ -65,5 +65,5 @@ Fully functional online METRICS tool can be accessed [here](https://metricsscore
 1. 	Kocak B, Akinci D’Antonoli T, Mercaldo N, et al (2024) METhodological RadiomICs Score (METRICS): a quality scoring tool for radiomics research endorsed by EuSoMII. Insights Imaging 15:8. https://doi.org/10.1186/s13244-023-01572-w
 
 
-[Back](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
-[Next](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html){: .btn .btn-purple   }
+[Back to Home](https://radiomic.github.io/METRICS-E3/){: .btn .btn-purple  .mr-5  }
+[Items](https://radiomic.github.io/METRICS-E3/docs/Study%20Design%20(Item%201-3)/Item%201.html){: .btn .btn-purple   }
