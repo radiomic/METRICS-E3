@@ -53,4 +53,4 @@ A study that lacks a formal statistical method (e.g., DeLong’s test) for compa
 4. 	Lu Y, Liu H, Liu Q, et al (2023) CT-based radiomics with various classifiers for histological differentiation of parotid gland tumors. Front Oncol 13:. https://doi.org/10.3389/fonc.2023.1118351
 
 [Previous: Item #24](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2024.html){: .btn .btn-purple  .mr-5  }
-[Next: Item #25](https://radiomic.github.io/METRICS-E3/docs/Testing%20(Item%2026-27)/Item%2026.html){: .btn .btn-purple   }
+[Next: Item #26](https://radiomic.github.io/METRICS-E3/docs/Testing%20(Item%2026-27)/Item%2026.html){: .btn .btn-purple   }

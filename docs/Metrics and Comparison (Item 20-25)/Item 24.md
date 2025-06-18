@@ -70,4 +70,4 @@ Studies that perform comparisons without a formal method, such as a statistical 
 10. 	Tramanzoli P, Castellani D, De Stefano V, et al (2023) Radiomics vs radiologist in bladder and renal cancer. Results from a systematic review. Cent European J Urol 76:12–19. https://doi.org/10.5173/ceju.2023.252
 
 [Previous: Item #23](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2023.html){: .btn .btn-purple  .mr-5  }
-[Next: Item #24](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2025.html){: .btn .btn-purple   }
+[Next: Item #25](https://radiomic.github.io/METRICS-E3/docs/Metrics%20and%20Comparison%20(Item%2020-25)/Item%2025.html){: .btn .btn-purple   }
