@@ -11,7 +11,7 @@ nav_order: 3
 ### Explanation 
 “Whether the final model is shared in the form of a raw model file or as a ready-to-use system. If automated segmentation was employed, the corresponding trained model should also be made available to allow replication. These should include clear instructions for their usage (e.g., accompanying documentation, tutorials)” [1] (licensed under CC BY)
 
-### Positive examples form the literature
+### Positive examples from the literature
 > **Example #1:** [https://rcuocolo.github.io/MRadEC/](https://rcuocolo.github.io/MRadEC/) [2]
 >
 >See also **Figure 1**.
