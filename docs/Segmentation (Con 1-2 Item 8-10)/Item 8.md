@@ -28,7 +28,7 @@ Also see **Figure 3**.
 >
 >![Fig3](/METRICS-E3/figs/Item8 E3.png) 
 >
-> **Figure 3.** “Figure 1 Study workflow.” [4]  (cropped; licensed under CC BY)
+> **Figure 3.** “Study workflow.” [4]  (cropped; licensed under CC BY)
 
 > **Example #4:** “The 3D region of interest (ROI) segmentation was performed using the open-source image analysis software 3D Slicer 4.13.0 (https://www.slicer.org/). Venous phase (VP) images were previously reported as the best phase for pCCA visualization and therefore were used for the segmentation of ROI. To evaluate interobserver reliability by calculating the intraclass correlation coefficient (ICC), we randomly chose 50 patients, and segmentation of ROI was performed by one abdominal radiologist (reader 1) with 7 years of experience and another abdominal radiologist (reader 2) with 10 years of experience, who were all blinded to pathologic data. The remaining ROI segmentation was finished by reader 1 and was examined by reader 2. If the ROI was questioned, it would be re-segmented after the two agree.” [5] (licensed under CC BY)
 
