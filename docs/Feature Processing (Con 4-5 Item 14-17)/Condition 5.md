@@ -78,7 +78,7 @@ Finally, textual descriptions should be assessed alongside figures to accurately
 2. 	Kelly B, Martinez M, Do H, et al (2023) DEEP MOVEMENT: Deep learning of movie files for management of endovascular thrombectomy. Eur Radiol 33:5728–5739. https://doi.org/10.1007/s00330-023-09478-3
 3. 	Wang X, Nie L, Zhu Q, et al (2024) Artificial intelligence assisted ultrasound for the non-invasive prediction of axillary lymph node metastasis in breast cancer. BMC Cancer 24:910. https://doi.org/10.1186/s12885-024-12619-6
 4. 	Demircioğlu A, Quinsten AS, Forsting M, et al (2022) Pediatric age estimation from radiographs of the knee using deep learning. Eur Radiol 32:4813–4822. https://doi.org/10.1007/s00330-022-08582-0
-5. 	Mobini N, Capra D, Colarieti A, et al (2024) Deep transfer learning for detection of breast arterial calcifications on mammograms: a comparative study. European Radiology Experimental 8:80. https://doi.org/10.1186/s41747-024-00478-6
+5. 	Mobini N, Capra D, Colarieti A, et al (2024) Deep transfer learning for detection of breast arterial calcifications on mammograms: a comparative study. Eur Radiol Exp 8:80. https://doi.org/10.1186/s41747-024-00478-6
 6. 	Castiglioni I, Rundo L, Codari M, et al (2021) AI applications to medical images: From machine learning to deep learning. Physica Medica 83:9–24. https://doi.org/10.1016/j.ejmp.2021.02.006
 7. 	Anaya-Isaza A, Mera-Jiménez L, Zequera-Diaz M (2021) An overview of deep learning in medical imaging. Informatics in Medicine Unlocked 26:100723. https://doi.org/10.1016/j.imu.2021.100723
 8. 	Lones MA (2024) How to avoid machine learning pitfalls: a guide for academic researchers. Patterns 5:101046. https://doi.org/10.1016/j.patter.2024.101046
