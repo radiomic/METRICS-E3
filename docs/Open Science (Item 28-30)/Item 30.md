@@ -18,7 +18,7 @@ nav_order: 3
 > 
 >![Fig1](/METRICS-E3/figs/Item30 E1.png)
 >
-> **Figure 1.** GitHub page of the study in Example #1. [2]
+> **Figure 1.** GitHub page of the study in Example #1. The model is shared with the file name "features_model.pkl". [2]
 
 > **Example #2:** “To provide clinicians with an individualized and easy-to-use tool for the preoperative diagnosis of the occurrence of chronic cholangitis in PBM patients, the combined model was visualized as a radiomics nomogram. A radiomics nomogram score (Nomo-score) was calculated based on the significant clinical features and the Rad-score. […]
 > We developed a radiomics nomogram for diagnosis of chronic cholangitis in PBM children **[Figure 2]**. […]
@@ -44,7 +44,7 @@ nav_order: 3
 >
 >![Fig2](/METRICS-E3/figs/Item30 E4.png)
 >
-> **Figure 3.** GitHub page of the study in Example #4. [5]
+> **Figure 3.** GitHub page of the study in Example #4. Shared models (h5 files) are marked with red rectangular boxes. [5]
 
 ### Hypothetical negative examples
 > **Example #5:** ...Our proposed deep learning architecture, 'TumorNet', achieved high accuracy in differentiating benign from malignant lesions. The network utilizes a modified ResNet-50 backbone pre-trained on ImageNet. The Python code used for defining the network architecture, implementing the data augmentation pipeline described in Section 2.3, and executing the training procedure using PyTorch is available at our institutional repository (link provided in Data Availability Statement). Instructions for setting up the environment and initiating training on new datasets are included. Model performance metrics are detailed in Table 4...
