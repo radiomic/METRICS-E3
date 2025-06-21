@@ -50,12 +50,12 @@ In Example #2, dimensionality was evaluated by examining the model’s fit rathe
 ### Specifics about the negative examples
 In Example #3, the algorithm selected 25 features for logistic regression, but there were only 30 patients experiencing disease progression. According to the logistic regression rule of thumb (ideally, 10 patients per feature from the minority class), making this sample clearly inadequate. 
 
-In Example #4, despite a seemingly sufficient sample size, the significant performance drop from training to validation and external testing cohorts (indicated by distinct confidence intervals) strongly suggests model overfitting due to inappropriate dimensionality. 
+In Example #4, despite a seemingly sufficient sample size, the substantial performance drop from training to validation and external testing cohorts (as reflected in the distinct confidence intervals) may suggest model overfitting, if it is assumed that all other aspects of the pipeline (e.g., data quality, distribution similarity, annotation consistency, and validation design) were appropriate. In such cases, inappropriate dimensionality relative to the sample size could be a contributing factor, but not the sole explanation.
 
 Examples #5 and #6 used simplistic sample-size calculations based solely on statistical power and anticipated AUC without explicitly considering feature dimensionality, ignoring critical issues related to radiomic analyses and resulting in insufficient justification for their sample sizes.
 
 ### Recommendations for appropriate scoring
-When evaluating the appropriateness of dimensionality, it is crucial to use methods aligned with the specific algorithm under study. For logistic regression, traditional rules of thumb can be applied, or more advanced techniques such as those proposed by Riley et al. may be adopted [7–10]. 
+When evaluating the appropriateness of dimensionality, it is crucial to use methods aligned with the specific algorithm under study. For logistic regression, traditional rules of thumb can be applied (although not ideal), or more advanced techniques such as those proposed by Riley et al. may be adopted  [7–10]. 
 
 In the case of more complex algorithms, the model’s fitting status can serve as an indirect gauge of dimensionality. However, it is vital to assess this status using uncertainty measures (e.g., 95% confidence intervals) rather than relying solely on point estimates like the mean. 
 
