@@ -15,7 +15,8 @@ nav_order: 5
 
 ### Positive examples from the literature 
 > **Example #1:** ““Finally, 1066 patients (789 males, 277 women; mean age, 65.01±11.64 years) were enrolled and randomized as training (n = 651) and internal validation (n = 278) in a 7:3 ratio. […] 
-At last, 15 radiomics features with high importance were chosen, and the radiomics signature was established. […]
+> 
+> At last, 15 radiomics features with high importance were chosen, and the radiomics signature was established. […]
 >
 > According to our results, AUCs of our constructed radiomics signature were 0.82 (95 % CI: 0.79–0.85), 0.77 (95 % CI: 0.71–0.82) and 0.80 (95 % CI: 0.72–0.87) in training, internal validation and external validation sets separately. […]
 >
