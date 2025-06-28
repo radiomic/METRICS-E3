@@ -36,7 +36,7 @@ Besides, nomogram model demonstrated AUCs of 0.82, 0.77, and 0.84 in three datas
 >
 > **Table 1.** “The classification results of ablation analyses on training, internal, and external test cohort” [3] (licensed under CC BY)
 >
->![Tab2](/METRICS-E3/figs/Item16 T2.png) 
+>![Tab2](/METRICS-E3/figs/Item16 T1.png) 
 
 ### Hypothetical negative examples 
 > **Example #3:** The radiomics signature was developed using logistic regression and specifically by LASSO, which selected 25 features (parameters). The final training set consisted of 80 patients, 30 of whom experienced disease progression. AUC of the final model in the training set was 0.750.
