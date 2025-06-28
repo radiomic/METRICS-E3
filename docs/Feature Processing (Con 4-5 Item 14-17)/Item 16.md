@@ -69,9 +69,9 @@ When evaluating the appropriateness of dimensionality, it is crucial to use meth
 
 In the case of more complex algorithms, the model’s fitting status can serve as an indirect gauge of dimensionality. However, it is vital to assess this status using uncertainty measures (e.g., 95% confidence intervals) rather than relying solely on point estimates like the mean. 
 
-For complex models — meaning models other than logistic regression — Riley's methods can also be considered as an partial check to assess whether the required sample size would fall short for simpler models. If the sample size is insufficient for simpler models, this would suggest that the dimensionality is also likely inappropriate relative to the data size for complex models. However, these evaluations should not be solely relied upon to fully determine whether the criteria are satisfied.
+For complex models, meaning models other than logistic regression, Riley's methods can also be considered as an partial check to assess whether the required sample size would fall short for simpler models. If the sample size is insufficient for simpler models, this would suggest that the dimensionality is also likely inappropriate relative to the data size for complex models. However, these evaluations should not be solely relied upon to fully determine whether the criteria are satisfied.
 
-Finally, simple sample-size calculations that do not explicitly account for dimensionality—such as those based solely on measures like the AUC—are insufficient to fully address this concern.
+Finally, simple sample-size calculations that do not explicitly account for dimensionality, such as those based solely on measures like the AUC, are insufficient to fully address this concern.
 
 ### References
 
