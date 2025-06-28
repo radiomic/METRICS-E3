@@ -58,14 +58,14 @@ In Example #1, to evaluate whether the model’s dimensionality was appropriate,
 In Example #2, dimensionality was evaluated by examining the model’s fit, since the best-performing classifier was a support vector machine (SVM) and Riley's methods are not applicable. The primary assessment came from comparing 95% confidence intervals for the area under the curve (AUC) in both training and testing cohorts (internal and external). While the mean AUC was slightly higher in the internal testing cohort and slightly lower in the external testing cohort, the substantial overlap in confidence intervals indicates a satisfactory model fit, which may indicate appropriateness of dimensionality.
 
 ### Specifics about the negative examples
-In Example #3, according to our calculation based on Riley’s methodology [6-9], the minimum sample size required for developing a new model with these parameters would be 1,157 patients, including 434 events (assuming an outcome prevalence of 37.5%) and an events-per-parameter (EPP) ratio of 17.36. This shows that the dimensionality was not adequately justified, creating a high risk of overfitting and poor model generalizability.
+In Example #3, according to our calculation based on Riley’s methodology [6,8,9], the minimum sample size required for developing a new model with these parameters would be 1,157 patients, including 434 events (assuming an outcome prevalence of 37.5%) and an events-per-parameter (EPP) ratio of 17.36. This shows that the dimensionality was not adequately justified, creating a high risk of overfitting and poor model generalizability.
 
 In Example #4, despite a seemingly sufficient sample size, the substantial performance drop from training to validation and external testing cohorts (as reflected in the distinct confidence intervals) may suggest model overfitting, if it is assumed that all other aspects of the pipeline (e.g., data quality, distribution similarity, annotation consistency, and validation design) were appropriate. In such cases, inappropriate dimensionality relative to the sample size could be a contributing factor, but not the sole explanation.
 
 Examples #5 and #6 used simplistic sample-size calculations based solely on statistical power and anticipated AUC without explicitly considering feature dimensionality, ignoring critical issues related to radiomic analyses and resulting in insufficient justification for their sample sizes.
 
 ### Recommendations for appropriate scoring
-When evaluating the appropriateness of dimensionality, it is crucial to use methods aligned with the specific algorithm under study. For logistic regression, techniques such as those proposed by Riley et al. may be adopted  [6–9]. 
+When evaluating the appropriateness of dimensionality, it is crucial to use methods aligned with the specific algorithm under study. For logistic regression, techniques such as those proposed by Riley et al. may be adopted  [6-9]. 
 
 In the case of more complex algorithms, the model’s fitting status can serve as an indirect gauge of dimensionality. However, it is vital to assess this status using uncertainty measures (e.g., 95% confidence intervals) rather than relying solely on point estimates like the mean. 
 
