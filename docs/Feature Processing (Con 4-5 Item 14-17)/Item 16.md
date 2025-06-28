@@ -23,7 +23,8 @@ nav_order: 5
 > Finally, logistic regression was adopted for constructing the clinical model by incorporating factors including age, weight, and gender. Based on our findings, AUCs were 0.68 (95 % CI: 0.64–0.72), 0.62 (95 % CI: 0.56–0.69) and 0.73 (95 % CI: 0.65–0.82) in training, internal validation and external validation sets, respectively. […]
 >
 > Multivariate logistic regression was performed to construct the nomogram model by incorporating age, weight, gender, and radiomics signature. […]
-Besides, nomogram model demonstrated AUCs of 0.82, 0.77, and 0.84 in three datasets for distinguishing between PRISm and COPD patients.” [2] (licensed under CC BY-NC-ND)
+>
+>Besides, nomogram model demonstrated AUCs of 0.82, 0.77, and 0.84 in three datasets for distinguishing between PRISm and COPD patients.” [2] (licensed under CC BY-NC-ND)
 >
 > Also see **Figure 1**.
 >
