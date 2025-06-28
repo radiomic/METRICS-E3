@@ -28,7 +28,7 @@ Besides, nomogram model demonstrated AUCs of 0.82, 0.77, and 0.84 in three datas
 > Also see **Figure 1**.
 >
 >![Fig1](/METRICS-E3/figs/Item16 F1.png)
-> **Figure 1.** “Patient recruitment process at four centers.” (licensed under CC BY)
+> **Figure 1.** “Patient recruitment process at four centers.” (licensed under CC BY-NC-ND)
 >
 
 > **Example #2:** “For maximizing the discrimination of radiomics algorithm, the machine-learning classifiers of logistic regression, decision tree, random forest, and support vector machine (SVM) were implemented to model construction, respectively. In this study, SVM showed the best performance in terms of discrimination and was finally selected **[Table 1]**. [...]
