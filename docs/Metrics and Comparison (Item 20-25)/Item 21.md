@@ -39,7 +39,7 @@ nav_order: 2
 >
 > The results in the test set are shown in **[Table 1]**.” [5] (licensed under CC BY)
 > 
-> **Table 1.** “Performance of the machine learning models for the test set” [5] (licensed under CC BY).
+> **Table 1.** “Performance of the machine learning models for the test set” [5] (licensed under CC BY)
 >
 >![Tab1](/METRICS-E3/figs/Item21 E4.png) 
 
