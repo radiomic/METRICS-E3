@@ -30,7 +30,7 @@ nav_order: 4
 >
 >![Fig2](/METRICS-E3/figs/Item13 E2.png) 
 > 
-> **Figure 2.** Yaml files for feature extraction parameter settings for CT and MRI images. Extracted from the [https://github.com/aydindemircioglu/radPretrained](https://github.com/aydindemircioglu/radPretrained). [3]
+> **Figure 2.** Yaml files for feature extraction parameter settings for CT and MRI images. Extracted from the [https://github.com/aydindemircioglu/radPretrained](https://github.com/aydindemircioglu/radPretrained). [3] (licensed under CC BY)
 
 > **Example #3:** “The extracted features include: (1) First-order features (describing the pixel intensity and its distribution within the target region through basic first-order statistics, such as mean and variance, etc.); (2) Shape-based features (morphological characteristics, describing the shape and size of the target area, such as volume and diameter); (3) Texture features, consisting of Gray Level Co-occurrence Matrix features, Gray Level Run Length Matrix features, Gray Level Size Zone Matrix features, Gray Level Dependence Matrix features, and Neighboring Gray Tone Difference Matrix features (describe the spatial distribution information of ROI pixels and reflect the spatial heterogeneity characteristics of the image such as gray scale change, particle size, and roughness). […] After providing all modified parameters of pre-processing and radiomic feature extraction, all other parameters remained as a default configuration.” [4] (licensed under CC-BY-NC)
 
