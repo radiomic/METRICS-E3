@@ -27,7 +27,7 @@ We used a feature analysis program designed for radiomics analysis within Pyradi
 >
 > Model construction and evaluation
 >
-> We utilized Python to establish radiomic and clinical models. The selected features were put into several machine learning algorithms, including LR, support vector machine (SVM), k-nearest neighbor (KNN), Random Forest, XGBoost, LightGBM, and multi-layer perception (MLP). We subsequently conducted a 5-fold cross-validation to ascertain the best hyperparameters for model fitting. A radiomic nomogram was developed, incorporating both radiomic features and clinical features for analysis.” [3] (licensed under CC BY). 
+> We utilized Python to establish radiomic and clinical models. The selected features were put into several machine learning algorithms, including LR, support vector machine (SVM), k-nearest neighbor (KNN), Random Forest, XGBoost, LightGBM, and multi-layer perception (MLP). We subsequently conducted a 5-fold cross-validation to ascertain the best hyperparameters for model fitting. A radiomic nomogram was developed, incorporating both radiomic features and clinical features for analysis.” [3] (licensed under CC BY) 
 >
 >Also see **Figure 1**.
 >
@@ -35,7 +35,7 @@ We used a feature analysis program designed for radiomics analysis within Pyradi
 >
 >**Figure 1.** “Feature extraction and selection. A Spearman correlation coefficient between each feature. B Coefficients of 10-fold cross-validation based on LASSO algorithm. C MSE of 10-fold cross-validation based on LASSO algorithm. D Histogram depicting the values of coefficients in the final selected non-zero features. MSE, mean square error” [3] (licensed under CC BY)
 
-> **Example #3:** “Z-score normalization was implemented before extracting traditional features. A total of 1652 features were extracted from both original and filtered images. For deep learning, the Inception-V3 network, pre-trained on ImageNet data, was employed. The largest tumor images from each patient were cropped for feature extraction, with grayscale values normalized within the range [−1, 1] using min–max transformation. The images were then resized to 299 × 299 using the nearest interpolation. The network’s last fully connected layer was removed, and the average pooling layer of the feature maps was used to extract 2048 deep-learning features.” [4] (licensed under CC BY). 
+> **Example #3:** “Z-score normalization was implemented before extracting traditional features. A total of 1652 features were extracted from both original and filtered images. For deep learning, the Inception-V3 network, pre-trained on ImageNet data, was employed. The largest tumor images from each patient were cropped for feature extraction, with grayscale values normalized within the range [−1, 1] using min–max transformation. The images were then resized to 299 × 299 using the nearest interpolation. The network’s last fully connected layer was removed, and the average pooling layer of the feature maps was used to extract 2048 deep-learning features.” [4] (licensed under CC BY) 
 >
 >Also see **Figure 2**.
 >

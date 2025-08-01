@@ -21,7 +21,7 @@ Also see **Figure 2**.
 >
 >![Fig2](/METRICS-E3/figs/Item8 E2.png) 
 > 
-> **Figure 2**. “Study design.” [3] (cropped, licensed under CC BY).
+> **Figure 2**. “Study design.” [3] (cropped, licensed under CC BY)
 
 > **Example #3:** “Manual segmentation of the tumor’s three-dimensional region of interest (ROI) was performed on the axial DCE-MRI images using the ITK-SNAP software (http://www.itksnap.org). The ROI was drawn along the tumor’s outline to include the whole lesion without the information about the LN status. The largest tumor lesion was segmented for the patients with multiple lesions in the breast. The ROI was manually segmented by a radiologist with 5 years of experience who was blinded to the lymph node status. The ROI was then confirmed and adjusted by a senior radiologist to ensure the accuracy of the segmentation. […] The maximum cross-sectional area of the tumor ROI was selected and cropped to the two-dimensional rectangular image covering the entire tumor. The tumor patch was re-sized to 224 × 224 and input to the VGG-16 model.” [4]  (licensed under CC BY)
 Also see **Figure 3**.

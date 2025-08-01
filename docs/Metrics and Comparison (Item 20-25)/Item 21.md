@@ -17,7 +17,7 @@ nav_order: 2
 >
 > 95% confidence intervals (CIs) for AUCs were calculated through bootstrapping to ensure robust statistical estimates of diagnostic performance. […]
 >
-> For GG ≥ 2 detection, sPSAD achieved an AUC of 0.73 (95% CI: 0.70–0.76), outperforming MRI-based PSAD (AUC: 0.71, 95% CI: 0.68–0.74; p < 0.001)." [2] (licensed under CC BY).
+> For GG ≥ 2 detection, sPSAD achieved an AUC of 0.73 (95% CI: 0.70–0.76), outperforming MRI-based PSAD (AUC: 0.71, 95% CI: 0.68–0.74; p < 0.001)." [2] (licensed under CC BY)
 >
 > Also see **Figure 1**.
 > 
@@ -27,17 +27,17 @@ nav_order: 2
 
 > **Example #2:** “The 95% confidence intervals were reported for each metric using bootstrap resampling (m = 1000). […]
 >
-> The AI system significantly improved physicians’ accuracy at detecting chest abnormalities across all categories (p < 0.001; unaided AUC: 0.773; aided AUC: 0.874; difference in least squares mean AUC = 0.101, 95% CI: 0.101, 0.102). Figure 3a shows the Receiver Operating Characteristic (ROC) curves when physicians were unaided and aided by the AI system. Physician sensitivity increased from 0.757 (95% CI: 0.750, 0.764) when unaided to 0.856 (95% CI: 0.850, 0.862) when aided, demonstrating that physicians had a relative reduction in missed abnormalities of 40.74%. Physician specificity increased from 0.843 (95% CI: 0.839, 0.847) when unaided to 0.870 (95% CI: 0.866, 0.873) when aided, showing that the use of the AI system did not result in physicians overcalling abnormalities, but instead assisted in correctly identifying cases with no suspicious ROIs.” [3] (licensed under CC BY).
+> The AI system significantly improved physicians’ accuracy at detecting chest abnormalities across all categories (p < 0.001; unaided AUC: 0.773; aided AUC: 0.874; difference in least squares mean AUC = 0.101, 95% CI: 0.101, 0.102). Figure 3a shows the Receiver Operating Characteristic (ROC) curves when physicians were unaided and aided by the AI system. Physician sensitivity increased from 0.757 (95% CI: 0.750, 0.764) when unaided to 0.856 (95% CI: 0.850, 0.862) when aided, demonstrating that physicians had a relative reduction in missed abnormalities of 40.74%. Physician specificity increased from 0.843 (95% CI: 0.839, 0.847) when unaided to 0.870 (95% CI: 0.866, 0.873) when aided, showing that the use of the AI system did not result in physicians overcalling abnormalities, but instead assisted in correctly identifying cases with no suspicious ROIs.” [3] (licensed under CC BY)
 
 > **Example #3:** “Both nnU-Net and our model were trained using a five-fold cross-validation scheme ensuring that two scans of the same patient are contained in the same fold. […]
 > 
-> On an independent test set, the model achieved a DSC performance of 71 ± 20 (mean ± standard deviation) for pelvic/ovarian and 61 ± 24 for omental lesions.” [4] (licensed under CC BY).
+> On an independent test set, the model achieved a DSC performance of 71 ± 20 (mean ± standard deviation) for pelvic/ovarian and 61 ± 24 for omental lesions.” [4] (licensed under CC BY)
 
 > **Example #4:** "The probability of including in the highly invasive lung cancer was calculated for all lung cancers based on nested fivefold cross-validation. […]
 >
 > The above steps were repeated 100 iterations to obtain the mean and SD of predicted probabilities. […]
 >
-> The results in the test set are shown in **[Table 1]**.” [5] (licensed under CC BY).
+> The results in the test set are shown in **[Table 1]**.” [5] (licensed under CC BY)
 > 
 > **Table 1.** “Performance of the machine learning models for the test set” [5] (licensed under CC BY).
 >

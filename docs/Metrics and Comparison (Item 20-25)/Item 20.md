@@ -26,13 +26,13 @@ nav_order: 1
 >
 >![Fig1](/METRICS-E3/figs/Item20 E2 F1.png) 
 >
-> **Figure 1.** “Confusion matrix on radiomics combined model: the two-classification in train cohort (a) and test cohort (b), the three-classification in train cohort (c) and test cohort (d), and the five-classification in train cohort (e) and test cohort (f)” [3] (licensed under CC BY).
+> **Figure 1.** “Confusion matrix on radiomics combined model: the two-classification in train cohort (a) and test cohort (b), the three-classification in train cohort (c) and test cohort (d), and the five-classification in train cohort (e) and test cohort (f)” [3] (licensed under CC BY)
 >
 >![Fig2](/METRICS-E3/figs/Item20 E2 F2.png) 
 >
-> **Figure 2.** “ROC curve on radiomics combined model: the two-classification in train cohort (a) and test cohort (b), the three-classification in train cohort (c) and test cohort (d), and the five-classification in train cohort (e) and test cohort (f)” [3] (licensed under CC BY).
+> **Figure 2.** “ROC curve on radiomics combined model: the two-classification in train cohort (a) and test cohort (b), the three-classification in train cohort (c) and test cohort (d), and the five-classification in train cohort (e) and test cohort (f)” [3] (licensed under CC BY)
 
-> **Example #3.** “We observed that the performance on the internal data strongly varied across the different ML models: when using all features, r ranged from 0.44 for the LR model to 0.73 for the RFR model, and MAE varied from a maximum of 138.0 for the LR model to a minimum of 13.9 for the RFR model” [4] (licensed under CC BY).
+> **Example #3.** “We observed that the performance on the internal data strongly varied across the different ML models: when using all features, r ranged from 0.44 for the LR model to 0.73 for the RFR model, and MAE varied from a maximum of 138.0 for the LR model to a minimum of 13.9 for the RFR model” [4] (licensed under CC BY)
 
 > **Example #4.** “The comprehensive TR and TS loss values of the EOADL-PCDC system on 80:20 of TRAP/TESP over epochs are shown in **[Figure 3]**. The TR loss states the model loss minimized over epochs. Initially, the loss value is minimized as the model adapts the weight to minimize the predictive error on the TR and TS datasets. The loss curve exhibits the level where the model fits the training dataset. The TR and TS loss reduced progressively and showed that the EOADL-PCDC method efficiently learns the patterns given in the TR and TS datasets” [5] (licensed under CC BY)
 >
