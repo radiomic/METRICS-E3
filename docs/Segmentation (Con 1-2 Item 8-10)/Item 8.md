@@ -18,7 +18,7 @@ nav_order: 4
 
 > **Example #2:** “Segmentations of the primary bladder tumors as well as all peri-iliac, obturator, and perivesical LNs on both sides were performed manually on axial CT images in the portal venous phase using the open-source Medical Imaging Interaction Toolkit (MITK, version 2018.04.2, DKFZ, Heidelberg, Germany). The segmentations were subsequently reviewed and corrected, if necessary, by a second reader with extensive experience in urogenital imaging. Both readers were blinded to the clinicopathological information. In the following, the segmentations including the area of the region of interest (bladder tumor or lymph node) are referred to as intratumoral masks. Peritumoral masks, comprising the area within a 6 mm margin around the intratumoral masks, were automatically created from manual segmentation using morphological operations from the SimpleITK library.”  [3] (licensed under CC BY)
 >
->Also see **Figure 2**.
+> Also see **Figure 2**.
 >
 >![Fig2](/METRICS-E3/figs/Item8 E2.png) 
 > 
