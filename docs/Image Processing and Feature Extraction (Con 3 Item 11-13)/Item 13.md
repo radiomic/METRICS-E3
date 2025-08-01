@@ -22,7 +22,7 @@ nav_order: 4
 >
 >![Fig1](/METRICS-E3/figs/Item13 E1 F1.png) 
 > 
-> **Figure 1.** File structure stored in the GitHub repository for the future extraction process. The radiomics extraction configuration file is shown in red (Example#1) [2] 
+> **Figure 1.** File structure stored in the GitHub repository for the future extraction process. The radiomics extraction configuration file is shown in red (Example#1) [2] (licensed under CC BY)
 
 > **Example #2:** “For comparison, generic feature sets were also extracted. Generic features depend on a discretization method in which the original intensity values are partitioned into bins. Two different methods were considered: using a fixed bin width (of 10, 25, 50, and 100 units) and using a fixed bin count (with 10, 25, 50, and 100 bins). The extracted features comprised shape, first-order, gray-level co-occurrence matrix (GLCM), gray-level run length matrix (GLRLM), gray-level size zone matrix (GLSZM), neighboring gray-tone difference matrix (NGTDM), and gray-level dependence matrix (GLDM) features. All preprocessing filters were enabled, resulting in 2016 features for each patient. PyRadiomics 3.0.1 was used for extraction. The complete list of features and other details can be found in Additional file 1 and the source code (https://github.com/aydindemircioglu/radPretrained).” [3] (licensed under CC BY)
 >
