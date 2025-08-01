@@ -20,7 +20,7 @@ nav_order: 2
 > 
 > **Figure 1.** “Patient recruitment and study workflow. CT, computed tomography; GIST, gastrointestinal stromal tumors; TKI, tyrosine kinase inhibitors” [2] (licensed under CC BY)
 
-> **Example #2:** “This study consecutively included patients from the First Affiliated Hospital of Soochow University (center 1), the Affiliated Nantong Hospital 3 of Nantong University (center 2), the Tangshan People’s Hospital (center 3), and the First People’s Hospital of Taicang (center 4) who received CE-MRI from January 2016 to October 2022. […] The patients from centers 1 and 2 were divided into a training set and internal testing set at a ratio of 8:2 via stratified random sampling, and the patients from centers 3 and 4 were used as an independent external testing set. A flowchart of patient inclusion and exclusion was shown in **[Figure 2]** in this study.” [3] (licensed under CC-BY)
+> **Example #2:** “This study consecutively included patients from the First Affiliated Hospital of Soochow University (center 1), the Affiliated Nantong Hospital 3 of Nantong University (center 2), the Tangshan People’s Hospital (center 3), and the First People’s Hospital of Taicang (center 4) who received CE-MRI from January 2016 to October 2022. […] The patients from centers 1 and 2 were divided into a training set and internal testing set at a ratio of 8:2 via stratified random sampling, and the patients from centers 3 and 4 were used as an independent external testing set. A flowchart of patient inclusion and exclusion was shown in **[Figure 2]** in this study.” [3] (licensed under CC BY)
 >
 >![Fig2](/METRICS-E3/figs/Item27 E2.png)
 >
