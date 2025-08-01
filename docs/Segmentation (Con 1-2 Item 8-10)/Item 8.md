@@ -16,15 +16,17 @@ nav_order: 4
 >
 > **Figure 1.** “Illustrations of texture features analysis. (A) Axial T2-weighted MRI image of a 45-year-old female with EC. (B) Axial T2- weighted MRI image of a 58-year-old female with MMMT.” [2] (licensed under CC BY)
 
-> **Example #2:** “Segmentations of the primary bladder tumors as well as all peri-iliac, obturator, and perivesical LNs on both sides were performed manually on axial CT images in the portal venous phase using the open-source Medical Imaging Interaction Toolkit (MITK, version 2018.04.2, DKFZ, Heidelberg, Germany). The segmentations were subsequently reviewed and corrected, if necessary, by a second reader with extensive experience in urogenital imaging. Both readers were blinded to the clinicopathological information. In the following, the segmentations including the area of the region of interest (bladder tumor or lymph node) are referred to as intratumoral masks. Peritumoral masks, comprising the area within a 6 mm margin around the intratumoral masks, were automatically created from manual segmentation using morphological operations from the SimpleITK library.”  [3] (licensed under CC BY). 
-Also see **Figure 2**.
+> **Example #2:** “Segmentations of the primary bladder tumors as well as all peri-iliac, obturator, and perivesical LNs on both sides were performed manually on axial CT images in the portal venous phase using the open-source Medical Imaging Interaction Toolkit (MITK, version 2018.04.2, DKFZ, Heidelberg, Germany). The segmentations were subsequently reviewed and corrected, if necessary, by a second reader with extensive experience in urogenital imaging. Both readers were blinded to the clinicopathological information. In the following, the segmentations including the area of the region of interest (bladder tumor or lymph node) are referred to as intratumoral masks. Peritumoral masks, comprising the area within a 6 mm margin around the intratumoral masks, were automatically created from manual segmentation using morphological operations from the SimpleITK library.”  [3] (licensed under CC BY)
+>
+>Also see **Figure 2**.
 >
 >![Fig2](/METRICS-E3/figs/Item8 E2.png) 
 > 
 > **Figure 2**. “Study design.” [3] (cropped, licensed under CC BY)
 
 > **Example #3:** “Manual segmentation of the tumor’s three-dimensional region of interest (ROI) was performed on the axial DCE-MRI images using the ITK-SNAP software (http://www.itksnap.org). The ROI was drawn along the tumor’s outline to include the whole lesion without the information about the LN status. The largest tumor lesion was segmented for the patients with multiple lesions in the breast. The ROI was manually segmented by a radiologist with 5 years of experience who was blinded to the lymph node status. The ROI was then confirmed and adjusted by a senior radiologist to ensure the accuracy of the segmentation. […] The maximum cross-sectional area of the tumor ROI was selected and cropped to the two-dimensional rectangular image covering the entire tumor. The tumor patch was re-sized to 224 × 224 and input to the VGG-16 model.” [4]  (licensed under CC BY)
-Also see **Figure 3**.
+>
+> Also see **Figure 3**.
 >
 >![Fig3](/METRICS-E3/figs/Item8 E3.png) 
 >
