@@ -10,7 +10,7 @@ nav_order: 1
 
 METRICS-E3 is the official Explanation and Elaboration document of the METhodological RadiomICs Score (METRICS). Developed by the EuSoMII Radiomics Auditing Group, METRICS-E3 is specifically crafted to help researchers deeply understand and evaluate the methodological quality of radiomics research. It provides detailed explanations, real-world positive examples from published literature, and illustrative negative examples, enhancing clarity and comprehension of each item and condition.  
 
-Explore the full METRICS-E3 statement [here]().
+Explore the full METRICS-E3 statement [here](https://insightsimaging.springeropen.com/articles/10.1186/s13244-025-02061-y).
 
 ## What is METRICS?
 
@@ -34,7 +34,7 @@ These resources collectively ensure METRICS is applied effectively and consisten
 
 ## Maximizing the Value of METRICS-E3
 
-To get the most out of METRICS-E3, we recommend reading the section titled “Recommendations for using METRICS-E3 in conjunction with the METRICS tool” in [the official METRICS-E3 publication](). This section offers general guidance on methodological scoring and provides specific recommendations for each item and condition, presented in comprehensive summary tables based on content from the METRICS-E3 project website. These can help you apply METRICS-E3 more effectively in your evaluations.
+To get the most out of METRICS-E3, we recommend reading the section titled “Recommendations for using METRICS-E3 in conjunction with the METRICS tool” in [the official METRICS-E3 publication](https://insightsimaging.springeropen.com/articles/10.1186/s13244-025-02061-y). This section offers general guidance on methodological scoring and provides specific recommendations for each item and condition, presented in comprehensive summary tables based on content from the METRICS-E3 project website. These can help you apply METRICS-E3 more effectively in your evaluations.
 
 ## Citing METRICS-E3
 
